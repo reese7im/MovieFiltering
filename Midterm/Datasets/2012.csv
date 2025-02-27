@@ -1,0 +1,5001 @@
+movieId,title,genres,ratings,year
+1,The Love Affair,Thriller,8,2011
+2,Feng Shui,Horror,2,2002
+3,Alone/Together,Thriller,2,2006
+4,My Amnesia Girl,Fantasy,5,2005
+5,Here Comes the Bride,Horror,1,2009
+6,The Hows of Us,Romance,5,2007
+7,The Love Affair,Sci-Fi,10,2004
+8,Everyday I Love You,Drama,7,2003
+9,Kimmy Dora,Romance,5,2012
+10,Seven Sundays,Action,8,2011
+11,It Takes a Man and a Woman,Thriller,5,2006
+12,A Second Chance,Comedy,1,2009
+13,Miss Granny,Sci-Fi,4,2012
+14,The Mistress,Drama,7,2011
+15,The Mistress,Horror,2,2007
+16,All About Love,Horror,3,2002
+17,Alone/Together,Horror,3,2010
+18,Feng Shui,Comedy,5,2004
+19,My Amnesia Girl,Horror,3,2006
+20,Sisterakas,Romance,8,2011
+21,Barcelona: A Love Untold,Action,8,2007
+22,Sisterakas,Fantasy,3,2006
+23,Tanging Yaman,Drama,2,2003
+24,Suddenly It's Magic,Thriller,7,2011
+25,Miss Granny,Action,10,2004
+26,Seven Sundays,Romance,9,2002
+27,The Love Affair,Action,5,2012
+28,Everything About Her,Romance,7,2002
+29,Kung Fu Divas,Action,4,2010
+30,Alone/Together,Action,5,2008
+31,Till I Met You,Sci-Fi,7,2008
+32,The Girl in the Orange Dress,Comedy,6,2002
+33,Everything About Her,Horror,10,2010
+34,Starting Over Again,Drama,6,2002
+35,Till I Met You,Romance,5,2007
+36,Everyday I Love You,Comedy,1,2002
+37,In My Life,Thriller,1,2002
+38,Feng Shui,Sci-Fi,1,2006
+39,My Amnesia Girl,Action,3,2012
+40,The Girl in the Orange Dress,Sci-Fi,4,2007
+41,It Takes a Man and a Woman,Comedy,1,2009
+42,Tanging Yaman,Drama,10,2009
+43,Sisterakas,Drama,5,2007
+44,Barcelona: A Love Untold,Drama,4,2010
+45,My Big Love,Drama,2,2004
+46,Everything About Her,Comedy,7,2009
+47,Dekada '70,Action,8,2002
+48,You Changed My Life,Action,9,2009
+49,Three Words to Forever,Sci-Fi,6,2005
+50,Praybeyt Benjamin,Romance,6,2004
+51,Four Sisters and a Wedding,Fantasy,4,2012
+52,The Breakup Playlist,Sci-Fi,7,2007
+53,Kasal Kasali Kasalo,Romance,8,2011
+54,Crazy Beautiful You,Action,7,2004
+55,The Hows of Us,Fantasy,4,2006
+56,Here Comes the Bride,Sci-Fi,1,2007
+57,Kasal Kasali Kasalo,Thriller,1,2003
+58,It Takes a Man and a Woman,Sci-Fi,4,2009
+59,Exes Baggage,Fantasy,8,2004
+60,Crazy Beautiful You,Romance,8,2002
+61,Suddenly It's Magic,Thriller,5,2010
+62,Till I Met You,Comedy,4,2004
+63,Seven Sundays,Sci-Fi,4,2011
+64,The Mistress,Horror,5,2006
+65,Barcelona: A Love Untold,Thriller,4,2008
+66,Praybeyt Benjamin,Drama,9,2012
+67,The Healing,Romance,3,2005
+68,My Big Love,Horror,5,2004
+69,Kimmy Dora,Thriller,8,2004
+70,Praybeyt Benjamin,Romance,6,2009
+71,Sisterakas,Thriller,2,2004
+72,Seven Sundays,Drama,6,2006
+73,Three Words to Forever,Sci-Fi,3,2009
+74,The Love Affair,Sci-Fi,4,2010
+75,A Second Chance,Horror,4,2006
+76,My Big Love,Sci-Fi,4,2006
+77,The Unmarried Wife,Romance,7,2011
+78,You're Still The One,Fantasy,10,2004
+79,You Changed My Life,Drama,5,2007
+80,Love You to the Stars and Back,Horror,2,2012
+81,Crazy Beautiful You,Sci-Fi,7,2004
+82,My Amnesia Girl,Romance,2,2003
+83,A Very Special Love,Comedy,6,2010
+84,Close to You,Thriller,7,2005
+85,The Mistress,Sci-Fi,3,2003
+86,The Healing,Sci-Fi,7,2007
+87,The Unmarried Wife,Sci-Fi,8,2004
+88,Sukob,Drama,1,2003
+89,Everything About Her,Thriller,4,2006
+90,Miss Granny,Romance,4,2005
+91,The Breakup Playlist,Action,1,2007
+92,Everything About Her,Thriller,8,2008
+93,My Ex and Whys,Romance,3,2009
+94,Sisterakas,Horror,8,2012
+95,Ang Tanging Ina,Fantasy,2,2006
+96,A Second Chance,Horror,4,2009
+97,The Unmarried Wife,Comedy,5,2008
+98,Exes Baggage,Action,8,2011
+99,Kasal Kasali Kasalo,Fantasy,10,2007
+100,Sukob,Romance,1,2011
+101,Tanging Yaman,Horror,8,2009
+102,The Love Affair,Fantasy,7,2006
+103,Here Comes the Bride,Horror,3,2004
+104,Alone/Together,Romance,8,2012
+105,Starting Over Again,Comedy,8,2012
+106,The Mistress,Horror,1,2008
+107,My Amnesia Girl,Comedy,3,2010
+108,One More Chance,Fantasy,4,2004
+109,Barcelona: A Love Untold,Drama,6,2003
+110,Crazy Beautiful You,Horror,4,2010
+111,She's Dating the Gangster,Action,1,2009
+112,Suddenly It's Magic,Drama,5,2005
+113,Feng Shui,Comedy,6,2012
+114,Here Comes the Bride,Comedy,7,2007
+115,Love You to the Stars and Back,Comedy,7,2008
+116,Exes Baggage,Thriller,9,2007
+117,You're Still The One,Fantasy,5,2004
+118,Close to You,Sci-Fi,8,2009
+119,No Other Woman,Action,1,2009
+120,Dekada '70,Comedy,2,2006
+121,Alone/Together,Comedy,5,2005
+122,One More Chance,Comedy,5,2010
+123,Kasal Kasali Kasalo,Romance,10,2003
+124,She's the One,Sci-Fi,10,2007
+125,The Breakup Playlist,Thriller,10,2004
+126,She's the One,Sci-Fi,1,2012
+127,She's the One,Fantasy,7,2002
+128,Starting Over Again,Horror,8,2003
+129,The Girl in the Orange Dress,Thriller,9,2007
+130,Tanging Yaman,Action,4,2009
+131,The Love Affair,Horror,9,2004
+132,The Unmarried Wife,Drama,6,2004
+133,My Amnesia Girl,Horror,5,2009
+134,The Girl in the Orange Dress,Drama,4,2003
+135,Ex with Benefits,Thriller,2,2002
+136,Praybeyt Benjamin,Sci-Fi,6,2004
+137,The Unmarried Wife,Romance,6,2011
+138,Love You to the Stars and Back,Fantasy,4,2005
+139,Kimmy Dora,Comedy,8,2004
+140,All About Love,Fantasy,5,2005
+141,The Girl in the Orange Dress,Thriller,7,2007
+142,Everyday I Love You,Horror,7,2004
+143,Can't Help Falling In Love,Horror,3,2004
+144,She's Dating the Gangster,Horror,10,2007
+145,It Takes a Man and a Woman,Horror,5,2012
+146,Everything About Her,Comedy,9,2007
+147,It Takes a Man and a Woman,Thriller,1,2008
+148,Till I Met You,Drama,1,2003
+149,Exes Baggage,Action,1,2009
+150,The Unmarried Wife,Comedy,9,2003
+151,Everyday I Love You,Romance,6,2005
+152,Praybeyt Benjamin,Horror,9,2009
+153,Three Words to Forever,Drama,8,2011
+154,Kasal Kasali Kasalo,Horror,8,2003
+155,Four Sisters and a Wedding,Romance,9,2002
+156,Bride for Rent,Drama,9,2004
+157,My Ex and Whys,Comedy,2,2005
+158,Can't Help Falling In Love,Romance,6,2011
+159,Love You to the Stars and Back,Fantasy,3,2010
+160,My Amnesia Girl,Sci-Fi,10,2007
+161,Sukob,Action,3,2005
+162,A Very Special Love,Fantasy,8,2010
+163,Suddenly It's Magic,Drama,1,2002
+164,In My Life,Horror,1,2011
+165,The Love Affair,Sci-Fi,2,2008
+166,The Achy Breaky Hearts,Horror,4,2007
+167,Can't Help Falling In Love,Comedy,9,2012
+168,My Amnesia Girl,Action,9,2008
+169,One More Chance,Thriller,3,2005
+170,Crazy Beautiful You,Action,7,2003
+171,My Amnesia Girl,Drama,2,2008
+172,Ex with Benefits,Sci-Fi,1,2009
+173,The Mistress,Action,7,2011
+174,All About Love,Thriller,6,2012
+175,Barcelona: A Love Untold,Romance,7,2011
+176,The Hows of Us,Thriller,8,2012
+177,The Mistress,Comedy,4,2002
+178,Ang Tanging Ina,Drama,8,2009
+179,Barcelona: A Love Untold,Horror,6,2009
+180,The Love Affair,Thriller,7,2012
+181,Barcelona: A Love Untold,Sci-Fi,2,2011
+182,Three Words to Forever,Action,10,2012
+183,Alone/Together,Fantasy,2,2003
+184,The Achy Breaky Hearts,Romance,6,2005
+185,Three Words to Forever,Sci-Fi,9,2008
+186,Starting Over Again,Action,10,2007
+187,Kasal Kasali Kasalo,Sci-Fi,1,2005
+188,One More Chance,Horror,9,2009
+189,The Achy Breaky Hearts,Drama,5,2003
+190,It Takes a Man and a Woman,Sci-Fi,3,2008
+191,Till I Met You,Thriller,6,2012
+192,The Unmarried Wife,Romance,7,2005
+193,Barcelona: A Love Untold,Comedy,1,2008
+194,The Hows of Us,Fantasy,1,2006
+195,Praybeyt Benjamin,Action,3,2010
+196,Everything About Her,Drama,9,2007
+197,My Ex and Whys,Thriller,3,2012
+198,Suddenly It's Magic,Fantasy,8,2008
+199,You're Still The One,Sci-Fi,5,2006
+200,Miss Granny,Drama,6,2007
+201,The Mistress,Horror,9,2002
+202,My Ex and Whys,Romance,3,2008
+203,Three Words to Forever,Sci-Fi,2,2003
+204,One More Chance,Comedy,3,2005
+205,Sisterakas,Action,4,2007
+206,Here Comes the Bride,Horror,1,2008
+207,The Achy Breaky Hearts,Thriller,6,2010
+208,Tanging Yaman,Sci-Fi,6,2010
+209,A Very Special Love,Drama,4,2012
+210,Everyday I Love You,Thriller,6,2010
+211,Kung Fu Divas,Comedy,9,2009
+212,Close to You,Comedy,6,2008
+213,My Ex and Whys,Drama,9,2012
+214,My Ex and Whys,Comedy,3,2008
+215,She's the One,Fantasy,10,2008
+216,Seven Sundays,Comedy,3,2008
+217,The Girl in the Orange Dress,Thriller,1,2011
+218,Ang Tanging Ina,Romance,6,2005
+219,You Changed My Life,Drama,2,2002
+220,The Healing,Horror,7,2007
+221,Alone/Together,Fantasy,2,2009
+222,Everything About Her,Horror,9,2004
+223,Exes Baggage,Thriller,8,2005
+224,The Love Affair,Comedy,5,2009
+225,A Very Special Love,Comedy,4,2011
+226,Ang Tanging Ina,Thriller,9,2007
+227,Here Comes the Bride,Sci-Fi,10,2011
+228,She's the One,Sci-Fi,4,2006
+229,Miss Granny,Drama,10,2009
+230,The Healing,Drama,8,2011
+231,No Other Woman,Horror,5,2003
+232,The Breakup Playlist,Drama,3,2012
+233,My Amnesia Girl,Romance,4,2007
+234,Alone/Together,Fantasy,4,2004
+235,Till I Met You,Sci-Fi,6,2011
+236,Starting Over Again,Thriller,7,2004
+237,Kimmy Dora,Horror,3,2011
+238,Seven Sundays,Romance,8,2004
+239,Four Sisters and a Wedding,Fantasy,9,2004
+240,Ex with Benefits,Romance,8,2007
+241,My Big Love,Horror,8,2003
+242,My Ex and Whys,Sci-Fi,5,2009
+243,The Girl in the Orange Dress,Fantasy,7,2007
+244,Miss Granny,Sci-Fi,5,2003
+245,A Second Chance,Thriller,10,2007
+246,Sisterakas,Thriller,2,2009
+247,Kasal Kasali Kasalo,Drama,8,2005
+248,A Very Special Love,Action,6,2007
+249,My Ex and Whys,Fantasy,2,2008
+250,A Very Special Love,Sci-Fi,5,2004
+251,My Amnesia Girl,Sci-Fi,9,2003
+252,Bride for Rent,Drama,8,2004
+253,You're Still The One,Sci-Fi,4,2007
+254,Feng Shui,Comedy,9,2002
+255,She's Dating the Gangster,Action,8,2012
+256,Crazy Beautiful You,Fantasy,3,2005
+257,Kimmy Dora,Thriller,3,2009
+258,A Very Special Love,Drama,9,2003
+259,Seven Sundays,Comedy,3,2006
+260,No Other Woman,Comedy,8,2004
+261,The Girl in the Orange Dress,Fantasy,8,2009
+262,My Amnesia Girl,Romance,7,2004
+263,The Achy Breaky Hearts,Action,3,2004
+264,Sukob,Fantasy,1,2012
+265,One More Chance,Sci-Fi,7,2002
+266,The Love Affair,Drama,3,2007
+267,Bride for Rent,Action,9,2012
+268,My Amnesia Girl,Romance,1,2010
+269,The Girl in the Orange Dress,Horror,5,2007
+270,No Other Woman,Thriller,4,2011
+271,A Very Special Love,Fantasy,2,2009
+272,The Mistress,Horror,5,2009
+273,Bride for Rent,Drama,7,2004
+274,The Unmarried Wife,Comedy,10,2012
+275,Dekada '70,Sci-Fi,6,2002
+276,You're Still The One,Action,10,2006
+277,Four Sisters and a Wedding,Fantasy,1,2006
+278,Kimmy Dora,Sci-Fi,8,2008
+279,Kung Fu Divas,Drama,9,2003
+280,Ang Tanging Ina,Horror,1,2011
+281,Sisterakas,Action,7,2003
+282,The Unmarried Wife,Drama,9,2011
+283,Kung Fu Divas,Thriller,3,2004
+284,Ex with Benefits,Thriller,5,2012
+285,The Unmarried Wife,Drama,1,2011
+286,Love You to the Stars and Back,Comedy,2,2008
+287,No Other Woman,Sci-Fi,2,2004
+288,In My Life,Comedy,3,2011
+289,The Hows of Us,Fantasy,2,2002
+290,The Achy Breaky Hearts,Comedy,1,2002
+291,Ang Tanging Ina,Thriller,8,2002
+292,Alone/Together,Action,8,2007
+293,Here Comes the Bride,Drama,4,2008
+294,All About Love,Thriller,3,2007
+295,The Hows of Us,Action,4,2010
+296,The Girl in the Orange Dress,Comedy,6,2005
+297,Kung Fu Divas,Thriller,7,2003
+298,Praybeyt Benjamin,Thriller,8,2004
+299,The Breakup Playlist,Comedy,4,2007
+300,Dekada '70,Action,1,2010
+301,Starting Over Again,Comedy,5,2008
+302,In My Life,Action,1,2003
+303,Till I Met You,Action,1,2012
+304,Praybeyt Benjamin,Comedy,5,2011
+305,The Breakup Playlist,Comedy,7,2006
+306,Miss Granny,Drama,7,2008
+307,The Achy Breaky Hearts,Thriller,3,2009
+308,Three Words to Forever,Sci-Fi,1,2005
+309,Barcelona: A Love Untold,Sci-Fi,5,2006
+310,Love You to the Stars and Back,Fantasy,9,2004
+311,The Healing,Sci-Fi,6,2007
+312,Seven Sundays,Comedy,9,2011
+313,Feng Shui,Thriller,10,2011
+314,Crazy Beautiful You,Horror,10,2012
+315,Everything About Her,Sci-Fi,6,2009
+316,Ang Tanging Ina,Drama,5,2002
+317,The Unmarried Wife,Romance,7,2004
+318,Four Sisters and a Wedding,Comedy,6,2003
+319,Four Sisters and a Wedding,Comedy,3,2008
+320,It Takes a Man and a Woman,Romance,7,2006
+321,Kung Fu Divas,Romance,9,2007
+322,The Healing,Horror,9,2012
+323,It Takes a Man and a Woman,Drama,2,2002
+324,The Healing,Fantasy,3,2010
+325,Exes Baggage,Comedy,7,2012
+326,A Second Chance,Action,9,2008
+327,Starting Over Again,Comedy,3,2011
+328,You Changed My Life,Thriller,7,2007
+329,Close to You,Romance,3,2003
+330,Dekada '70,Fantasy,1,2009
+331,Three Words to Forever,Sci-Fi,4,2009
+332,It Takes a Man and a Woman,Fantasy,3,2009
+333,Kimmy Dora,Romance,10,2007
+334,Here Comes the Bride,Comedy,10,2003
+335,A Very Special Love,Fantasy,10,2004
+336,Tanging Yaman,Comedy,7,2007
+337,Three Words to Forever,Sci-Fi,3,2005
+338,The Healing,Horror,6,2012
+339,The Achy Breaky Hearts,Drama,2,2009
+340,The Achy Breaky Hearts,Drama,3,2008
+341,Miss Granny,Thriller,5,2008
+342,The Mistress,Sci-Fi,2,2004
+343,She's the One,Action,10,2012
+344,All About Love,Sci-Fi,10,2006
+345,My Ex and Whys,Drama,6,2010
+346,Can't Help Falling In Love,Horror,2,2012
+347,All About Love,Horror,7,2010
+348,Ex with Benefits,Romance,9,2011
+349,Sisterakas,Drama,10,2008
+350,A Second Chance,Horror,8,2002
+351,Feng Shui,Sci-Fi,4,2002
+352,In My Life,Horror,7,2004
+353,Miss Granny,Thriller,10,2010
+354,Can't Help Falling In Love,Horror,2,2002
+355,In My Life,Romance,3,2011
+356,The Unmarried Wife,Horror,10,2009
+357,Here Comes the Bride,Horror,7,2011
+358,A Very Special Love,Drama,8,2006
+359,Praybeyt Benjamin,Action,5,2004
+360,Ex with Benefits,Thriller,2,2011
+361,Feng Shui,Sci-Fi,10,2011
+362,Three Words to Forever,Romance,2,2008
+363,Three Words to Forever,Comedy,9,2008
+364,The Love Affair,Action,4,2011
+365,The Healing,Action,2,2007
+366,Close to You,Comedy,10,2010
+367,Ex with Benefits,Romance,9,2003
+368,My Ex and Whys,Sci-Fi,6,2008
+369,Miss Granny,Comedy,3,2005
+370,She's Dating the Gangster,Action,8,2007
+371,Bride for Rent,Sci-Fi,5,2002
+372,Tanging Yaman,Sci-Fi,4,2012
+373,Ang Tanging Ina,Thriller,6,2008
+374,Kasal Kasali Kasalo,Romance,9,2004
+375,The Love Affair,Horror,6,2002
+376,The Love Affair,Romance,7,2004
+377,Love You to the Stars and Back,Drama,9,2010
+378,The Love Affair,Comedy,6,2005
+379,It Takes a Man and a Woman,Horror,8,2011
+380,Close to You,Thriller,9,2004
+381,Three Words to Forever,Drama,2,2003
+382,Kasal Kasali Kasalo,Horror,2,2012
+383,The Achy Breaky Hearts,Thriller,8,2011
+384,Praybeyt Benjamin,Sci-Fi,3,2009
+385,Exes Baggage,Horror,4,2007
+386,My Big Love,Drama,3,2012
+387,Ex with Benefits,Drama,5,2007
+388,The Hows of Us,Horror,6,2002
+389,My Big Love,Action,6,2005
+390,Sukob,Action,7,2008
+391,My Ex and Whys,Comedy,1,2009
+392,Miss Granny,Thriller,2,2002
+393,Praybeyt Benjamin,Comedy,6,2008
+394,Seven Sundays,Romance,6,2005
+395,Three Words to Forever,Comedy,6,2009
+396,Can't Help Falling In Love,Action,1,2008
+397,My Big Love,Sci-Fi,5,2003
+398,Sisterakas,Drama,3,2008
+399,Praybeyt Benjamin,Fantasy,10,2002
+400,My Big Love,Action,3,2007
+401,Barcelona: A Love Untold,Action,4,2012
+402,Four Sisters and a Wedding,Thriller,5,2004
+403,The Mistress,Romance,3,2002
+404,In My Life,Thriller,10,2012
+405,Ang Tanging Ina,Comedy,4,2008
+406,Sukob,Drama,6,2010
+407,The Girl in the Orange Dress,Fantasy,1,2009
+408,She's the One,Sci-Fi,10,2003
+409,In My Life,Drama,8,2002
+410,Can't Help Falling In Love,Drama,1,2004
+411,Tanging Yaman,Romance,8,2009
+412,A Second Chance,Horror,3,2003
+413,No Other Woman,Action,7,2004
+414,You're Still The One,Thriller,9,2003
+415,Till I Met You,Fantasy,5,2007
+416,Exes Baggage,Action,6,2004
+417,It Takes a Man and a Woman,Romance,1,2002
+418,Kasal Kasali Kasalo,Romance,8,2004
+419,Four Sisters and a Wedding,Horror,10,2011
+420,The Love Affair,Drama,4,2012
+421,The Girl in the Orange Dress,Action,2,2003
+422,Kasal Kasali Kasalo,Horror,9,2004
+423,Dekada '70,Drama,4,2006
+424,Sukob,Thriller,5,2005
+425,All About Love,Drama,4,2008
+426,In My Life,Thriller,2,2005
+427,A Very Special Love,Romance,10,2007
+428,Sukob,Sci-Fi,8,2002
+429,Miss Granny,Sci-Fi,6,2009
+430,The Love Affair,Romance,2,2006
+431,In My Life,Sci-Fi,10,2008
+432,Close to You,Romance,8,2009
+433,My Big Love,Horror,4,2005
+434,My Amnesia Girl,Sci-Fi,5,2012
+435,A Second Chance,Sci-Fi,8,2010
+436,Love You to the Stars and Back,Romance,6,2002
+437,Miss Granny,Thriller,1,2004
+438,She's Dating the Gangster,Romance,4,2010
+439,A Second Chance,Comedy,3,2003
+440,Crazy Beautiful You,Drama,7,2003
+441,Everyday I Love You,Thriller,6,2008
+442,Tanging Yaman,Fantasy,9,2010
+443,Alone/Together,Fantasy,10,2009
+444,The Healing,Romance,10,2005
+445,My Amnesia Girl,Horror,1,2012
+446,Close to You,Action,4,2005
+447,A Very Special Love,Romance,3,2006
+448,My Ex and Whys,Fantasy,8,2002
+449,She's the One,Comedy,7,2011
+450,My Amnesia Girl,Thriller,1,2010
+451,My Ex and Whys,Sci-Fi,8,2005
+452,Four Sisters and a Wedding,Drama,3,2006
+453,Seven Sundays,Horror,3,2005
+454,The Hows of Us,Horror,2,2002
+455,Dekada '70,Drama,6,2006
+456,Ang Tanging Ina,Romance,2,2003
+457,You're Still The One,Drama,2,2012
+458,Crazy Beautiful You,Horror,5,2011
+459,The Mistress,Romance,1,2005
+460,The Girl in the Orange Dress,Romance,1,2012
+461,The Healing,Horror,10,2012
+462,The Breakup Playlist,Action,2,2012
+463,Barcelona: A Love Untold,Comedy,4,2006
+464,My Big Love,Romance,3,2012
+465,Can't Help Falling In Love,Fantasy,1,2006
+466,Dekada '70,Sci-Fi,7,2009
+467,Three Words to Forever,Comedy,1,2002
+468,My Ex and Whys,Comedy,3,2005
+469,You're Still The One,Action,7,2012
+470,Can't Help Falling In Love,Action,4,2002
+471,Crazy Beautiful You,Romance,7,2012
+472,My Amnesia Girl,Sci-Fi,3,2011
+473,You're Still The One,Thriller,4,2007
+474,A Very Special Love,Comedy,3,2006
+475,Exes Baggage,Action,4,2005
+476,Kimmy Dora,Comedy,8,2002
+477,Exes Baggage,Thriller,8,2012
+478,Can't Help Falling In Love,Fantasy,6,2004
+479,In My Life,Action,3,2007
+480,Sukob,Horror,1,2006
+481,Tanging Yaman,Sci-Fi,2,2006
+482,The Healing,Action,4,2009
+483,The Hows of Us,Horror,9,2012
+484,Alone/Together,Thriller,4,2006
+485,Feng Shui,Fantasy,9,2008
+486,My Ex and Whys,Action,6,2003
+487,Kasal Kasali Kasalo,Sci-Fi,4,2011
+488,Crazy Beautiful You,Thriller,1,2009
+489,Bride for Rent,Thriller,10,2008
+490,It Takes a Man and a Woman,Sci-Fi,1,2003
+491,Alone/Together,Action,7,2006
+492,Feng Shui,Comedy,9,2006
+493,Three Words to Forever,Horror,6,2009
+494,Seven Sundays,Thriller,4,2007
+495,My Amnesia Girl,Action,1,2008
+496,Ex with Benefits,Fantasy,1,2009
+497,Here Comes the Bride,Drama,5,2007
+498,The Unmarried Wife,Comedy,6,2004
+499,The Girl in the Orange Dress,Thriller,7,2011
+500,Everything About Her,Horror,9,2006
+501,She's Dating the Gangster,Fantasy,9,2007
+502,The Achy Breaky Hearts,Action,10,2003
+503,My Amnesia Girl,Action,8,2005
+504,The Unmarried Wife,Fantasy,1,2012
+505,Everyday I Love You,Romance,4,2002
+506,Close to You,Drama,6,2003
+507,Bride for Rent,Romance,5,2009
+508,Kasal Kasali Kasalo,Sci-Fi,1,2004
+509,Four Sisters and a Wedding,Action,8,2008
+510,Three Words to Forever,Comedy,2,2004
+511,One More Chance,Comedy,9,2005
+512,One More Chance,Horror,2,2002
+513,Praybeyt Benjamin,Drama,4,2004
+514,My Big Love,Sci-Fi,4,2003
+515,The Healing,Thriller,3,2011
+516,Barcelona: A Love Untold,Sci-Fi,1,2010
+517,All About Love,Fantasy,10,2006
+518,Sisterakas,Horror,5,2002
+519,Exes Baggage,Comedy,9,2007
+520,Here Comes the Bride,Horror,4,2003
+521,No Other Woman,Sci-Fi,2,2003
+522,Sisterakas,Sci-Fi,4,2010
+523,Kasal Kasali Kasalo,Thriller,6,2008
+524,Kasal Kasali Kasalo,Thriller,3,2004
+525,Sisterakas,Romance,1,2012
+526,One More Chance,Drama,7,2008
+527,Crazy Beautiful You,Action,5,2008
+528,Ex with Benefits,Horror,9,2007
+529,Exes Baggage,Romance,1,2011
+530,Starting Over Again,Thriller,2,2006
+531,Tanging Yaman,Sci-Fi,4,2004
+532,Love You to the Stars and Back,Fantasy,2,2005
+533,The Unmarried Wife,Horror,2,2010
+534,Kasal Kasali Kasalo,Drama,9,2011
+535,Kung Fu Divas,Fantasy,4,2002
+536,Kimmy Dora,Romance,2,2012
+537,Exes Baggage,Sci-Fi,2,2005
+538,Exes Baggage,Thriller,2,2011
+539,My Ex and Whys,Fantasy,9,2003
+540,The Unmarried Wife,Comedy,2,2004
+541,Close to You,Comedy,4,2007
+542,Alone/Together,Drama,6,2002
+543,She's Dating the Gangster,Action,3,2009
+544,Miss Granny,Fantasy,8,2002
+545,My Ex and Whys,Horror,10,2002
+546,My Ex and Whys,Fantasy,9,2009
+547,In My Life,Fantasy,2,2005
+548,A Second Chance,Romance,7,2009
+549,The Hows of Us,Horror,5,2011
+550,Bride for Rent,Fantasy,3,2012
+551,Crazy Beautiful You,Action,7,2007
+552,Tanging Yaman,Action,5,2011
+553,You're Still The One,Horror,4,2005
+554,My Big Love,Drama,10,2012
+555,Here Comes the Bride,Drama,8,2005
+556,Tanging Yaman,Action,7,2002
+557,Suddenly It's Magic,Horror,2,2010
+558,Sukob,Drama,8,2010
+559,The Unmarried Wife,Comedy,8,2006
+560,No Other Woman,Action,8,2011
+561,Three Words to Forever,Horror,7,2010
+562,You Changed My Life,Thriller,7,2006
+563,No Other Woman,Fantasy,5,2008
+564,The Girl in the Orange Dress,Thriller,4,2008
+565,Ex with Benefits,Sci-Fi,4,2007
+566,The Healing,Fantasy,2,2005
+567,Ex with Benefits,Action,2,2003
+568,No Other Woman,Romance,6,2003
+569,Barcelona: A Love Untold,Fantasy,4,2012
+570,You Changed My Life,Sci-Fi,5,2007
+571,Alone/Together,Fantasy,7,2007
+572,The Mistress,Action,5,2003
+573,Seven Sundays,Horror,1,2011
+574,Starting Over Again,Sci-Fi,1,2009
+575,Till I Met You,Sci-Fi,1,2004
+576,My Big Love,Romance,3,2008
+577,It Takes a Man and a Woman,Drama,3,2007
+578,The Healing,Drama,8,2002
+579,Barcelona: A Love Untold,Fantasy,9,2009
+580,The Love Affair,Comedy,6,2012
+581,You're Still The One,Thriller,5,2002
+582,Seven Sundays,Action,6,2002
+583,All About Love,Thriller,3,2006
+584,Crazy Beautiful You,Fantasy,6,2007
+585,A Very Special Love,Romance,1,2006
+586,All About Love,Action,2,2006
+587,The Hows of Us,Action,2,2002
+588,My Ex and Whys,Sci-Fi,7,2008
+589,The Achy Breaky Hearts,Drama,3,2004
+590,No Other Woman,Comedy,10,2010
+591,My Amnesia Girl,Comedy,1,2011
+592,Till I Met You,Romance,8,2005
+593,Suddenly It's Magic,Horror,9,2009
+594,Everything About Her,Romance,10,2012
+595,You Changed My Life,Comedy,9,2005
+596,In My Life,Thriller,7,2005
+597,Tanging Yaman,Horror,10,2006
+598,Love You to the Stars and Back,Sci-Fi,2,2005
+599,My Ex and Whys,Comedy,2,2009
+600,Alone/Together,Horror,4,2008
+601,Three Words to Forever,Action,7,2011
+602,Miss Granny,Thriller,3,2010
+603,Kimmy Dora,Action,9,2011
+604,The Love Affair,Romance,3,2009
+605,You're Still The One,Sci-Fi,5,2011
+606,Tanging Yaman,Romance,1,2003
+607,The Breakup Playlist,Thriller,9,2004
+608,The Girl in the Orange Dress,Action,5,2002
+609,Bride for Rent,Fantasy,10,2003
+610,Kasal Kasali Kasalo,Sci-Fi,4,2002
+611,Everyday I Love You,Romance,9,2012
+612,Exes Baggage,Drama,6,2007
+613,Kasal Kasali Kasalo,Thriller,1,2009
+614,The Achy Breaky Hearts,Sci-Fi,3,2007
+615,Can't Help Falling In Love,Action,4,2011
+616,Crazy Beautiful You,Comedy,7,2005
+617,The Mistress,Comedy,7,2012
+618,The Mistress,Horror,4,2006
+619,All About Love,Thriller,4,2009
+620,The Unmarried Wife,Horror,8,2008
+621,The Breakup Playlist,Comedy,5,2009
+622,One More Chance,Action,6,2009
+623,My Ex and Whys,Horror,2,2008
+624,No Other Woman,Comedy,3,2007
+625,A Second Chance,Horror,6,2012
+626,Tanging Yaman,Action,1,2008
+627,Crazy Beautiful You,Comedy,2,2012
+628,Kimmy Dora,Romance,2,2002
+629,Crazy Beautiful You,Drama,4,2007
+630,She's Dating the Gangster,Drama,1,2012
+631,Kung Fu Divas,Sci-Fi,3,2008
+632,The Achy Breaky Hearts,Drama,10,2008
+633,All About Love,Horror,6,2004
+634,Everyday I Love You,Horror,10,2007
+635,The Healing,Action,2,2008
+636,A Second Chance,Thriller,8,2008
+637,One More Chance,Horror,10,2004
+638,The Mistress,Horror,7,2012
+639,My Ex and Whys,Sci-Fi,7,2010
+640,The Unmarried Wife,Romance,10,2009
+641,Bride for Rent,Sci-Fi,10,2005
+642,No Other Woman,Sci-Fi,1,2009
+643,My Ex and Whys,Fantasy,4,2008
+644,She's the One,Horror,10,2003
+645,Praybeyt Benjamin,Action,4,2002
+646,Ang Tanging Ina,Thriller,2,2006
+647,My Amnesia Girl,Horror,7,2008
+648,Alone/Together,Horror,6,2010
+649,The Hows of Us,Romance,4,2005
+650,Feng Shui,Action,1,2011
+651,The Love Affair,Fantasy,2,2012
+652,Ex with Benefits,Horror,4,2011
+653,She's Dating the Gangster,Action,3,2007
+654,Dekada '70,Drama,1,2007
+655,The Love Affair,Sci-Fi,3,2008
+656,Ex with Benefits,Thriller,2,2004
+657,The Love Affair,Action,4,2009
+658,You're Still The One,Action,9,2010
+659,Sisterakas,Romance,10,2006
+660,In My Life,Comedy,7,2008
+661,Four Sisters and a Wedding,Sci-Fi,5,2004
+662,Love You to the Stars and Back,Sci-Fi,2,2005
+663,Starting Over Again,Thriller,4,2006
+664,My Ex and Whys,Drama,4,2010
+665,No Other Woman,Fantasy,6,2008
+666,Exes Baggage,Comedy,9,2010
+667,Everything About Her,Drama,10,2011
+668,In My Life,Thriller,6,2009
+669,All About Love,Action,7,2007
+670,Three Words to Forever,Fantasy,7,2008
+671,One More Chance,Horror,8,2011
+672,You're Still The One,Comedy,9,2006
+673,You Changed My Life,Drama,2,2002
+674,My Amnesia Girl,Drama,10,2008
+675,In My Life,Sci-Fi,4,2008
+676,Ang Tanging Ina,Thriller,8,2003
+677,Sisterakas,Drama,8,2005
+678,Bride for Rent,Fantasy,5,2007
+679,Bride for Rent,Horror,8,2011
+680,In My Life,Sci-Fi,8,2008
+681,Love You to the Stars and Back,Thriller,1,2003
+682,A Second Chance,Sci-Fi,9,2006
+683,Dekada '70,Action,7,2011
+684,Miss Granny,Horror,6,2011
+685,The Girl in the Orange Dress,Action,6,2005
+686,Ang Tanging Ina,Sci-Fi,9,2009
+687,My Big Love,Comedy,10,2002
+688,You're Still The One,Horror,4,2009
+689,Barcelona: A Love Untold,Thriller,8,2003
+690,Barcelona: A Love Untold,Drama,2,2008
+691,One More Chance,Fantasy,2,2003
+692,Suddenly It's Magic,Drama,2,2009
+693,The Breakup Playlist,Action,7,2012
+694,Kung Fu Divas,Action,1,2005
+695,Love You to the Stars and Back,Romance,10,2006
+696,Everyday I Love You,Drama,5,2008
+697,It Takes a Man and a Woman,Horror,7,2003
+698,You're Still The One,Action,7,2011
+699,Can't Help Falling In Love,Comedy,6,2005
+700,The Achy Breaky Hearts,Comedy,10,2004
+701,Ang Tanging Ina,Romance,7,2002
+702,Seven Sundays,Fantasy,3,2005
+703,Sisterakas,Action,6,2003
+704,In My Life,Fantasy,3,2004
+705,It Takes a Man and a Woman,Thriller,9,2007
+706,Sisterakas,Action,4,2003
+707,One More Chance,Horror,5,2011
+708,Love You to the Stars and Back,Romance,5,2008
+709,She's the One,Horror,8,2007
+710,The Achy Breaky Hearts,Romance,7,2004
+711,The Girl in the Orange Dress,Thriller,6,2009
+712,Dekada '70,Action,9,2007
+713,A Very Special Love,Comedy,1,2011
+714,The Unmarried Wife,Drama,6,2002
+715,A Very Special Love,Sci-Fi,7,2005
+716,Tanging Yaman,Action,10,2005
+717,Bride for Rent,Fantasy,1,2006
+718,The Hows of Us,Fantasy,7,2009
+719,The Girl in the Orange Dress,Romance,7,2003
+720,The Mistress,Horror,8,2007
+721,My Amnesia Girl,Romance,3,2010
+722,Four Sisters and a Wedding,Sci-Fi,6,2010
+723,A Second Chance,Fantasy,3,2004
+724,A Very Special Love,Fantasy,3,2009
+725,Close to You,Horror,3,2012
+726,Alone/Together,Romance,10,2012
+727,A Second Chance,Drama,5,2004
+728,Love You to the Stars and Back,Romance,5,2005
+729,Praybeyt Benjamin,Sci-Fi,2,2005
+730,Barcelona: A Love Untold,Fantasy,10,2009
+731,No Other Woman,Comedy,9,2008
+732,My Amnesia Girl,Action,9,2007
+733,She's Dating the Gangster,Sci-Fi,3,2010
+734,Miss Granny,Fantasy,10,2007
+735,Close to You,Comedy,8,2002
+736,One More Chance,Drama,4,2008
+737,You're Still The One,Drama,2,2012
+738,Kung Fu Divas,Romance,10,2004
+739,A Very Special Love,Romance,5,2003
+740,The Breakup Playlist,Horror,2,2011
+741,My Amnesia Girl,Action,6,2008
+742,One More Chance,Fantasy,7,2012
+743,Suddenly It's Magic,Thriller,9,2002
+744,Close to You,Romance,8,2004
+745,The Mistress,Sci-Fi,9,2012
+746,You Changed My Life,Thriller,1,2012
+747,Everyday I Love You,Horror,8,2010
+748,The Hows of Us,Fantasy,4,2008
+749,A Very Special Love,Sci-Fi,2,2011
+750,The Love Affair,Drama,9,2007
+751,The Hows of Us,Sci-Fi,1,2011
+752,My Ex and Whys,Romance,10,2009
+753,She's Dating the Gangster,Sci-Fi,4,2007
+754,Till I Met You,Comedy,1,2008
+755,In My Life,Comedy,7,2011
+756,One More Chance,Action,3,2008
+757,Till I Met You,Comedy,1,2009
+758,Ang Tanging Ina,Action,10,2007
+759,Ex with Benefits,Horror,8,2002
+760,The Unmarried Wife,Comedy,9,2002
+761,Miss Granny,Sci-Fi,7,2008
+762,Sukob,Action,6,2011
+763,Till I Met You,Romance,9,2006
+764,Feng Shui,Sci-Fi,1,2007
+765,Ex with Benefits,Horror,2,2004
+766,Ex with Benefits,Action,8,2008
+767,Close to You,Drama,4,2009
+768,Praybeyt Benjamin,Romance,6,2011
+769,The Achy Breaky Hearts,Action,8,2007
+770,Can't Help Falling In Love,Action,1,2006
+771,Suddenly It's Magic,Drama,5,2011
+772,Miss Granny,Sci-Fi,3,2011
+773,Three Words to Forever,Fantasy,4,2011
+774,Miss Granny,Horror,4,2002
+775,Four Sisters and a Wedding,Action,8,2010
+776,Sukob,Romance,2,2008
+777,The Unmarried Wife,Drama,9,2005
+778,Miss Granny,Action,2,2011
+779,Kung Fu Divas,Drama,10,2006
+780,Seven Sundays,Romance,2,2004
+781,Bride for Rent,Drama,3,2005
+782,Ex with Benefits,Drama,1,2012
+783,Four Sisters and a Wedding,Fantasy,8,2006
+784,Starting Over Again,Horror,2,2008
+785,Four Sisters and a Wedding,Horror,3,2006
+786,My Ex and Whys,Comedy,6,2012
+787,The Achy Breaky Hearts,Romance,7,2004
+788,Close to You,Fantasy,9,2005
+789,Tanging Yaman,Thriller,5,2002
+790,Miss Granny,Drama,3,2012
+791,Four Sisters and a Wedding,Fantasy,7,2009
+792,Love You to the Stars and Back,Sci-Fi,1,2008
+793,Kimmy Dora,Drama,4,2005
+794,One More Chance,Comedy,4,2011
+795,All About Love,Comedy,8,2004
+796,Tanging Yaman,Drama,1,2011
+797,Sisterakas,Sci-Fi,5,2011
+798,Sisterakas,Fantasy,1,2012
+799,The Girl in the Orange Dress,Thriller,5,2002
+800,The Hows of Us,Thriller,8,2003
+801,My Ex and Whys,Comedy,9,2002
+802,Till I Met You,Sci-Fi,1,2009
+803,Barcelona: A Love Untold,Action,4,2008
+804,The Breakup Playlist,Sci-Fi,7,2009
+805,Four Sisters and a Wedding,Fantasy,7,2003
+806,All About Love,Horror,9,2008
+807,All About Love,Drama,1,2003
+808,The Unmarried Wife,Drama,2,2002
+809,Close to You,Romance,2,2011
+810,My Big Love,Thriller,8,2003
+811,Kimmy Dora,Thriller,3,2002
+812,Everything About Her,Horror,5,2007
+813,Kimmy Dora,Fantasy,5,2008
+814,Three Words to Forever,Romance,8,2011
+815,My Ex and Whys,Fantasy,10,2012
+816,The Love Affair,Action,8,2011
+817,The Unmarried Wife,Romance,5,2006
+818,Three Words to Forever,Romance,8,2006
+819,She's the One,Romance,5,2004
+820,Four Sisters and a Wedding,Horror,4,2012
+821,Miss Granny,Sci-Fi,6,2008
+822,Alone/Together,Sci-Fi,7,2011
+823,The Breakup Playlist,Horror,3,2006
+824,Ang Tanging Ina,Thriller,2,2003
+825,The Breakup Playlist,Horror,8,2005
+826,Can't Help Falling In Love,Action,10,2006
+827,Praybeyt Benjamin,Fantasy,10,2005
+828,All About Love,Romance,8,2011
+829,Here Comes the Bride,Romance,1,2008
+830,Till I Met You,Comedy,6,2012
+831,Ex with Benefits,Thriller,2,2010
+832,Crazy Beautiful You,Sci-Fi,1,2012
+833,Exes Baggage,Sci-Fi,1,2004
+834,Everyday I Love You,Comedy,4,2003
+835,Alone/Together,Thriller,7,2003
+836,Starting Over Again,Action,8,2008
+837,Dekada '70,Sci-Fi,10,2005
+838,Kasal Kasali Kasalo,Action,3,2004
+839,Seven Sundays,Comedy,5,2012
+840,It Takes a Man and a Woman,Thriller,10,2009
+841,Miss Granny,Romance,9,2002
+842,A Very Special Love,Romance,3,2004
+843,My Amnesia Girl,Horror,2,2004
+844,She's the One,Sci-Fi,1,2006
+845,Miss Granny,Sci-Fi,6,2007
+846,The Unmarried Wife,Comedy,8,2006
+847,Here Comes the Bride,Thriller,4,2006
+848,Feng Shui,Horror,10,2005
+849,Everything About Her,Fantasy,10,2008
+850,Crazy Beautiful You,Comedy,10,2003
+851,The Girl in the Orange Dress,Drama,4,2004
+852,The Breakup Playlist,Comedy,3,2012
+853,The Hows of Us,Drama,1,2005
+854,Miss Granny,Action,1,2010
+855,My Big Love,Horror,3,2003
+856,Feng Shui,Horror,10,2002
+857,You Changed My Life,Horror,4,2002
+858,Seven Sundays,Fantasy,4,2003
+859,She's Dating the Gangster,Fantasy,6,2009
+860,Starting Over Again,Drama,7,2011
+861,Miss Granny,Action,1,2006
+862,Kung Fu Divas,Fantasy,3,2006
+863,Starting Over Again,Drama,4,2006
+864,The Hows of Us,Romance,9,2004
+865,Four Sisters and a Wedding,Thriller,10,2008
+866,The Mistress,Sci-Fi,10,2005
+867,The Girl in the Orange Dress,Fantasy,9,2009
+868,Ex with Benefits,Action,1,2008
+869,The Achy Breaky Hearts,Romance,10,2004
+870,Ang Tanging Ina,Horror,7,2006
+871,Ex with Benefits,Horror,9,2003
+872,A Second Chance,Romance,1,2006
+873,Barcelona: A Love Untold,Sci-Fi,2,2009
+874,The Girl in the Orange Dress,Drama,2,2008
+875,The Girl in the Orange Dress,Comedy,9,2002
+876,Miss Granny,Horror,6,2003
+877,Here Comes the Bride,Thriller,4,2012
+878,Tanging Yaman,Romance,10,2011
+879,Four Sisters and a Wedding,Comedy,8,2009
+880,A Second Chance,Horror,2,2006
+881,Ang Tanging Ina,Comedy,7,2006
+882,Close to You,Sci-Fi,7,2002
+883,Starting Over Again,Fantasy,3,2012
+884,Everyday I Love You,Horror,9,2008
+885,Starting Over Again,Drama,5,2002
+886,All About Love,Horror,7,2003
+887,Dekada '70,Horror,6,2002
+888,Kasal Kasali Kasalo,Fantasy,7,2006
+889,It Takes a Man and a Woman,Romance,2,2004
+890,Here Comes the Bride,Comedy,10,2011
+891,Feng Shui,Romance,4,2010
+892,Everything About Her,Thriller,1,2009
+893,Love You to the Stars and Back,Action,9,2007
+894,Till I Met You,Horror,3,2011
+895,It Takes a Man and a Woman,Sci-Fi,1,2008
+896,One More Chance,Comedy,3,2009
+897,She's Dating the Gangster,Action,3,2012
+898,A Second Chance,Romance,4,2003
+899,The Love Affair,Action,1,2006
+900,The Love Affair,Thriller,4,2003
+901,The Achy Breaky Hearts,Sci-Fi,3,2009
+902,Kung Fu Divas,Action,2,2004
+903,The Breakup Playlist,Thriller,4,2007
+904,You're Still The One,Horror,2,2011
+905,Ang Tanging Ina,Drama,2,2011
+906,Close to You,Fantasy,8,2002
+907,A Very Special Love,Fantasy,4,2007
+908,She's the One,Action,4,2002
+909,The Hows of Us,Action,5,2005
+910,Everyday I Love You,Drama,8,2002
+911,Crazy Beautiful You,Sci-Fi,4,2009
+912,The Unmarried Wife,Comedy,9,2002
+913,Kimmy Dora,Comedy,10,2008
+914,My Big Love,Fantasy,10,2010
+915,Love You to the Stars and Back,Sci-Fi,4,2008
+916,Miss Granny,Fantasy,1,2003
+917,Kung Fu Divas,Horror,4,2009
+918,Till I Met You,Drama,8,2004
+919,Ex with Benefits,Sci-Fi,1,2009
+920,The Girl in the Orange Dress,Comedy,4,2007
+921,The Love Affair,Thriller,2,2011
+922,Close to You,Thriller,8,2012
+923,One More Chance,Thriller,4,2005
+924,Till I Met You,Drama,3,2002
+925,Kung Fu Divas,Thriller,6,2011
+926,A Very Special Love,Sci-Fi,4,2004
+927,My Ex and Whys,Romance,9,2010
+928,Starting Over Again,Sci-Fi,2,2008
+929,Till I Met You,Romance,3,2002
+930,Miss Granny,Comedy,10,2006
+931,It Takes a Man and a Woman,Comedy,1,2009
+932,Till I Met You,Drama,7,2012
+933,One More Chance,Comedy,1,2007
+934,Starting Over Again,Fantasy,4,2004
+935,The Love Affair,Thriller,10,2004
+936,A Very Special Love,Horror,8,2006
+937,Four Sisters and a Wedding,Comedy,2,2010
+938,My Ex and Whys,Romance,2,2004
+939,Praybeyt Benjamin,Horror,2,2012
+940,Exes Baggage,Fantasy,8,2011
+941,Sukob,Comedy,8,2012
+942,Starting Over Again,Horror,9,2006
+943,Suddenly It's Magic,Thriller,8,2011
+944,Seven Sundays,Thriller,2,2010
+945,The Healing,Horror,9,2002
+946,Feng Shui,Romance,4,2008
+947,Here Comes the Bride,Comedy,9,2010
+948,The Breakup Playlist,Action,7,2011
+949,Can't Help Falling In Love,Drama,6,2007
+950,Praybeyt Benjamin,Drama,1,2007
+951,Exes Baggage,Drama,7,2005
+952,Barcelona: A Love Untold,Horror,6,2009
+953,Bride for Rent,Sci-Fi,2,2012
+954,Four Sisters and a Wedding,Comedy,9,2007
+955,The Breakup Playlist,Action,3,2007
+956,No Other Woman,Romance,9,2007
+957,Ang Tanging Ina,Thriller,8,2005
+958,All About Love,Sci-Fi,4,2008
+959,Everything About Her,Action,10,2012
+960,Love You to the Stars and Back,Drama,4,2008
+961,No Other Woman,Thriller,2,2006
+962,Tanging Yaman,Romance,5,2002
+963,Alone/Together,Thriller,9,2012
+964,It Takes a Man and a Woman,Action,4,2009
+965,The Hows of Us,Romance,8,2009
+966,It Takes a Man and a Woman,Sci-Fi,8,2011
+967,Ex with Benefits,Action,3,2002
+968,Kung Fu Divas,Comedy,2,2003
+969,No Other Woman,Comedy,2,2010
+970,Crazy Beautiful You,Romance,1,2009
+971,Bride for Rent,Drama,4,2010
+972,Everyday I Love You,Action,5,2007
+973,The Breakup Playlist,Action,4,2012
+974,The Breakup Playlist,Thriller,2,2011
+975,All About Love,Horror,1,2007
+976,Feng Shui,Drama,7,2008
+977,She's the One,Comedy,7,2006
+978,Seven Sundays,Drama,9,2008
+979,Alone/Together,Thriller,3,2002
+980,Kasal Kasali Kasalo,Horror,7,2007
+981,The Achy Breaky Hearts,Thriller,2,2002
+982,Praybeyt Benjamin,Action,3,2009
+983,One More Chance,Thriller,10,2005
+984,Exes Baggage,Thriller,7,2011
+985,In My Life,Thriller,4,2010
+986,A Very Special Love,Action,2,2011
+987,You're Still The One,Horror,1,2008
+988,My Ex and Whys,Fantasy,10,2003
+989,Tanging Yaman,Horror,3,2009
+990,Here Comes the Bride,Thriller,4,2008
+991,The Healing,Fantasy,2,2002
+992,Sukob,Horror,6,2005
+993,My Amnesia Girl,Thriller,10,2006
+994,My Ex and Whys,Horror,7,2005
+995,Suddenly It's Magic,Fantasy,4,2011
+996,Praybeyt Benjamin,Sci-Fi,1,2004
+997,Till I Met You,Sci-Fi,10,2007
+998,She's Dating the Gangster,Thriller,7,2004
+999,The Girl in the Orange Dress,Action,10,2002
+1000,Till I Met You,Action,6,2005
+1001,Praybeyt Benjamin,Drama,2,2002
+1002,The Unmarried Wife,Thriller,8,2009
+1003,My Big Love,Horror,10,2005
+1004,It Takes a Man and a Woman,Sci-Fi,7,2005
+1005,My Big Love,Fantasy,7,2007
+1006,The Love Affair,Horror,10,2005
+1007,Ex with Benefits,Fantasy,1,2007
+1008,The Healing,Thriller,6,2011
+1009,Here Comes the Bride,Sci-Fi,4,2004
+1010,Bride for Rent,Thriller,5,2006
+1011,Here Comes the Bride,Horror,10,2002
+1012,The Healing,Romance,1,2008
+1013,Dekada '70,Horror,1,2004
+1014,Four Sisters and a Wedding,Action,9,2002
+1015,Seven Sundays,Romance,10,2005
+1016,The Hows of Us,Action,2,2006
+1017,One More Chance,Drama,5,2002
+1018,She's the One,Drama,5,2007
+1019,Seven Sundays,Thriller,5,2011
+1020,Kung Fu Divas,Horror,5,2002
+1021,My Big Love,Action,10,2004
+1022,Miss Granny,Fantasy,2,2009
+1023,Ang Tanging Ina,Thriller,6,2004
+1024,Love You to the Stars and Back,Sci-Fi,7,2009
+1025,Suddenly It's Magic,Sci-Fi,4,2011
+1026,The Hows of Us,Comedy,6,2007
+1027,The Girl in the Orange Dress,Fantasy,7,2011
+1028,No Other Woman,Comedy,9,2007
+1029,Sukob,Sci-Fi,3,2006
+1030,Love You to the Stars and Back,Horror,1,2006
+1031,My Amnesia Girl,Sci-Fi,4,2008
+1032,Kung Fu Divas,Drama,10,2002
+1033,Three Words to Forever,Sci-Fi,3,2003
+1034,Can't Help Falling In Love,Romance,8,2009
+1035,It Takes a Man and a Woman,Drama,9,2011
+1036,In My Life,Sci-Fi,8,2011
+1037,My Big Love,Action,10,2009
+1038,Close to You,Romance,1,2003
+1039,Kasal Kasali Kasalo,Thriller,1,2003
+1040,Can't Help Falling In Love,Drama,4,2006
+1041,Miss Granny,Drama,1,2005
+1042,Bride for Rent,Thriller,8,2010
+1043,Starting Over Again,Thriller,6,2008
+1044,Praybeyt Benjamin,Horror,5,2007
+1045,My Ex and Whys,Romance,5,2002
+1046,The Hows of Us,Fantasy,5,2011
+1047,The Breakup Playlist,Sci-Fi,9,2004
+1048,Feng Shui,Comedy,4,2006
+1049,Miss Granny,Horror,10,2008
+1050,Tanging Yaman,Thriller,3,2004
+1051,One More Chance,Horror,4,2009
+1052,Crazy Beautiful You,Fantasy,2,2007
+1053,My Ex and Whys,Thriller,3,2011
+1054,The Breakup Playlist,Comedy,5,2005
+1055,One More Chance,Horror,8,2011
+1056,Ang Tanging Ina,Fantasy,2,2008
+1057,Bride for Rent,Fantasy,8,2003
+1058,Seven Sundays,Comedy,7,2004
+1059,In My Life,Drama,10,2006
+1060,Can't Help Falling In Love,Action,7,2003
+1061,Tanging Yaman,Action,1,2004
+1062,Seven Sundays,Romance,6,2003
+1063,Feng Shui,Action,8,2008
+1064,The Healing,Fantasy,5,2008
+1065,Kimmy Dora,Fantasy,1,2004
+1066,Everyday I Love You,Comedy,6,2005
+1067,Sisterakas,Action,2,2007
+1068,Here Comes the Bride,Sci-Fi,6,2011
+1069,Miss Granny,Drama,7,2002
+1070,Barcelona: A Love Untold,Fantasy,8,2010
+1071,Praybeyt Benjamin,Sci-Fi,7,2005
+1072,Alone/Together,Drama,10,2012
+1073,Miss Granny,Romance,2,2006
+1074,Ex with Benefits,Sci-Fi,7,2007
+1075,Dekada '70,Fantasy,4,2002
+1076,Kung Fu Divas,Horror,2,2003
+1077,Starting Over Again,Drama,4,2008
+1078,Miss Granny,Drama,2,2006
+1079,Crazy Beautiful You,Fantasy,10,2004
+1080,Exes Baggage,Action,7,2011
+1081,Alone/Together,Action,5,2004
+1082,She's Dating the Gangster,Horror,10,2008
+1083,The Love Affair,Horror,8,2007
+1084,You Changed My Life,Comedy,10,2002
+1085,Dekada '70,Thriller,1,2002
+1086,Sisterakas,Drama,5,2006
+1087,Exes Baggage,Romance,4,2011
+1088,Suddenly It's Magic,Comedy,9,2002
+1089,The Mistress,Action,3,2003
+1090,Can't Help Falling In Love,Thriller,2,2004
+1091,Alone/Together,Thriller,10,2008
+1092,The Love Affair,Comedy,7,2009
+1093,In My Life,Horror,9,2003
+1094,The Breakup Playlist,Sci-Fi,8,2011
+1095,Love You to the Stars and Back,Thriller,6,2004
+1096,A Very Special Love,Romance,3,2003
+1097,Here Comes the Bride,Thriller,3,2004
+1098,Feng Shui,Horror,3,2010
+1099,The Breakup Playlist,Drama,1,2010
+1100,No Other Woman,Romance,5,2002
+1101,Kung Fu Divas,Comedy,1,2006
+1102,Alone/Together,Action,9,2002
+1103,The Breakup Playlist,Drama,9,2010
+1104,The Hows of Us,Romance,10,2006
+1105,Crazy Beautiful You,Fantasy,6,2007
+1106,My Ex and Whys,Horror,6,2005
+1107,A Very Special Love,Sci-Fi,10,2010
+1108,Tanging Yaman,Drama,4,2008
+1109,The Unmarried Wife,Fantasy,1,2003
+1110,Praybeyt Benjamin,Drama,5,2003
+1111,Feng Shui,Fantasy,6,2005
+1112,Till I Met You,Horror,9,2004
+1113,Praybeyt Benjamin,Fantasy,9,2006
+1114,Crazy Beautiful You,Romance,9,2005
+1115,Exes Baggage,Action,7,2007
+1116,It Takes a Man and a Woman,Sci-Fi,6,2004
+1117,The Achy Breaky Hearts,Sci-Fi,1,2010
+1118,Here Comes the Bride,Horror,2,2005
+1119,My Big Love,Romance,10,2007
+1120,In My Life,Thriller,8,2010
+1121,The Breakup Playlist,Comedy,2,2007
+1122,Till I Met You,Romance,9,2003
+1123,No Other Woman,Drama,4,2006
+1124,Sukob,Action,6,2008
+1125,Sisterakas,Thriller,7,2002
+1126,Miss Granny,Action,10,2004
+1127,Three Words to Forever,Fantasy,10,2008
+1128,The Healing,Comedy,10,2007
+1129,She's Dating the Gangster,Drama,10,2006
+1130,My Ex and Whys,Drama,2,2012
+1131,The Healing,Thriller,9,2010
+1132,Feng Shui,Comedy,7,2008
+1133,The Love Affair,Action,9,2012
+1134,Till I Met You,Romance,3,2003
+1135,Ang Tanging Ina,Horror,5,2005
+1136,Exes Baggage,Action,8,2012
+1137,The Achy Breaky Hearts,Action,8,2005
+1138,The Mistress,Horror,5,2009
+1139,Bride for Rent,Sci-Fi,7,2009
+1140,Praybeyt Benjamin,Action,6,2011
+1141,The Love Affair,Sci-Fi,3,2002
+1142,A Second Chance,Drama,10,2008
+1143,One More Chance,Thriller,1,2009
+1144,Seven Sundays,Sci-Fi,7,2007
+1145,Close to You,Thriller,2,2007
+1146,Tanging Yaman,Action,8,2003
+1147,Sisterakas,Fantasy,2,2011
+1148,Starting Over Again,Sci-Fi,5,2006
+1149,You Changed My Life,Sci-Fi,4,2002
+1150,She's Dating the Gangster,Drama,8,2009
+1151,My Amnesia Girl,Thriller,2,2005
+1152,Here Comes the Bride,Comedy,5,2006
+1153,The Mistress,Action,3,2008
+1154,Crazy Beautiful You,Action,1,2002
+1155,Crazy Beautiful You,Fantasy,5,2012
+1156,Barcelona: A Love Untold,Comedy,6,2009
+1157,She's Dating the Gangster,Romance,9,2010
+1158,Suddenly It's Magic,Drama,8,2005
+1159,Everything About Her,Thriller,3,2009
+1160,Tanging Yaman,Comedy,10,2009
+1161,Starting Over Again,Comedy,3,2005
+1162,Exes Baggage,Comedy,5,2005
+1163,One More Chance,Drama,6,2005
+1164,Ex with Benefits,Horror,8,2007
+1165,The Girl in the Orange Dress,Horror,1,2012
+1166,The Love Affair,Horror,5,2007
+1167,Sukob,Comedy,10,2007
+1168,She's the One,Horror,1,2005
+1169,Everyday I Love You,Action,10,2012
+1170,Crazy Beautiful You,Fantasy,10,2010
+1171,My Ex and Whys,Sci-Fi,10,2002
+1172,Kung Fu Divas,Thriller,4,2012
+1173,Everything About Her,Drama,10,2006
+1174,Sisterakas,Sci-Fi,3,2011
+1175,The Mistress,Sci-Fi,6,2005
+1176,Everyday I Love You,Comedy,4,2003
+1177,Crazy Beautiful You,Fantasy,4,2002
+1178,Crazy Beautiful You,Romance,8,2002
+1179,The Healing,Horror,6,2003
+1180,Barcelona: A Love Untold,Fantasy,1,2002
+1181,Miss Granny,Horror,10,2007
+1182,It Takes a Man and a Woman,Action,5,2008
+1183,Here Comes the Bride,Thriller,3,2010
+1184,All About Love,Drama,1,2004
+1185,All About Love,Action,1,2008
+1186,Three Words to Forever,Fantasy,1,2012
+1187,Seven Sundays,Horror,1,2002
+1188,Everything About Her,Romance,8,2011
+1189,In My Life,Sci-Fi,6,2010
+1190,Exes Baggage,Drama,2,2011
+1191,She's the One,Fantasy,10,2003
+1192,The Breakup Playlist,Fantasy,8,2007
+1193,The Healing,Thriller,2,2009
+1194,The Girl in the Orange Dress,Sci-Fi,6,2007
+1195,The Healing,Drama,1,2012
+1196,Here Comes the Bride,Comedy,9,2011
+1197,Kung Fu Divas,Thriller,10,2009
+1198,She's the One,Comedy,6,2009
+1199,Kasal Kasali Kasalo,Thriller,7,2004
+1200,Miss Granny,Comedy,7,2005
+1201,Tanging Yaman,Comedy,3,2002
+1202,The Mistress,Drama,10,2008
+1203,The Healing,Action,10,2005
+1204,The Achy Breaky Hearts,Comedy,4,2011
+1205,You Changed My Life,Drama,5,2002
+1206,A Very Special Love,Action,6,2007
+1207,Kimmy Dora,Horror,9,2004
+1208,Love You to the Stars and Back,Action,1,2002
+1209,Everything About Her,Sci-Fi,6,2008
+1210,No Other Woman,Fantasy,8,2011
+1211,The Hows of Us,Sci-Fi,8,2004
+1212,Praybeyt Benjamin,Action,7,2003
+1213,The Achy Breaky Hearts,Comedy,8,2012
+1214,A Very Special Love,Horror,7,2007
+1215,Close to You,Sci-Fi,6,2005
+1216,A Second Chance,Sci-Fi,9,2007
+1217,Feng Shui,Horror,4,2011
+1218,Alone/Together,Action,4,2009
+1219,Kung Fu Divas,Romance,9,2002
+1220,In My Life,Sci-Fi,1,2003
+1221,All About Love,Romance,4,2009
+1222,Kimmy Dora,Drama,7,2003
+1223,Miss Granny,Horror,10,2012
+1224,Barcelona: A Love Untold,Sci-Fi,7,2002
+1225,Crazy Beautiful You,Sci-Fi,6,2012
+1226,My Amnesia Girl,Sci-Fi,4,2002
+1227,My Amnesia Girl,Horror,2,2010
+1228,Crazy Beautiful You,Sci-Fi,2,2003
+1229,She's the One,Action,10,2009
+1230,Exes Baggage,Sci-Fi,9,2003
+1231,The Hows of Us,Comedy,4,2006
+1232,The Healing,Sci-Fi,9,2003
+1233,Praybeyt Benjamin,Thriller,8,2006
+1234,Everything About Her,Sci-Fi,7,2003
+1235,You're Still The One,Fantasy,3,2012
+1236,Feng Shui,Drama,9,2012
+1237,Ang Tanging Ina,Horror,6,2006
+1238,It Takes a Man and a Woman,Comedy,9,2004
+1239,Close to You,Thriller,7,2007
+1240,Sisterakas,Sci-Fi,7,2003
+1241,Everyday I Love You,Sci-Fi,5,2005
+1242,Till I Met You,Drama,6,2006
+1243,Kung Fu Divas,Comedy,9,2005
+1244,Bride for Rent,Horror,2,2009
+1245,Seven Sundays,Sci-Fi,3,2009
+1246,Love You to the Stars and Back,Romance,1,2007
+1247,My Ex and Whys,Sci-Fi,4,2002
+1248,The Love Affair,Comedy,1,2011
+1249,A Second Chance,Action,4,2003
+1250,No Other Woman,Comedy,7,2009
+1251,All About Love,Drama,5,2006
+1252,No Other Woman,Thriller,8,2004
+1253,Can't Help Falling In Love,Horror,9,2007
+1254,She's the One,Thriller,3,2012
+1255,Kung Fu Divas,Action,8,2002
+1256,Four Sisters and a Wedding,Romance,7,2008
+1257,In My Life,Horror,6,2008
+1258,Three Words to Forever,Horror,2,2012
+1259,It Takes a Man and a Woman,Romance,8,2005
+1260,The Girl in the Orange Dress,Drama,10,2003
+1261,Kung Fu Divas,Fantasy,9,2005
+1262,Feng Shui,Fantasy,7,2004
+1263,The Healing,Sci-Fi,10,2002
+1264,The Hows of Us,Drama,2,2010
+1265,Four Sisters and a Wedding,Thriller,5,2005
+1266,Everything About Her,Fantasy,9,2012
+1267,Sisterakas,Action,6,2009
+1268,Feng Shui,Drama,10,2007
+1269,She's Dating the Gangster,Comedy,6,2012
+1270,Kung Fu Divas,Sci-Fi,10,2009
+1271,Bride for Rent,Horror,9,2010
+1272,The Unmarried Wife,Horror,10,2003
+1273,Can't Help Falling In Love,Action,5,2006
+1274,Sisterakas,Comedy,10,2006
+1275,The Unmarried Wife,Thriller,1,2010
+1276,A Very Special Love,Sci-Fi,6,2009
+1277,Alone/Together,Sci-Fi,10,2004
+1278,The Unmarried Wife,Sci-Fi,9,2011
+1279,Seven Sundays,Action,5,2006
+1280,No Other Woman,Sci-Fi,9,2004
+1281,Sukob,Action,4,2010
+1282,Tanging Yaman,Action,8,2007
+1283,Kung Fu Divas,Horror,1,2008
+1284,The Unmarried Wife,Thriller,1,2002
+1285,Till I Met You,Drama,5,2002
+1286,All About Love,Fantasy,10,2003
+1287,Suddenly It's Magic,Comedy,9,2006
+1288,A Very Special Love,Drama,8,2010
+1289,Crazy Beautiful You,Sci-Fi,3,2003
+1290,The Mistress,Drama,3,2004
+1291,Exes Baggage,Action,1,2007
+1292,It Takes a Man and a Woman,Horror,8,2012
+1293,Exes Baggage,Thriller,9,2012
+1294,Kimmy Dora,Romance,7,2004
+1295,The Achy Breaky Hearts,Drama,4,2004
+1296,Love You to the Stars and Back,Fantasy,1,2012
+1297,Kasal Kasali Kasalo,Action,9,2010
+1298,The Achy Breaky Hearts,Thriller,6,2005
+1299,Kung Fu Divas,Romance,5,2005
+1300,Kasal Kasali Kasalo,Comedy,3,2006
+1301,She's Dating the Gangster,Horror,4,2005
+1302,Crazy Beautiful You,Romance,5,2012
+1303,Crazy Beautiful You,Sci-Fi,8,2008
+1304,She's Dating the Gangster,Thriller,3,2012
+1305,A Second Chance,Horror,7,2002
+1306,Bride for Rent,Fantasy,7,2009
+1307,You're Still The One,Action,3,2009
+1308,Miss Granny,Sci-Fi,8,2005
+1309,All About Love,Drama,7,2006
+1310,Crazy Beautiful You,Horror,9,2004
+1311,The Breakup Playlist,Romance,1,2003
+1312,My Ex and Whys,Sci-Fi,2,2003
+1313,Suddenly It's Magic,Fantasy,9,2002
+1314,No Other Woman,Romance,2,2007
+1315,Crazy Beautiful You,Horror,4,2012
+1316,The Achy Breaky Hearts,Action,6,2004
+1317,Can't Help Falling In Love,Fantasy,4,2012
+1318,Till I Met You,Fantasy,8,2004
+1319,Barcelona: A Love Untold,Horror,9,2009
+1320,All About Love,Sci-Fi,4,2003
+1321,She's the One,Action,8,2004
+1322,Crazy Beautiful You,Drama,4,2012
+1323,Crazy Beautiful You,Sci-Fi,2,2003
+1324,My Amnesia Girl,Comedy,4,2003
+1325,One More Chance,Horror,10,2010
+1326,Three Words to Forever,Fantasy,10,2011
+1327,My Ex and Whys,Romance,7,2005
+1328,A Second Chance,Drama,5,2006
+1329,Kasal Kasali Kasalo,Thriller,7,2012
+1330,No Other Woman,Comedy,5,2011
+1331,Ang Tanging Ina,Sci-Fi,8,2003
+1332,All About Love,Action,7,2007
+1333,One More Chance,Sci-Fi,5,2004
+1334,The Love Affair,Comedy,1,2011
+1335,The Hows of Us,Romance,6,2007
+1336,My Big Love,Romance,5,2006
+1337,Ang Tanging Ina,Romance,9,2010
+1338,Praybeyt Benjamin,Fantasy,2,2008
+1339,Ang Tanging Ina,Romance,1,2003
+1340,Alone/Together,Comedy,4,2012
+1341,She's Dating the Gangster,Fantasy,4,2007
+1342,My Ex and Whys,Romance,7,2007
+1343,You're Still The One,Horror,3,2005
+1344,No Other Woman,Sci-Fi,9,2008
+1345,Alone/Together,Sci-Fi,2,2008
+1346,Alone/Together,Horror,2,2012
+1347,One More Chance,Comedy,4,2011
+1348,The Breakup Playlist,Horror,8,2004
+1349,The Mistress,Comedy,6,2012
+1350,Ex with Benefits,Comedy,5,2006
+1351,Four Sisters and a Wedding,Thriller,4,2006
+1352,Dekada '70,Thriller,6,2004
+1353,Love You to the Stars and Back,Romance,10,2008
+1354,The Hows of Us,Horror,10,2010
+1355,Here Comes the Bride,Romance,6,2008
+1356,Praybeyt Benjamin,Sci-Fi,4,2010
+1357,Close to You,Romance,3,2004
+1358,Ang Tanging Ina,Romance,6,2006
+1359,Exes Baggage,Horror,2,2006
+1360,The Achy Breaky Hearts,Drama,1,2004
+1361,Here Comes the Bride,Drama,9,2010
+1362,All About Love,Comedy,7,2009
+1363,Seven Sundays,Horror,10,2004
+1364,Four Sisters and a Wedding,Thriller,6,2004
+1365,The Girl in the Orange Dress,Romance,7,2008
+1366,In My Life,Fantasy,9,2005
+1367,Three Words to Forever,Thriller,2,2008
+1368,My Ex and Whys,Romance,5,2009
+1369,Alone/Together,Romance,9,2006
+1370,My Amnesia Girl,Fantasy,2,2010
+1371,Bride for Rent,Thriller,7,2005
+1372,The Hows of Us,Horror,8,2009
+1373,A Second Chance,Drama,2,2004
+1374,Starting Over Again,Action,8,2007
+1375,It Takes a Man and a Woman,Thriller,4,2012
+1376,In My Life,Fantasy,7,2003
+1377,Crazy Beautiful You,Romance,9,2011
+1378,Three Words to Forever,Thriller,10,2007
+1379,Kasal Kasali Kasalo,Thriller,5,2008
+1380,Ang Tanging Ina,Drama,4,2009
+1381,Love You to the Stars and Back,Romance,2,2011
+1382,One More Chance,Comedy,2,2004
+1383,Here Comes the Bride,Action,8,2011
+1384,Everything About Her,Action,8,2007
+1385,Feng Shui,Action,1,2006
+1386,Kimmy Dora,Fantasy,3,2003
+1387,Here Comes the Bride,Drama,1,2007
+1388,Miss Granny,Sci-Fi,7,2005
+1389,A Second Chance,Horror,6,2009
+1390,Ex with Benefits,Romance,2,2009
+1391,Crazy Beautiful You,Romance,4,2012
+1392,Here Comes the Bride,Fantasy,5,2010
+1393,The Breakup Playlist,Horror,1,2012
+1394,Suddenly It's Magic,Fantasy,1,2006
+1395,One More Chance,Thriller,10,2006
+1396,Everyday I Love You,Fantasy,2,2003
+1397,Till I Met You,Horror,1,2005
+1398,The Love Affair,Horror,8,2012
+1399,She's the One,Action,7,2010
+1400,The Healing,Horror,1,2006
+1401,One More Chance,Thriller,4,2008
+1402,Seven Sundays,Sci-Fi,3,2010
+1403,It Takes a Man and a Woman,Sci-Fi,1,2006
+1404,The Breakup Playlist,Sci-Fi,9,2005
+1405,Kung Fu Divas,Comedy,10,2007
+1406,Here Comes the Bride,Comedy,2,2007
+1407,Ex with Benefits,Sci-Fi,1,2008
+1408,Kung Fu Divas,Comedy,5,2002
+1409,She's Dating the Gangster,Sci-Fi,3,2002
+1410,In My Life,Fantasy,7,2010
+1411,The Love Affair,Drama,3,2006
+1412,Love You to the Stars and Back,Thriller,2,2007
+1413,The Healing,Fantasy,8,2003
+1414,The Hows of Us,Drama,9,2004
+1415,You Changed My Life,Fantasy,1,2008
+1416,The Unmarried Wife,Fantasy,9,2003
+1417,The Girl in the Orange Dress,Fantasy,7,2012
+1418,Can't Help Falling In Love,Comedy,1,2010
+1419,Everyday I Love You,Thriller,4,2011
+1420,Sisterakas,Romance,4,2004
+1421,The Breakup Playlist,Comedy,5,2009
+1422,In My Life,Fantasy,5,2010
+1423,Feng Shui,Drama,5,2010
+1424,A Second Chance,Action,1,2012
+1425,Here Comes the Bride,Drama,6,2002
+1426,Love You to the Stars and Back,Thriller,9,2006
+1427,You're Still The One,Fantasy,5,2009
+1428,The Hows of Us,Horror,1,2006
+1429,Miss Granny,Thriller,2,2008
+1430,The Love Affair,Action,3,2008
+1431,She's the One,Sci-Fi,5,2008
+1432,In My Life,Action,8,2004
+1433,Suddenly It's Magic,Comedy,8,2007
+1434,Crazy Beautiful You,Romance,2,2002
+1435,Kung Fu Divas,Romance,8,2010
+1436,Praybeyt Benjamin,Fantasy,7,2003
+1437,Dekada '70,Sci-Fi,7,2009
+1438,Everything About Her,Horror,5,2002
+1439,In My Life,Thriller,8,2011
+1440,The Love Affair,Thriller,8,2004
+1441,You're Still The One,Romance,7,2006
+1442,My Ex and Whys,Horror,9,2005
+1443,Can't Help Falling In Love,Comedy,6,2003
+1444,Can't Help Falling In Love,Action,3,2007
+1445,My Ex and Whys,Comedy,4,2004
+1446,Here Comes the Bride,Comedy,3,2007
+1447,Ex with Benefits,Comedy,9,2005
+1448,Sukob,Comedy,2,2007
+1449,Kimmy Dora,Action,7,2010
+1450,My Amnesia Girl,Romance,4,2012
+1451,The Breakup Playlist,Comedy,4,2006
+1452,Four Sisters and a Wedding,Thriller,1,2003
+1453,The Unmarried Wife,Romance,3,2009
+1454,Close to You,Romance,9,2003
+1455,My Big Love,Action,2,2009
+1456,Ex with Benefits,Fantasy,10,2002
+1457,Everyday I Love You,Sci-Fi,10,2012
+1458,Kung Fu Divas,Thriller,5,2005
+1459,Kung Fu Divas,Horror,8,2003
+1460,Ex with Benefits,Action,1,2005
+1461,The Girl in the Orange Dress,Romance,9,2009
+1462,The Achy Breaky Hearts,Sci-Fi,10,2006
+1463,Everyday I Love You,Thriller,3,2011
+1464,She's Dating the Gangster,Drama,3,2010
+1465,Love You to the Stars and Back,Romance,4,2011
+1466,Kung Fu Divas,Thriller,7,2002
+1467,Feng Shui,Horror,10,2004
+1468,My Amnesia Girl,Action,2,2009
+1469,One More Chance,Sci-Fi,9,2008
+1470,Suddenly It's Magic,Horror,8,2011
+1471,You're Still The One,Drama,2,2009
+1472,A Very Special Love,Fantasy,6,2005
+1473,Alone/Together,Action,6,2012
+1474,One More Chance,Thriller,10,2011
+1475,Kung Fu Divas,Action,1,2010
+1476,A Second Chance,Fantasy,10,2004
+1477,Here Comes the Bride,Comedy,2,2006
+1478,Bride for Rent,Comedy,3,2006
+1479,Crazy Beautiful You,Fantasy,6,2007
+1480,The Healing,Action,9,2009
+1481,It Takes a Man and a Woman,Thriller,2,2005
+1482,Alone/Together,Sci-Fi,10,2010
+1483,Bride for Rent,Comedy,5,2002
+1484,The Girl in the Orange Dress,Comedy,5,2010
+1485,Till I Met You,Horror,7,2002
+1486,Barcelona: A Love Untold,Romance,2,2006
+1487,The Mistress,Comedy,9,2011
+1488,Crazy Beautiful You,Thriller,9,2011
+1489,Everyday I Love You,Thriller,1,2009
+1490,Kasal Kasali Kasalo,Fantasy,2,2012
+1491,Exes Baggage,Drama,9,2011
+1492,No Other Woman,Sci-Fi,6,2005
+1493,Kimmy Dora,Horror,5,2002
+1494,One More Chance,Romance,2,2003
+1495,In My Life,Fantasy,2,2011
+1496,All About Love,Romance,4,2005
+1497,Alone/Together,Romance,8,2003
+1498,It Takes a Man and a Woman,Drama,3,2004
+1499,One More Chance,Thriller,4,2007
+1500,Can't Help Falling In Love,Comedy,6,2004
+1501,Seven Sundays,Sci-Fi,5,2002
+1502,Starting Over Again,Thriller,6,2009
+1503,Seven Sundays,Thriller,5,2008
+1504,Here Comes the Bride,Action,4,2002
+1505,Barcelona: A Love Untold,Romance,6,2009
+1506,Everything About Her,Thriller,4,2004
+1507,Close to You,Thriller,2,2010
+1508,Kung Fu Divas,Horror,1,2012
+1509,Love You to the Stars and Back,Drama,7,2006
+1510,She's Dating the Gangster,Action,1,2005
+1511,Everyday I Love You,Action,9,2011
+1512,Everyday I Love You,Action,6,2007
+1513,You're Still The One,Action,9,2011
+1514,Exes Baggage,Drama,7,2006
+1515,Tanging Yaman,Drama,6,2008
+1516,Kung Fu Divas,Romance,3,2006
+1517,The Breakup Playlist,Drama,2,2006
+1518,My Amnesia Girl,Thriller,5,2009
+1519,The Girl in the Orange Dress,Drama,5,2004
+1520,Alone/Together,Comedy,6,2006
+1521,Here Comes the Bride,Thriller,5,2012
+1522,Miss Granny,Comedy,10,2006
+1523,No Other Woman,Horror,10,2005
+1524,Praybeyt Benjamin,Action,8,2007
+1525,The Healing,Comedy,8,2005
+1526,Till I Met You,Action,5,2002
+1527,No Other Woman,Action,8,2008
+1528,A Very Special Love,Sci-Fi,5,2007
+1529,My Big Love,Horror,7,2011
+1530,A Very Special Love,Sci-Fi,10,2004
+1531,Praybeyt Benjamin,Sci-Fi,9,2004
+1532,Ex with Benefits,Drama,3,2004
+1533,Kimmy Dora,Action,1,2006
+1534,Bride for Rent,Thriller,8,2007
+1535,Dekada '70,Sci-Fi,10,2012
+1536,Barcelona: A Love Untold,Comedy,7,2007
+1537,Till I Met You,Sci-Fi,7,2006
+1538,Sukob,Thriller,4,2011
+1539,Kimmy Dora,Drama,2,2011
+1540,You Changed My Life,Drama,8,2005
+1541,You're Still The One,Romance,3,2012
+1542,It Takes a Man and a Woman,Fantasy,5,2006
+1543,The Healing,Comedy,8,2009
+1544,A Very Special Love,Thriller,6,2009
+1545,Kung Fu Divas,Sci-Fi,3,2010
+1546,My Big Love,Comedy,1,2008
+1547,The Hows of Us,Drama,8,2004
+1548,Three Words to Forever,Comedy,6,2003
+1549,Love You to the Stars and Back,Drama,5,2008
+1550,Feng Shui,Romance,5,2008
+1551,The Girl in the Orange Dress,Sci-Fi,4,2011
+1552,Barcelona: A Love Untold,Comedy,4,2003
+1553,My Amnesia Girl,Action,6,2006
+1554,Dekada '70,Thriller,5,2002
+1555,Starting Over Again,Fantasy,9,2012
+1556,Suddenly It's Magic,Sci-Fi,3,2008
+1557,Three Words to Forever,Horror,4,2005
+1558,The Hows of Us,Horror,2,2002
+1559,Ang Tanging Ina,Fantasy,4,2002
+1560,My Amnesia Girl,Romance,8,2005
+1561,Kung Fu Divas,Horror,6,2010
+1562,Feng Shui,Drama,6,2011
+1563,Tanging Yaman,Comedy,7,2002
+1564,Suddenly It's Magic,Sci-Fi,8,2008
+1565,Crazy Beautiful You,Drama,10,2009
+1566,Three Words to Forever,Drama,10,2008
+1567,Starting Over Again,Horror,2,2012
+1568,The Healing,Romance,3,2005
+1569,Alone/Together,Drama,4,2007
+1570,Till I Met You,Comedy,7,2012
+1571,Praybeyt Benjamin,Sci-Fi,5,2003
+1572,It Takes a Man and a Woman,Sci-Fi,6,2007
+1573,All About Love,Romance,1,2007
+1574,Kasal Kasali Kasalo,Action,2,2009
+1575,The Mistress,Romance,10,2007
+1576,Seven Sundays,Comedy,1,2004
+1577,You Changed My Life,Drama,6,2002
+1578,Can't Help Falling In Love,Drama,6,2006
+1579,A Second Chance,Thriller,4,2010
+1580,My Ex and Whys,Romance,7,2004
+1581,Everything About Her,Thriller,8,2010
+1582,She's the One,Thriller,8,2002
+1583,The Healing,Sci-Fi,2,2008
+1584,The Unmarried Wife,Horror,2,2007
+1585,Here Comes the Bride,Drama,1,2002
+1586,Close to You,Thriller,9,2002
+1587,Suddenly It's Magic,Action,7,2011
+1588,Tanging Yaman,Fantasy,5,2007
+1589,Seven Sundays,Sci-Fi,3,2003
+1590,One More Chance,Horror,6,2010
+1591,It Takes a Man and a Woman,Fantasy,10,2006
+1592,Ang Tanging Ina,Action,6,2012
+1593,Exes Baggage,Horror,10,2003
+1594,Kasal Kasali Kasalo,Fantasy,9,2005
+1595,My Big Love,Comedy,4,2008
+1596,Bride for Rent,Sci-Fi,8,2003
+1597,Ex with Benefits,Action,2,2006
+1598,Close to You,Action,6,2006
+1599,The Girl in the Orange Dress,Action,3,2003
+1600,Ang Tanging Ina,Drama,4,2006
+1601,Till I Met You,Romance,2,2010
+1602,Here Comes the Bride,Horror,8,2004
+1603,Kung Fu Divas,Drama,8,2004
+1604,Ex with Benefits,Comedy,3,2012
+1605,Close to You,Action,7,2003
+1606,You're Still The One,Romance,8,2008
+1607,Praybeyt Benjamin,Action,9,2009
+1608,Sukob,Thriller,1,2006
+1609,The Achy Breaky Hearts,Romance,3,2008
+1610,Exes Baggage,Drama,7,2008
+1611,Here Comes the Bride,Sci-Fi,4,2002
+1612,Ang Tanging Ina,Action,2,2008
+1613,Miss Granny,Horror,8,2003
+1614,Miss Granny,Sci-Fi,9,2005
+1615,Kimmy Dora,Fantasy,8,2002
+1616,Kasal Kasali Kasalo,Thriller,10,2007
+1617,Barcelona: A Love Untold,Action,2,2012
+1618,Here Comes the Bride,Action,1,2010
+1619,Alone/Together,Romance,5,2011
+1620,Miss Granny,Sci-Fi,4,2003
+1621,Kasal Kasali Kasalo,Horror,3,2007
+1622,The Girl in the Orange Dress,Action,3,2008
+1623,Sisterakas,Thriller,5,2009
+1624,My Amnesia Girl,Romance,10,2002
+1625,The Breakup Playlist,Romance,3,2007
+1626,My Big Love,Drama,9,2006
+1627,All About Love,Sci-Fi,10,2009
+1628,Kung Fu Divas,Thriller,8,2004
+1629,Barcelona: A Love Untold,Drama,5,2012
+1630,The Girl in the Orange Dress,Fantasy,10,2008
+1631,The Breakup Playlist,Action,8,2010
+1632,Tanging Yaman,Comedy,10,2002
+1633,My Big Love,Action,3,2010
+1634,Three Words to Forever,Fantasy,8,2005
+1635,Everyday I Love You,Action,5,2003
+1636,You're Still The One,Fantasy,10,2006
+1637,All About Love,Romance,6,2010
+1638,The Mistress,Sci-Fi,4,2011
+1639,Alone/Together,Fantasy,7,2003
+1640,Kasal Kasali Kasalo,Fantasy,4,2002
+1641,The Love Affair,Drama,7,2007
+1642,It Takes a Man and a Woman,Action,6,2007
+1643,Seven Sundays,Sci-Fi,10,2009
+1644,Praybeyt Benjamin,Sci-Fi,5,2012
+1645,Sisterakas,Thriller,6,2003
+1646,Four Sisters and a Wedding,Romance,8,2004
+1647,Ex with Benefits,Horror,10,2003
+1648,Everything About Her,Sci-Fi,6,2009
+1649,Miss Granny,Romance,7,2008
+1650,She's Dating the Gangster,Action,3,2008
+1651,You're Still The One,Comedy,7,2006
+1652,One More Chance,Action,2,2002
+1653,The Healing,Sci-Fi,1,2011
+1654,You Changed My Life,Thriller,3,2008
+1655,Love You to the Stars and Back,Action,5,2007
+1656,Kung Fu Divas,Drama,2,2012
+1657,The Mistress,Fantasy,6,2008
+1658,She's Dating the Gangster,Romance,1,2003
+1659,The Achy Breaky Hearts,Thriller,6,2010
+1660,The Unmarried Wife,Sci-Fi,9,2006
+1661,Exes Baggage,Sci-Fi,7,2008
+1662,My Big Love,Sci-Fi,7,2009
+1663,Kimmy Dora,Romance,1,2003
+1664,Seven Sundays,Comedy,1,2008
+1665,Seven Sundays,Fantasy,4,2011
+1666,All About Love,Fantasy,9,2009
+1667,Praybeyt Benjamin,Action,2,2004
+1668,Can't Help Falling In Love,Fantasy,8,2011
+1669,Four Sisters and a Wedding,Comedy,2,2006
+1670,Can't Help Falling In Love,Action,5,2007
+1671,The Healing,Comedy,2,2008
+1672,Praybeyt Benjamin,Fantasy,7,2008
+1673,A Second Chance,Romance,7,2006
+1674,One More Chance,Comedy,8,2010
+1675,You Changed My Life,Action,4,2012
+1676,Ex with Benefits,Horror,4,2008
+1677,The Achy Breaky Hearts,Drama,1,2010
+1678,Till I Met You,Fantasy,1,2002
+1679,Love You to the Stars and Back,Drama,8,2010
+1680,One More Chance,Drama,10,2002
+1681,Close to You,Drama,5,2010
+1682,Exes Baggage,Sci-Fi,9,2002
+1683,In My Life,Romance,4,2002
+1684,She's Dating the Gangster,Romance,5,2007
+1685,Bride for Rent,Romance,8,2007
+1686,Bride for Rent,Fantasy,4,2007
+1687,Bride for Rent,Comedy,10,2010
+1688,No Other Woman,Comedy,5,2012
+1689,Kimmy Dora,Horror,7,2006
+1690,Sisterakas,Horror,5,2012
+1691,Starting Over Again,Fantasy,8,2008
+1692,Praybeyt Benjamin,Sci-Fi,4,2005
+1693,Alone/Together,Drama,6,2008
+1694,Till I Met You,Horror,7,2005
+1695,Three Words to Forever,Sci-Fi,2,2010
+1696,A Very Special Love,Comedy,10,2002
+1697,You Changed My Life,Sci-Fi,5,2002
+1698,Feng Shui,Thriller,10,2007
+1699,It Takes a Man and a Woman,Thriller,1,2008
+1700,Dekada '70,Romance,5,2010
+1701,The Unmarried Wife,Thriller,4,2012
+1702,She's Dating the Gangster,Thriller,5,2007
+1703,The Girl in the Orange Dress,Drama,5,2004
+1704,Kung Fu Divas,Thriller,8,2006
+1705,No Other Woman,Horror,2,2004
+1706,The Mistress,Fantasy,1,2011
+1707,Ang Tanging Ina,Thriller,4,2006
+1708,The Girl in the Orange Dress,Comedy,5,2006
+1709,Praybeyt Benjamin,Sci-Fi,10,2012
+1710,A Very Special Love,Thriller,8,2009
+1711,The Mistress,Drama,5,2010
+1712,Alone/Together,Romance,5,2003
+1713,My Amnesia Girl,Romance,9,2003
+1714,Ang Tanging Ina,Thriller,7,2012
+1715,The Love Affair,Horror,3,2008
+1716,Ang Tanging Ina,Thriller,2,2007
+1717,Love You to the Stars and Back,Thriller,1,2007
+1718,Four Sisters and a Wedding,Fantasy,5,2012
+1719,Kasal Kasali Kasalo,Sci-Fi,4,2012
+1720,You Changed My Life,Comedy,8,2004
+1721,Feng Shui,Fantasy,3,2010
+1722,Everyday I Love You,Romance,6,2010
+1723,Miss Granny,Action,3,2005
+1724,The Breakup Playlist,Sci-Fi,6,2005
+1725,Sukob,Sci-Fi,10,2004
+1726,Four Sisters and a Wedding,Comedy,2,2006
+1727,The Breakup Playlist,Comedy,6,2006
+1728,Barcelona: A Love Untold,Fantasy,5,2002
+1729,My Amnesia Girl,Action,3,2002
+1730,Starting Over Again,Sci-Fi,7,2002
+1731,My Ex and Whys,Comedy,4,2009
+1732,Close to You,Fantasy,9,2005
+1733,Feng Shui,Romance,9,2006
+1734,My Ex and Whys,Fantasy,7,2003
+1735,Love You to the Stars and Back,Fantasy,3,2006
+1736,Four Sisters and a Wedding,Drama,3,2005
+1737,Sukob,Romance,2,2005
+1738,The Hows of Us,Romance,2,2005
+1739,Everyday I Love You,Thriller,1,2005
+1740,Till I Met You,Fantasy,3,2009
+1741,Four Sisters and a Wedding,Horror,4,2012
+1742,Seven Sundays,Drama,6,2009
+1743,Barcelona: A Love Untold,Comedy,9,2010
+1744,Sisterakas,Horror,5,2005
+1745,The Healing,Romance,8,2011
+1746,Tanging Yaman,Drama,4,2003
+1747,Sukob,Horror,4,2009
+1748,Miss Granny,Romance,3,2012
+1749,Kung Fu Divas,Romance,8,2006
+1750,My Ex and Whys,Action,5,2003
+1751,One More Chance,Fantasy,1,2004
+1752,It Takes a Man and a Woman,Romance,6,2003
+1753,My Ex and Whys,Fantasy,6,2004
+1754,Everything About Her,Sci-Fi,5,2002
+1755,Feng Shui,Action,3,2003
+1756,It Takes a Man and a Woman,Comedy,10,2012
+1757,Bride for Rent,Horror,2,2009
+1758,Here Comes the Bride,Action,10,2003
+1759,Bride for Rent,Thriller,9,2006
+1760,In My Life,Drama,1,2012
+1761,Ex with Benefits,Horror,10,2002
+1762,The Unmarried Wife,Action,1,2012
+1763,My Ex and Whys,Thriller,6,2007
+1764,Sukob,Horror,2,2012
+1765,It Takes a Man and a Woman,Action,10,2008
+1766,Miss Granny,Action,5,2006
+1767,The Girl in the Orange Dress,Action,9,2009
+1768,Bride for Rent,Action,5,2006
+1769,Can't Help Falling In Love,Thriller,8,2006
+1770,My Big Love,Comedy,7,2004
+1771,My Ex and Whys,Drama,1,2010
+1772,Here Comes the Bride,Romance,1,2002
+1773,The Girl in the Orange Dress,Comedy,3,2003
+1774,Tanging Yaman,Horror,8,2003
+1775,Feng Shui,Romance,2,2006
+1776,Ex with Benefits,Action,6,2008
+1777,In My Life,Horror,6,2007
+1778,The Breakup Playlist,Horror,6,2010
+1779,She's the One,Sci-Fi,3,2012
+1780,The Love Affair,Comedy,1,2004
+1781,The Achy Breaky Hearts,Horror,2,2005
+1782,Barcelona: A Love Untold,Drama,5,2006
+1783,Exes Baggage,Comedy,4,2004
+1784,Sisterakas,Comedy,3,2005
+1785,The Mistress,Sci-Fi,10,2012
+1786,One More Chance,Comedy,5,2012
+1787,My Big Love,Thriller,4,2010
+1788,Till I Met You,Thriller,1,2011
+1789,All About Love,Action,6,2005
+1790,Love You to the Stars and Back,Romance,4,2002
+1791,Praybeyt Benjamin,Drama,5,2008
+1792,Everything About Her,Horror,1,2002
+1793,Sisterakas,Horror,2,2011
+1794,A Very Special Love,Fantasy,9,2008
+1795,Crazy Beautiful You,Thriller,9,2012
+1796,The Healing,Fantasy,9,2002
+1797,Bride for Rent,Fantasy,4,2002
+1798,Dekada '70,Action,8,2008
+1799,Sisterakas,Drama,2,2007
+1800,She's Dating the Gangster,Thriller,7,2002
+1801,Kasal Kasali Kasalo,Action,2,2008
+1802,Love You to the Stars and Back,Action,8,2012
+1803,Everything About Her,Sci-Fi,4,2006
+1804,Praybeyt Benjamin,Drama,1,2005
+1805,Can't Help Falling In Love,Drama,7,2002
+1806,One More Chance,Action,9,2012
+1807,Close to You,Horror,1,2006
+1808,The Unmarried Wife,Thriller,7,2007
+1809,She's Dating the Gangster,Horror,2,2010
+1810,It Takes a Man and a Woman,Action,10,2007
+1811,Sukob,Horror,1,2002
+1812,Everyday I Love You,Thriller,4,2012
+1813,Suddenly It's Magic,Sci-Fi,9,2002
+1814,The Breakup Playlist,Action,2,2011
+1815,She's Dating the Gangster,Sci-Fi,6,2009
+1816,You Changed My Life,Drama,2,2005
+1817,She's the One,Thriller,8,2009
+1818,The Mistress,Horror,6,2005
+1819,Seven Sundays,Thriller,10,2011
+1820,It Takes a Man and a Woman,Drama,5,2008
+1821,Sukob,Horror,1,2010
+1822,The Hows of Us,Fantasy,10,2002
+1823,Kasal Kasali Kasalo,Action,8,2002
+1824,It Takes a Man and a Woman,Romance,10,2011
+1825,Praybeyt Benjamin,Romance,4,2009
+1826,Barcelona: A Love Untold,Comedy,2,2008
+1827,Exes Baggage,Romance,8,2011
+1828,The Mistress,Comedy,9,2008
+1829,She's the One,Sci-Fi,9,2007
+1830,A Second Chance,Fantasy,3,2005
+1831,Four Sisters and a Wedding,Fantasy,6,2010
+1832,Kimmy Dora,Romance,1,2003
+1833,Kimmy Dora,Thriller,2,2009
+1834,No Other Woman,Sci-Fi,2,2005
+1835,The Mistress,Action,10,2002
+1836,A Very Special Love,Comedy,2,2003
+1837,Crazy Beautiful You,Sci-Fi,8,2008
+1838,Dekada '70,Thriller,5,2010
+1839,Ang Tanging Ina,Horror,9,2012
+1840,The Love Affair,Romance,1,2006
+1841,Ex with Benefits,Sci-Fi,1,2009
+1842,She's the One,Horror,8,2006
+1843,Love You to the Stars and Back,Drama,5,2012
+1844,My Ex and Whys,Sci-Fi,8,2004
+1845,The Love Affair,Fantasy,6,2002
+1846,Barcelona: A Love Untold,Romance,4,2008
+1847,Sukob,Romance,10,2003
+1848,Four Sisters and a Wedding,Drama,4,2011
+1849,The Healing,Thriller,6,2007
+1850,Tanging Yaman,Fantasy,6,2010
+1851,The Love Affair,Romance,1,2003
+1852,Tanging Yaman,Horror,9,2003
+1853,Ex with Benefits,Drama,4,2012
+1854,Everything About Her,Thriller,8,2005
+1855,The Healing,Action,10,2006
+1856,Praybeyt Benjamin,Fantasy,5,2005
+1857,Can't Help Falling In Love,Sci-Fi,1,2012
+1858,Close to You,Comedy,4,2010
+1859,One More Chance,Fantasy,5,2011
+1860,The Hows of Us,Romance,5,2009
+1861,No Other Woman,Fantasy,9,2004
+1862,The Mistress,Action,4,2009
+1863,Four Sisters and a Wedding,Fantasy,9,2007
+1864,The Mistress,Drama,9,2011
+1865,Barcelona: A Love Untold,Comedy,8,2009
+1866,The Mistress,Drama,7,2006
+1867,Tanging Yaman,Fantasy,4,2008
+1868,Exes Baggage,Comedy,8,2009
+1869,The Breakup Playlist,Sci-Fi,10,2009
+1870,In My Life,Sci-Fi,4,2006
+1871,A Second Chance,Drama,7,2009
+1872,Bride for Rent,Thriller,2,2012
+1873,The Hows of Us,Comedy,1,2010
+1874,The Unmarried Wife,Comedy,9,2002
+1875,Love You to the Stars and Back,Sci-Fi,4,2012
+1876,No Other Woman,Fantasy,5,2006
+1877,Sukob,Romance,3,2012
+1878,Alone/Together,Thriller,4,2012
+1879,The Mistress,Comedy,8,2012
+1880,Ex with Benefits,Fantasy,9,2008
+1881,Crazy Beautiful You,Drama,9,2007
+1882,Ang Tanging Ina,Comedy,9,2002
+1883,One More Chance,Action,7,2008
+1884,Exes Baggage,Sci-Fi,4,2009
+1885,Feng Shui,Thriller,10,2008
+1886,Sisterakas,Drama,3,2003
+1887,Ang Tanging Ina,Sci-Fi,8,2002
+1888,Seven Sundays,Action,5,2005
+1889,She's Dating the Gangster,Drama,3,2007
+1890,Alone/Together,Thriller,7,2003
+1891,Three Words to Forever,Sci-Fi,6,2005
+1892,Starting Over Again,Drama,5,2012
+1893,Close to You,Horror,6,2002
+1894,Kasal Kasali Kasalo,Comedy,8,2005
+1895,It Takes a Man and a Woman,Sci-Fi,4,2003
+1896,The Love Affair,Drama,6,2006
+1897,In My Life,Thriller,9,2011
+1898,Ex with Benefits,Drama,8,2007
+1899,Close to You,Comedy,5,2002
+1900,Crazy Beautiful You,Comedy,8,2008
+1901,Everyday I Love You,Romance,5,2007
+1902,A Very Special Love,Romance,2,2009
+1903,Can't Help Falling In Love,Thriller,6,2011
+1904,Kasal Kasali Kasalo,Comedy,5,2007
+1905,One More Chance,Drama,10,2008
+1906,The Unmarried Wife,Horror,2,2011
+1907,It Takes a Man and a Woman,Romance,1,2010
+1908,Ang Tanging Ina,Drama,9,2006
+1909,Kimmy Dora,Sci-Fi,1,2009
+1910,Close to You,Action,10,2005
+1911,Suddenly It's Magic,Sci-Fi,5,2003
+1912,Ex with Benefits,Horror,9,2007
+1913,Close to You,Action,9,2003
+1914,The Breakup Playlist,Thriller,10,2005
+1915,Here Comes the Bride,Thriller,4,2002
+1916,In My Life,Drama,6,2008
+1917,You're Still The One,Sci-Fi,6,2006
+1918,Close to You,Comedy,9,2012
+1919,She's the One,Romance,3,2008
+1920,Miss Granny,Thriller,7,2003
+1921,Kimmy Dora,Thriller,2,2011
+1922,Seven Sundays,Action,5,2006
+1923,She's Dating the Gangster,Drama,4,2009
+1924,Close to You,Action,5,2004
+1925,Close to You,Romance,10,2006
+1926,Tanging Yaman,Comedy,9,2005
+1927,The Healing,Romance,6,2011
+1928,Sisterakas,Sci-Fi,6,2011
+1929,The Unmarried Wife,Drama,10,2002
+1930,Kimmy Dora,Comedy,8,2009
+1931,Miss Granny,Sci-Fi,7,2004
+1932,Sukob,Action,1,2006
+1933,Ang Tanging Ina,Fantasy,4,2003
+1934,The Hows of Us,Drama,8,2012
+1935,The Girl in the Orange Dress,Sci-Fi,6,2010
+1936,Dekada '70,Sci-Fi,5,2002
+1937,Everyday I Love You,Horror,6,2007
+1938,Miss Granny,Sci-Fi,8,2006
+1939,Tanging Yaman,Comedy,3,2003
+1940,She's Dating the Gangster,Drama,8,2005
+1941,The Girl in the Orange Dress,Drama,3,2004
+1942,A Very Special Love,Action,6,2002
+1943,Kimmy Dora,Drama,10,2009
+1944,The Hows of Us,Horror,2,2008
+1945,You Changed My Life,Comedy,7,2009
+1946,Three Words to Forever,Fantasy,9,2007
+1947,My Big Love,Horror,2,2012
+1948,One More Chance,Horror,5,2002
+1949,The Girl in the Orange Dress,Romance,8,2003
+1950,A Second Chance,Romance,4,2006
+1951,Starting Over Again,Action,3,2004
+1952,Tanging Yaman,Sci-Fi,4,2012
+1953,The Hows of Us,Romance,2,2004
+1954,Starting Over Again,Comedy,6,2002
+1955,Suddenly It's Magic,Thriller,3,2009
+1956,Alone/Together,Sci-Fi,9,2011
+1957,All About Love,Fantasy,6,2003
+1958,My Amnesia Girl,Romance,7,2002
+1959,The Mistress,Thriller,1,2011
+1960,Everyday I Love You,Horror,8,2009
+1961,Ex with Benefits,Comedy,9,2010
+1962,Sukob,Horror,8,2004
+1963,Three Words to Forever,Horror,1,2003
+1964,Miss Granny,Fantasy,8,2002
+1965,My Amnesia Girl,Comedy,3,2002
+1966,Crazy Beautiful You,Romance,4,2006
+1967,Love You to the Stars and Back,Drama,5,2006
+1968,Suddenly It's Magic,Comedy,8,2002
+1969,Ang Tanging Ina,Comedy,4,2012
+1970,Kimmy Dora,Comedy,1,2010
+1971,Three Words to Forever,Thriller,8,2005
+1972,Seven Sundays,Action,10,2008
+1973,She's Dating the Gangster,Action,5,2003
+1974,My Big Love,Thriller,10,2011
+1975,Crazy Beautiful You,Action,5,2006
+1976,My Big Love,Sci-Fi,9,2004
+1977,My Ex and Whys,Thriller,9,2006
+1978,Everyday I Love You,Fantasy,9,2006
+1979,Seven Sundays,Romance,6,2004
+1980,Exes Baggage,Fantasy,7,2011
+1981,Everything About Her,Fantasy,4,2011
+1982,Miss Granny,Action,6,2010
+1983,The Hows of Us,Horror,10,2007
+1984,Praybeyt Benjamin,Thriller,3,2003
+1985,Love You to the Stars and Back,Horror,2,2006
+1986,You're Still The One,Fantasy,7,2003
+1987,Everyday I Love You,Horror,2,2011
+1988,Miss Granny,Thriller,8,2012
+1989,Crazy Beautiful You,Sci-Fi,2,2002
+1990,My Ex and Whys,Comedy,6,2011
+1991,Suddenly It's Magic,Drama,4,2011
+1992,Seven Sundays,Sci-Fi,6,2012
+1993,Kasal Kasali Kasalo,Action,9,2002
+1994,Sisterakas,Romance,1,2010
+1995,Seven Sundays,Action,6,2010
+1996,She's Dating the Gangster,Fantasy,8,2008
+1997,Everyday I Love You,Thriller,5,2006
+1998,The Hows of Us,Thriller,5,2011
+1999,No Other Woman,Sci-Fi,6,2007
+2000,Everything About Her,Horror,2,2011
+2001,Suddenly It's Magic,Drama,5,2006
+2002,She's the One,Horror,5,2012
+2003,Four Sisters and a Wedding,Fantasy,5,2003
+2004,Kasal Kasali Kasalo,Fantasy,2,2012
+2005,No Other Woman,Horror,9,2003
+2006,Kung Fu Divas,Horror,8,2012
+2007,You Changed My Life,Horror,6,2006
+2008,Close to You,Comedy,9,2008
+2009,Barcelona: A Love Untold,Comedy,3,2010
+2010,Bride for Rent,Sci-Fi,1,2004
+2011,Kung Fu Divas,Horror,3,2005
+2012,It Takes a Man and a Woman,Comedy,5,2006
+2013,In My Life,Thriller,9,2004
+2014,Tanging Yaman,Action,6,2008
+2015,You Changed My Life,Comedy,9,2006
+2016,The Healing,Sci-Fi,1,2005
+2017,Three Words to Forever,Action,6,2008
+2018,Till I Met You,Sci-Fi,2,2003
+2019,Ang Tanging Ina,Drama,7,2003
+2020,Bride for Rent,Thriller,2,2010
+2021,The Healing,Romance,7,2006
+2022,Everyday I Love You,Drama,3,2012
+2023,Three Words to Forever,Drama,4,2006
+2024,Alone/Together,Action,10,2003
+2025,Praybeyt Benjamin,Thriller,1,2008
+2026,Alone/Together,Drama,4,2004
+2027,Everything About Her,Romance,7,2002
+2028,Can't Help Falling In Love,Action,8,2005
+2029,The Hows of Us,Action,4,2002
+2030,The Love Affair,Fantasy,8,2003
+2031,The Girl in the Orange Dress,Fantasy,8,2009
+2032,Feng Shui,Sci-Fi,2,2007
+2033,The Unmarried Wife,Fantasy,1,2008
+2034,The Hows of Us,Thriller,1,2007
+2035,Dekada '70,Action,4,2006
+2036,Love You to the Stars and Back,Horror,3,2005
+2037,Three Words to Forever,Comedy,3,2004
+2038,Ang Tanging Ina,Drama,4,2009
+2039,She's Dating the Gangster,Drama,7,2012
+2040,Close to You,Fantasy,9,2009
+2041,My Big Love,Sci-Fi,5,2008
+2042,Starting Over Again,Drama,1,2007
+2043,Ex with Benefits,Thriller,5,2012
+2044,Dekada '70,Fantasy,6,2011
+2045,Exes Baggage,Romance,3,2006
+2046,Ang Tanging Ina,Thriller,3,2009
+2047,The Love Affair,Sci-Fi,8,2008
+2048,Miss Granny,Action,7,2004
+2049,Feng Shui,Romance,9,2004
+2050,Barcelona: A Love Untold,Thriller,9,2008
+2051,Kasal Kasali Kasalo,Drama,3,2005
+2052,Alone/Together,Romance,3,2011
+2053,It Takes a Man and a Woman,Romance,2,2009
+2054,All About Love,Fantasy,7,2008
+2055,Dekada '70,Comedy,9,2007
+2056,Sukob,Horror,9,2011
+2057,My Ex and Whys,Romance,9,2005
+2058,Love You to the Stars and Back,Fantasy,4,2009
+2059,Everyday I Love You,Thriller,9,2007
+2060,The Breakup Playlist,Horror,7,2011
+2061,Kung Fu Divas,Drama,8,2004
+2062,Three Words to Forever,Horror,6,2003
+2063,Tanging Yaman,Action,8,2008
+2064,My Amnesia Girl,Fantasy,10,2003
+2065,Miss Granny,Thriller,9,2012
+2066,Feng Shui,Horror,5,2005
+2067,Four Sisters and a Wedding,Thriller,9,2005
+2068,A Very Special Love,Drama,5,2010
+2069,Barcelona: A Love Untold,Horror,7,2012
+2070,The Unmarried Wife,Fantasy,8,2012
+2071,The Achy Breaky Hearts,Action,3,2009
+2072,Three Words to Forever,Drama,8,2010
+2073,Tanging Yaman,Romance,4,2002
+2074,The Girl in the Orange Dress,Action,2,2003
+2075,Barcelona: A Love Untold,Thriller,4,2009
+2076,Alone/Together,Horror,7,2005
+2077,The Love Affair,Drama,4,2009
+2078,Three Words to Forever,Romance,1,2009
+2079,The Achy Breaky Hearts,Fantasy,5,2007
+2080,Alone/Together,Thriller,6,2011
+2081,In My Life,Fantasy,3,2003
+2082,The Love Affair,Romance,10,2007
+2083,Bride for Rent,Romance,5,2009
+2084,The Healing,Action,9,2005
+2085,Everything About Her,Sci-Fi,1,2011
+2086,The Girl in the Orange Dress,Sci-Fi,7,2002
+2087,Sisterakas,Comedy,6,2006
+2088,She's the One,Horror,2,2004
+2089,No Other Woman,Action,6,2009
+2090,In My Life,Fantasy,3,2009
+2091,She's Dating the Gangster,Romance,5,2003
+2092,Everything About Her,Sci-Fi,3,2004
+2093,You Changed My Life,Romance,4,2009
+2094,It Takes a Man and a Woman,Action,9,2002
+2095,Praybeyt Benjamin,Thriller,9,2012
+2096,Dekada '70,Thriller,9,2005
+2097,Crazy Beautiful You,Sci-Fi,2,2005
+2098,Love You to the Stars and Back,Comedy,6,2008
+2099,Can't Help Falling In Love,Horror,10,2004
+2100,My Big Love,Sci-Fi,3,2007
+2101,Kasal Kasali Kasalo,Horror,2,2008
+2102,The Breakup Playlist,Sci-Fi,9,2009
+2103,Starting Over Again,Romance,10,2002
+2104,Bride for Rent,Romance,1,2010
+2105,Everything About Her,Romance,4,2003
+2106,One More Chance,Comedy,8,2002
+2107,The Achy Breaky Hearts,Sci-Fi,5,2006
+2108,The Girl in the Orange Dress,Action,10,2012
+2109,Four Sisters and a Wedding,Thriller,4,2008
+2110,Ex with Benefits,Fantasy,7,2010
+2111,You Changed My Life,Comedy,4,2008
+2112,One More Chance,Comedy,7,2006
+2113,She's Dating the Gangster,Romance,2,2010
+2114,One More Chance,Romance,1,2012
+2115,Ex with Benefits,Comedy,4,2011
+2116,She's Dating the Gangster,Thriller,4,2003
+2117,The Mistress,Sci-Fi,2,2012
+2118,It Takes a Man and a Woman,Drama,6,2009
+2119,Dekada '70,Fantasy,9,2006
+2120,The Mistress,Romance,7,2011
+2121,Sisterakas,Fantasy,4,2002
+2122,Everything About Her,Romance,8,2006
+2123,Kasal Kasali Kasalo,Thriller,1,2012
+2124,Feng Shui,Horror,5,2012
+2125,Everything About Her,Fantasy,10,2009
+2126,The Mistress,Fantasy,1,2007
+2127,The Achy Breaky Hearts,Comedy,7,2008
+2128,The Hows of Us,Romance,1,2005
+2129,Alone/Together,Horror,2,2010
+2130,Till I Met You,Drama,6,2012
+2131,Feng Shui,Drama,10,2008
+2132,Praybeyt Benjamin,Drama,9,2008
+2133,Kung Fu Divas,Comedy,6,2008
+2134,A Very Special Love,Fantasy,1,2008
+2135,All About Love,Drama,5,2012
+2136,Kimmy Dora,Action,6,2006
+2137,Four Sisters and a Wedding,Comedy,2,2012
+2138,A Second Chance,Comedy,9,2005
+2139,The Mistress,Fantasy,5,2004
+2140,It Takes a Man and a Woman,Action,2,2008
+2141,Close to You,Horror,5,2005
+2142,Kung Fu Divas,Sci-Fi,4,2007
+2143,Praybeyt Benjamin,Fantasy,10,2011
+2144,Seven Sundays,Thriller,1,2008
+2145,Love You to the Stars and Back,Action,3,2007
+2146,Love You to the Stars and Back,Thriller,3,2005
+2147,Starting Over Again,Thriller,2,2007
+2148,Feng Shui,Thriller,4,2009
+2149,The Achy Breaky Hearts,Fantasy,6,2012
+2150,Close to You,Romance,10,2008
+2151,Three Words to Forever,Comedy,6,2011
+2152,Sisterakas,Comedy,8,2012
+2153,The Hows of Us,Comedy,7,2003
+2154,Everything About Her,Action,8,2004
+2155,The Healing,Thriller,10,2002
+2156,Sukob,Action,7,2004
+2157,No Other Woman,Fantasy,8,2002
+2158,Alone/Together,Comedy,2,2007
+2159,Kimmy Dora,Action,10,2002
+2160,She's the One,Comedy,9,2003
+2161,Love You to the Stars and Back,Horror,9,2008
+2162,Here Comes the Bride,Fantasy,2,2005
+2163,Can't Help Falling In Love,Drama,6,2009
+2164,Exes Baggage,Action,3,2007
+2165,Till I Met You,Romance,8,2007
+2166,The Achy Breaky Hearts,Horror,4,2005
+2167,No Other Woman,Thriller,8,2006
+2168,A Very Special Love,Romance,4,2009
+2169,One More Chance,Horror,2,2003
+2170,Kasal Kasali Kasalo,Thriller,4,2004
+2171,The Breakup Playlist,Fantasy,3,2011
+2172,Exes Baggage,Sci-Fi,9,2011
+2173,You're Still The One,Thriller,6,2005
+2174,The Achy Breaky Hearts,Thriller,4,2009
+2175,The Unmarried Wife,Sci-Fi,9,2012
+2176,Here Comes the Bride,Drama,4,2006
+2177,Suddenly It's Magic,Thriller,10,2011
+2178,One More Chance,Thriller,5,2003
+2179,Kasal Kasali Kasalo,Horror,5,2008
+2180,Alone/Together,Action,1,2005
+2181,Tanging Yaman,Drama,8,2009
+2182,Exes Baggage,Fantasy,4,2005
+2183,The Mistress,Drama,8,2011
+2184,Starting Over Again,Sci-Fi,10,2011
+2185,Barcelona: A Love Untold,Fantasy,2,2010
+2186,Miss Granny,Comedy,7,2009
+2187,Ang Tanging Ina,Comedy,3,2005
+2188,The Love Affair,Drama,3,2005
+2189,The Love Affair,Drama,2,2008
+2190,Three Words to Forever,Sci-Fi,5,2007
+2191,The Love Affair,Comedy,6,2011
+2192,She's Dating the Gangster,Comedy,1,2004
+2193,Starting Over Again,Fantasy,3,2004
+2194,You're Still The One,Horror,7,2004
+2195,The Hows of Us,Horror,10,2007
+2196,Exes Baggage,Fantasy,7,2008
+2197,A Very Special Love,Action,8,2009
+2198,Starting Over Again,Comedy,4,2009
+2199,It Takes a Man and a Woman,Romance,2,2004
+2200,My Amnesia Girl,Action,10,2012
+2201,A Very Special Love,Horror,5,2010
+2202,No Other Woman,Horror,8,2006
+2203,Till I Met You,Action,9,2006
+2204,Feng Shui,Romance,10,2008
+2205,Three Words to Forever,Fantasy,8,2012
+2206,Ex with Benefits,Drama,6,2012
+2207,Dekada '70,Fantasy,3,2009
+2208,Four Sisters and a Wedding,Sci-Fi,2,2010
+2209,Kasal Kasali Kasalo,Action,4,2011
+2210,Seven Sundays,Romance,4,2010
+2211,Sukob,Thriller,1,2004
+2212,The Mistress,Thriller,5,2009
+2213,Ang Tanging Ina,Thriller,6,2008
+2214,A Second Chance,Action,5,2011
+2215,Kimmy Dora,Horror,9,2010
+2216,Can't Help Falling In Love,Fantasy,1,2012
+2217,Four Sisters and a Wedding,Thriller,1,2008
+2218,All About Love,Thriller,9,2002
+2219,Starting Over Again,Thriller,1,2007
+2220,Feng Shui,Fantasy,2,2007
+2221,Tanging Yaman,Sci-Fi,4,2002
+2222,The Achy Breaky Hearts,Sci-Fi,8,2009
+2223,Till I Met You,Horror,9,2002
+2224,Crazy Beautiful You,Horror,1,2003
+2225,Love You to the Stars and Back,Romance,1,2012
+2226,You're Still The One,Action,9,2006
+2227,Sukob,Romance,5,2007
+2228,Alone/Together,Horror,9,2011
+2229,You're Still The One,Drama,10,2008
+2230,Kung Fu Divas,Romance,1,2004
+2231,You're Still The One,Thriller,7,2012
+2232,She's the One,Romance,1,2012
+2233,Till I Met You,Action,4,2009
+2234,The Girl in the Orange Dress,Thriller,8,2006
+2235,The Love Affair,Romance,8,2003
+2236,One More Chance,Fantasy,4,2012
+2237,Here Comes the Bride,Fantasy,9,2009
+2238,My Big Love,Horror,4,2011
+2239,Exes Baggage,Comedy,6,2005
+2240,Suddenly It's Magic,Fantasy,3,2012
+2241,She's Dating the Gangster,Sci-Fi,5,2010
+2242,It Takes a Man and a Woman,Drama,9,2004
+2243,A Second Chance,Horror,7,2010
+2244,One More Chance,Comedy,2,2003
+2245,My Amnesia Girl,Romance,8,2009
+2246,Ang Tanging Ina,Thriller,1,2012
+2247,Ang Tanging Ina,Thriller,7,2006
+2248,Alone/Together,Horror,3,2009
+2249,The Achy Breaky Hearts,Romance,3,2010
+2250,Seven Sundays,Sci-Fi,1,2003
+2251,Till I Met You,Action,8,2005
+2252,Miss Granny,Fantasy,10,2006
+2253,Exes Baggage,Romance,4,2006
+2254,Alone/Together,Horror,7,2008
+2255,She's Dating the Gangster,Sci-Fi,1,2006
+2256,In My Life,Comedy,1,2002
+2257,The Hows of Us,Fantasy,2,2008
+2258,The Healing,Horror,10,2010
+2259,Seven Sundays,Romance,2,2002
+2260,Dekada '70,Action,1,2003
+2261,Everyday I Love You,Comedy,4,2005
+2262,One More Chance,Sci-Fi,6,2003
+2263,Four Sisters and a Wedding,Action,8,2009
+2264,The Achy Breaky Hearts,Sci-Fi,2,2010
+2265,Four Sisters and a Wedding,Romance,5,2009
+2266,The Unmarried Wife,Fantasy,4,2003
+2267,Seven Sundays,Thriller,3,2005
+2268,One More Chance,Romance,8,2003
+2269,Feng Shui,Drama,4,2005
+2270,A Second Chance,Drama,6,2006
+2271,Sukob,Fantasy,4,2012
+2272,Love You to the Stars and Back,Thriller,8,2003
+2273,One More Chance,Sci-Fi,3,2007
+2274,Here Comes the Bride,Thriller,10,2002
+2275,Suddenly It's Magic,Action,6,2008
+2276,Praybeyt Benjamin,Action,3,2007
+2277,Exes Baggage,Fantasy,2,2009
+2278,Exes Baggage,Thriller,3,2006
+2279,Tanging Yaman,Romance,10,2005
+2280,The Healing,Fantasy,10,2009
+2281,She's the One,Action,4,2004
+2282,No Other Woman,Fantasy,4,2004
+2283,Praybeyt Benjamin,Comedy,7,2011
+2284,All About Love,Thriller,9,2005
+2285,A Very Special Love,Action,9,2005
+2286,Sukob,Fantasy,9,2010
+2287,Everything About Her,Drama,4,2011
+2288,Kasal Kasali Kasalo,Comedy,4,2002
+2289,Suddenly It's Magic,Romance,7,2004
+2290,Kung Fu Divas,Comedy,10,2003
+2291,The Achy Breaky Hearts,Fantasy,4,2004
+2292,Here Comes the Bride,Drama,2,2011
+2293,She's Dating the Gangster,Romance,7,2007
+2294,Four Sisters and a Wedding,Romance,7,2011
+2295,Feng Shui,Thriller,4,2007
+2296,Barcelona: A Love Untold,Comedy,8,2002
+2297,Seven Sundays,Drama,6,2006
+2298,The Hows of Us,Fantasy,4,2012
+2299,My Big Love,Drama,5,2005
+2300,Miss Granny,Sci-Fi,4,2012
+2301,Ang Tanging Ina,Romance,8,2012
+2302,One More Chance,Thriller,7,2002
+2303,The Unmarried Wife,Sci-Fi,2,2010
+2304,Bride for Rent,Fantasy,5,2005
+2305,You Changed My Life,Drama,7,2003
+2306,The Girl in the Orange Dress,Sci-Fi,2,2012
+2307,Close to You,Sci-Fi,8,2005
+2308,My Big Love,Fantasy,3,2010
+2309,One More Chance,Comedy,3,2005
+2310,Four Sisters and a Wedding,Action,1,2010
+2311,No Other Woman,Action,7,2005
+2312,Seven Sundays,Sci-Fi,5,2008
+2313,Miss Granny,Romance,2,2008
+2314,The Girl in the Orange Dress,Fantasy,10,2007
+2315,My Amnesia Girl,Romance,9,2006
+2316,Barcelona: A Love Untold,Action,4,2004
+2317,My Big Love,Thriller,8,2010
+2318,Four Sisters and a Wedding,Fantasy,9,2012
+2319,The Healing,Action,2,2012
+2320,One More Chance,Comedy,8,2008
+2321,Bride for Rent,Fantasy,3,2012
+2322,Praybeyt Benjamin,Romance,2,2005
+2323,Miss Granny,Drama,7,2005
+2324,Three Words to Forever,Romance,5,2008
+2325,Can't Help Falling In Love,Romance,9,2005
+2326,Three Words to Forever,Horror,3,2009
+2327,Exes Baggage,Romance,2,2010
+2328,Everyday I Love You,Fantasy,5,2004
+2329,Barcelona: A Love Untold,Thriller,2,2007
+2330,Starting Over Again,Horror,8,2008
+2331,Close to You,Romance,2,2006
+2332,My Ex and Whys,Action,10,2005
+2333,Dekada '70,Horror,8,2004
+2334,She's the One,Romance,4,2005
+2335,The Achy Breaky Hearts,Sci-Fi,2,2006
+2336,Bride for Rent,Horror,5,2009
+2337,Here Comes the Bride,Action,7,2004
+2338,Ang Tanging Ina,Thriller,3,2006
+2339,You're Still The One,Comedy,3,2010
+2340,Crazy Beautiful You,Horror,1,2011
+2341,My Big Love,Romance,9,2006
+2342,Sukob,Horror,4,2007
+2343,A Very Special Love,Horror,8,2004
+2344,It Takes a Man and a Woman,Drama,1,2011
+2345,Suddenly It's Magic,Comedy,8,2010
+2346,The Achy Breaky Hearts,Romance,8,2011
+2347,Kasal Kasali Kasalo,Action,2,2005
+2348,The Mistress,Sci-Fi,4,2012
+2349,Dekada '70,Thriller,6,2004
+2350,My Big Love,Action,5,2010
+2351,The Breakup Playlist,Thriller,2,2002
+2352,My Amnesia Girl,Romance,9,2009
+2353,Kung Fu Divas,Sci-Fi,10,2011
+2354,My Amnesia Girl,Drama,5,2008
+2355,Miss Granny,Thriller,9,2003
+2356,Dekada '70,Horror,2,2002
+2357,Sisterakas,Drama,9,2006
+2358,Alone/Together,Sci-Fi,3,2010
+2359,Close to You,Romance,10,2003
+2360,No Other Woman,Drama,3,2008
+2361,Love You to the Stars and Back,Thriller,5,2010
+2362,No Other Woman,Romance,10,2003
+2363,Ex with Benefits,Fantasy,10,2004
+2364,Love You to the Stars and Back,Fantasy,7,2009
+2365,Feng Shui,Drama,7,2002
+2366,Praybeyt Benjamin,Comedy,1,2010
+2367,Everything About Her,Drama,4,2009
+2368,It Takes a Man and a Woman,Horror,8,2009
+2369,Miss Granny,Action,7,2006
+2370,Till I Met You,Thriller,3,2012
+2371,The Unmarried Wife,Horror,3,2005
+2372,Can't Help Falling In Love,Comedy,7,2002
+2373,Everyday I Love You,Romance,4,2009
+2374,No Other Woman,Action,8,2005
+2375,The Love Affair,Comedy,2,2012
+2376,It Takes a Man and a Woman,Thriller,7,2002
+2377,All About Love,Horror,7,2004
+2378,The Unmarried Wife,Drama,7,2003
+2379,Four Sisters and a Wedding,Sci-Fi,5,2010
+2380,The Hows of Us,Sci-Fi,9,2003
+2381,The Healing,Romance,3,2007
+2382,A Very Special Love,Fantasy,9,2009
+2383,In My Life,Comedy,1,2012
+2384,The Healing,Fantasy,5,2008
+2385,One More Chance,Horror,9,2004
+2386,Kung Fu Divas,Thriller,1,2011
+2387,Dekada '70,Fantasy,6,2012
+2388,You Changed My Life,Sci-Fi,2,2004
+2389,You're Still The One,Comedy,6,2011
+2390,No Other Woman,Sci-Fi,6,2003
+2391,Sukob,Horror,9,2006
+2392,Kasal Kasali Kasalo,Drama,9,2008
+2393,Praybeyt Benjamin,Thriller,2,2006
+2394,The Hows of Us,Romance,10,2007
+2395,Sukob,Sci-Fi,1,2006
+2396,Feng Shui,Sci-Fi,8,2003
+2397,The Girl in the Orange Dress,Fantasy,8,2007
+2398,Tanging Yaman,Thriller,4,2009
+2399,Kasal Kasali Kasalo,Action,3,2002
+2400,The Breakup Playlist,Horror,3,2003
+2401,Praybeyt Benjamin,Sci-Fi,4,2006
+2402,The Mistress,Thriller,8,2008
+2403,My Big Love,Horror,2,2010
+2404,Everyday I Love You,Horror,10,2008
+2405,Barcelona: A Love Untold,Thriller,3,2010
+2406,Four Sisters and a Wedding,Fantasy,8,2005
+2407,In My Life,Romance,9,2012
+2408,Kimmy Dora,Romance,8,2010
+2409,Alone/Together,Action,6,2004
+2410,Close to You,Thriller,5,2011
+2411,She's the One,Fantasy,1,2010
+2412,Crazy Beautiful You,Fantasy,10,2008
+2413,Suddenly It's Magic,Drama,4,2010
+2414,Till I Met You,Fantasy,2,2008
+2415,The Achy Breaky Hearts,Thriller,10,2009
+2416,You Changed My Life,Thriller,4,2008
+2417,Dekada '70,Comedy,8,2011
+2418,Bride for Rent,Comedy,9,2011
+2419,The Achy Breaky Hearts,Romance,5,2009
+2420,Feng Shui,Drama,4,2005
+2421,Seven Sundays,Action,2,2006
+2422,It Takes a Man and a Woman,Drama,10,2003
+2423,Love You to the Stars and Back,Comedy,10,2011
+2424,Here Comes the Bride,Action,4,2007
+2425,Dekada '70,Drama,5,2004
+2426,Crazy Beautiful You,Comedy,7,2005
+2427,You Changed My Life,Comedy,7,2012
+2428,Praybeyt Benjamin,Drama,4,2002
+2429,She's Dating the Gangster,Action,1,2003
+2430,Miss Granny,Sci-Fi,8,2011
+2431,Starting Over Again,Comedy,6,2007
+2432,The Unmarried Wife,Drama,5,2010
+2433,Feng Shui,Drama,10,2008
+2434,The Healing,Thriller,10,2004
+2435,One More Chance,Horror,8,2006
+2436,My Amnesia Girl,Action,6,2008
+2437,Bride for Rent,Romance,8,2006
+2438,My Big Love,Fantasy,5,2011
+2439,My Big Love,Comedy,6,2005
+2440,In My Life,Romance,7,2006
+2441,Ex with Benefits,Comedy,10,2010
+2442,My Amnesia Girl,Thriller,7,2012
+2443,Love You to the Stars and Back,Drama,1,2012
+2444,Praybeyt Benjamin,Drama,1,2011
+2445,You Changed My Life,Drama,5,2002
+2446,The Unmarried Wife,Drama,7,2004
+2447,The Love Affair,Horror,1,2005
+2448,The Achy Breaky Hearts,Horror,1,2007
+2449,Everyday I Love You,Horror,1,2011
+2450,Love You to the Stars and Back,Sci-Fi,2,2004
+2451,Bride for Rent,Drama,5,2007
+2452,My Amnesia Girl,Fantasy,6,2011
+2453,My Amnesia Girl,Action,7,2011
+2454,You're Still The One,Action,1,2010
+2455,Praybeyt Benjamin,Fantasy,3,2003
+2456,The Hows of Us,Comedy,10,2007
+2457,Kimmy Dora,Thriller,3,2003
+2458,My Big Love,Fantasy,9,2006
+2459,Love You to the Stars and Back,Horror,1,2005
+2460,Seven Sundays,Comedy,3,2004
+2461,The Unmarried Wife,Romance,10,2003
+2462,Three Words to Forever,Horror,2,2010
+2463,Here Comes the Bride,Sci-Fi,9,2006
+2464,Exes Baggage,Fantasy,4,2009
+2465,The Love Affair,Fantasy,9,2009
+2466,All About Love,Fantasy,8,2005
+2467,No Other Woman,Drama,1,2009
+2468,A Second Chance,Sci-Fi,6,2002
+2469,The Achy Breaky Hearts,Comedy,6,2005
+2470,Barcelona: A Love Untold,Comedy,6,2002
+2471,Crazy Beautiful You,Fantasy,7,2006
+2472,She's the One,Drama,2,2009
+2473,Feng Shui,Action,9,2006
+2474,Sukob,Sci-Fi,8,2007
+2475,Seven Sundays,Action,1,2012
+2476,Three Words to Forever,Drama,8,2007
+2477,Can't Help Falling In Love,Drama,2,2008
+2478,In My Life,Comedy,7,2004
+2479,Exes Baggage,Sci-Fi,10,2009
+2480,One More Chance,Fantasy,3,2007
+2481,Can't Help Falling In Love,Action,1,2012
+2482,She's Dating the Gangster,Action,10,2003
+2483,Barcelona: A Love Untold,Drama,1,2011
+2484,Ex with Benefits,Thriller,6,2003
+2485,Everyday I Love You,Drama,1,2011
+2486,Tanging Yaman,Drama,7,2012
+2487,The Achy Breaky Hearts,Sci-Fi,5,2009
+2488,In My Life,Drama,1,2009
+2489,One More Chance,Fantasy,7,2005
+2490,Everyday I Love You,Thriller,6,2005
+2491,Kung Fu Divas,Thriller,10,2003
+2492,Praybeyt Benjamin,Sci-Fi,6,2007
+2493,She's the One,Horror,5,2003
+2494,Kasal Kasali Kasalo,Comedy,1,2005
+2495,Praybeyt Benjamin,Romance,7,2008
+2496,It Takes a Man and a Woman,Fantasy,5,2005
+2497,Praybeyt Benjamin,Action,6,2008
+2498,The Mistress,Fantasy,4,2012
+2499,The Achy Breaky Hearts,Drama,10,2003
+2500,Kung Fu Divas,Action,2,2009
+2501,Everything About Her,Thriller,7,2004
+2502,A Very Special Love,Thriller,5,2008
+2503,The Breakup Playlist,Comedy,4,2002
+2504,Can't Help Falling In Love,Comedy,3,2006
+2505,You Changed My Life,Comedy,3,2007
+2506,Sukob,Thriller,10,2002
+2507,Feng Shui,Comedy,7,2005
+2508,No Other Woman,Fantasy,1,2011
+2509,Ang Tanging Ina,Thriller,7,2009
+2510,Dekada '70,Fantasy,4,2003
+2511,The Love Affair,Horror,2,2005
+2512,Till I Met You,Comedy,5,2010
+2513,She's the One,Drama,9,2002
+2514,You're Still The One,Drama,5,2009
+2515,You Changed My Life,Comedy,2,2002
+2516,She's Dating the Gangster,Horror,5,2007
+2517,Close to You,Horror,2,2009
+2518,Tanging Yaman,Drama,4,2007
+2519,Close to You,Romance,3,2012
+2520,Kasal Kasali Kasalo,Horror,7,2005
+2521,She's Dating the Gangster,Drama,7,2006
+2522,My Ex and Whys,Horror,6,2002
+2523,You Changed My Life,Sci-Fi,10,2008
+2524,The Unmarried Wife,Action,1,2005
+2525,The Breakup Playlist,Comedy,1,2010
+2526,The Healing,Action,10,2008
+2527,One More Chance,Thriller,5,2006
+2528,Alone/Together,Fantasy,1,2002
+2529,Seven Sundays,Comedy,3,2003
+2530,One More Chance,Comedy,8,2002
+2531,Love You to the Stars and Back,Drama,4,2004
+2532,The Girl in the Orange Dress,Romance,9,2003
+2533,No Other Woman,Comedy,7,2011
+2534,The Unmarried Wife,Sci-Fi,4,2010
+2535,Close to You,Romance,3,2004
+2536,Dekada '70,Action,9,2002
+2537,Seven Sundays,Drama,9,2009
+2538,Kasal Kasali Kasalo,Drama,4,2011
+2539,You Changed My Life,Sci-Fi,7,2011
+2540,Dekada '70,Fantasy,1,2003
+2541,Tanging Yaman,Romance,2,2011
+2542,My Amnesia Girl,Horror,3,2002
+2543,A Second Chance,Fantasy,10,2004
+2544,Kasal Kasali Kasalo,Comedy,4,2005
+2545,All About Love,Romance,7,2004
+2546,Feng Shui,Thriller,10,2005
+2547,Everyday I Love You,Romance,8,2008
+2548,Sisterakas,Drama,8,2009
+2549,Praybeyt Benjamin,Romance,7,2009
+2550,You're Still The One,Romance,2,2009
+2551,Till I Met You,Drama,6,2006
+2552,Alone/Together,Fantasy,4,2003
+2553,Suddenly It's Magic,Fantasy,8,2004
+2554,The Achy Breaky Hearts,Fantasy,10,2006
+2555,The Girl in the Orange Dress,Drama,7,2004
+2556,Praybeyt Benjamin,Comedy,9,2011
+2557,The Healing,Sci-Fi,4,2011
+2558,Suddenly It's Magic,Romance,7,2009
+2559,The Achy Breaky Hearts,Action,6,2009
+2560,She's Dating the Gangster,Drama,9,2012
+2561,The Hows of Us,Action,10,2007
+2562,Exes Baggage,Thriller,1,2012
+2563,The Healing,Horror,5,2012
+2564,Four Sisters and a Wedding,Thriller,3,2005
+2565,One More Chance,Thriller,2,2011
+2566,The Breakup Playlist,Romance,6,2009
+2567,Exes Baggage,Sci-Fi,1,2007
+2568,The Unmarried Wife,Drama,2,2012
+2569,Praybeyt Benjamin,Drama,5,2010
+2570,Here Comes the Bride,Romance,6,2006
+2571,One More Chance,Romance,4,2008
+2572,You're Still The One,Horror,10,2003
+2573,Kung Fu Divas,Fantasy,6,2008
+2574,One More Chance,Romance,3,2003
+2575,Barcelona: A Love Untold,Fantasy,8,2007
+2576,Ex with Benefits,Action,2,2005
+2577,Can't Help Falling In Love,Action,1,2003
+2578,Praybeyt Benjamin,Thriller,10,2007
+2579,Kimmy Dora,Sci-Fi,2,2002
+2580,The Mistress,Drama,10,2006
+2581,The Breakup Playlist,Comedy,2,2009
+2582,She's the One,Romance,6,2004
+2583,Suddenly It's Magic,Fantasy,8,2009
+2584,You Changed My Life,Horror,8,2012
+2585,Starting Over Again,Horror,9,2012
+2586,Alone/Together,Horror,8,2007
+2587,Here Comes the Bride,Comedy,8,2009
+2588,The Hows of Us,Thriller,4,2007
+2589,Seven Sundays,Romance,2,2004
+2590,Here Comes the Bride,Thriller,1,2006
+2591,You're Still The One,Thriller,7,2009
+2592,Miss Granny,Horror,10,2006
+2593,Sisterakas,Action,3,2006
+2594,You're Still The One,Action,2,2004
+2595,It Takes a Man and a Woman,Drama,6,2010
+2596,No Other Woman,Comedy,3,2005
+2597,Close to You,Horror,5,2012
+2598,The Breakup Playlist,Comedy,9,2005
+2599,Praybeyt Benjamin,Thriller,1,2003
+2600,Crazy Beautiful You,Horror,4,2009
+2601,Can't Help Falling In Love,Action,3,2012
+2602,Bride for Rent,Thriller,3,2009
+2603,A Very Special Love,Fantasy,9,2007
+2604,No Other Woman,Horror,1,2012
+2605,Seven Sundays,Horror,3,2004
+2606,It Takes a Man and a Woman,Comedy,10,2010
+2607,Alone/Together,Fantasy,4,2007
+2608,The Mistress,Drama,5,2002
+2609,Seven Sundays,Fantasy,2,2006
+2610,Kung Fu Divas,Comedy,7,2012
+2611,The Achy Breaky Hearts,Romance,7,2004
+2612,The Healing,Sci-Fi,8,2002
+2613,Sisterakas,Horror,8,2011
+2614,A Second Chance,Fantasy,9,2006
+2615,The Healing,Comedy,4,2003
+2616,Seven Sundays,Comedy,3,2008
+2617,Close to You,Sci-Fi,8,2004
+2618,She's the One,Action,7,2012
+2619,She's the One,Fantasy,9,2011
+2620,Dekada '70,Thriller,10,2007
+2621,Alone/Together,Comedy,1,2011
+2622,Three Words to Forever,Sci-Fi,8,2009
+2623,Seven Sundays,Fantasy,10,2010
+2624,The Healing,Drama,4,2006
+2625,Till I Met You,Drama,1,2011
+2626,One More Chance,Action,10,2005
+2627,The Hows of Us,Sci-Fi,4,2002
+2628,One More Chance,Comedy,2,2010
+2629,It Takes a Man and a Woman,Sci-Fi,3,2003
+2630,You're Still The One,Action,1,2004
+2631,Miss Granny,Sci-Fi,7,2005
+2632,Till I Met You,Thriller,6,2003
+2633,The Healing,Horror,3,2012
+2634,Three Words to Forever,Fantasy,2,2003
+2635,Barcelona: A Love Untold,Fantasy,9,2002
+2636,Three Words to Forever,Thriller,5,2007
+2637,Feng Shui,Action,7,2006
+2638,Suddenly It's Magic,Comedy,6,2008
+2639,Three Words to Forever,Fantasy,8,2003
+2640,Miss Granny,Romance,10,2005
+2641,She's the One,Sci-Fi,8,2010
+2642,Exes Baggage,Sci-Fi,10,2008
+2643,Sukob,Horror,2,2010
+2644,She's the One,Drama,9,2004
+2645,The Girl in the Orange Dress,Romance,6,2004
+2646,Exes Baggage,Fantasy,3,2004
+2647,A Second Chance,Thriller,3,2004
+2648,Alone/Together,Sci-Fi,7,2007
+2649,Exes Baggage,Action,3,2004
+2650,Barcelona: A Love Untold,Horror,7,2002
+2651,Suddenly It's Magic,Horror,5,2007
+2652,Starting Over Again,Fantasy,7,2006
+2653,All About Love,Romance,4,2012
+2654,No Other Woman,Horror,2,2012
+2655,The Unmarried Wife,Sci-Fi,9,2012
+2656,Seven Sundays,Horror,2,2002
+2657,The Achy Breaky Hearts,Sci-Fi,5,2004
+2658,Close to You,Romance,2,2012
+2659,She's the One,Action,7,2004
+2660,Ang Tanging Ina,Drama,3,2012
+2661,Sisterakas,Sci-Fi,6,2003
+2662,The Mistress,Thriller,3,2009
+2663,Kung Fu Divas,Action,9,2010
+2664,Seven Sundays,Romance,8,2010
+2665,She's the One,Horror,5,2007
+2666,Close to You,Drama,5,2005
+2667,All About Love,Thriller,3,2011
+2668,Seven Sundays,Comedy,6,2005
+2669,Feng Shui,Action,1,2010
+2670,Crazy Beautiful You,Sci-Fi,1,2007
+2671,The Healing,Romance,2,2012
+2672,The Girl in the Orange Dress,Thriller,8,2010
+2673,The Love Affair,Sci-Fi,4,2008
+2674,The Hows of Us,Comedy,6,2005
+2675,Kasal Kasali Kasalo,Sci-Fi,5,2008
+2676,No Other Woman,Thriller,9,2004
+2677,Sukob,Action,5,2012
+2678,Kasal Kasali Kasalo,Sci-Fi,4,2004
+2679,My Ex and Whys,Thriller,4,2005
+2680,Love You to the Stars and Back,Fantasy,3,2004
+2681,You're Still The One,Romance,10,2006
+2682,My Ex and Whys,Sci-Fi,10,2010
+2683,Suddenly It's Magic,Thriller,5,2011
+2684,Kung Fu Divas,Romance,6,2002
+2685,Ex with Benefits,Drama,8,2011
+2686,The Breakup Playlist,Thriller,9,2002
+2687,Exes Baggage,Action,3,2002
+2688,My Big Love,Action,8,2006
+2689,Four Sisters and a Wedding,Romance,1,2002
+2690,One More Chance,Comedy,5,2002
+2691,Love You to the Stars and Back,Comedy,5,2006
+2692,My Big Love,Fantasy,1,2006
+2693,Exes Baggage,Action,2,2003
+2694,Dekada '70,Romance,5,2006
+2695,You're Still The One,Sci-Fi,6,2003
+2696,Sisterakas,Romance,9,2005
+2697,The Breakup Playlist,Romance,1,2008
+2698,Ex with Benefits,Fantasy,3,2004
+2699,You Changed My Life,Thriller,3,2004
+2700,My Amnesia Girl,Fantasy,8,2007
+2701,The Healing,Drama,10,2006
+2702,Dekada '70,Action,1,2004
+2703,Kasal Kasali Kasalo,Fantasy,3,2010
+2704,She's Dating the Gangster,Comedy,7,2005
+2705,My Amnesia Girl,Drama,1,2005
+2706,Miss Granny,Romance,7,2005
+2707,Barcelona: A Love Untold,Action,1,2011
+2708,The Love Affair,Fantasy,7,2005
+2709,Till I Met You,Fantasy,6,2007
+2710,The Breakup Playlist,Comedy,10,2004
+2711,Suddenly It's Magic,Thriller,4,2009
+2712,The Healing,Action,1,2008
+2713,Tanging Yaman,Comedy,7,2009
+2714,Feng Shui,Sci-Fi,3,2007
+2715,Here Comes the Bride,Horror,5,2011
+2716,Alone/Together,Fantasy,3,2007
+2717,The Healing,Romance,3,2006
+2718,Starting Over Again,Thriller,2,2002
+2719,The Breakup Playlist,Romance,6,2009
+2720,All About Love,Thriller,5,2002
+2721,The Healing,Thriller,10,2012
+2722,A Second Chance,Comedy,2,2011
+2723,Miss Granny,Thriller,6,2007
+2724,In My Life,Comedy,3,2011
+2725,Can't Help Falling In Love,Sci-Fi,2,2007
+2726,One More Chance,Fantasy,8,2011
+2727,Sukob,Sci-Fi,7,2008
+2728,Ex with Benefits,Drama,3,2005
+2729,In My Life,Comedy,2,2010
+2730,Bride for Rent,Sci-Fi,4,2004
+2731,Feng Shui,Drama,5,2005
+2732,Everyday I Love You,Sci-Fi,10,2003
+2733,All About Love,Thriller,3,2011
+2734,Tanging Yaman,Comedy,4,2011
+2735,One More Chance,Action,9,2002
+2736,Starting Over Again,Fantasy,5,2008
+2737,Kimmy Dora,Fantasy,7,2008
+2738,Three Words to Forever,Fantasy,4,2007
+2739,The Girl in the Orange Dress,Comedy,4,2003
+2740,Can't Help Falling In Love,Thriller,4,2011
+2741,Kimmy Dora,Fantasy,8,2006
+2742,Dekada '70,Horror,1,2008
+2743,Here Comes the Bride,Sci-Fi,4,2003
+2744,Everything About Her,Fantasy,9,2008
+2745,My Big Love,Drama,6,2002
+2746,All About Love,Action,8,2008
+2747,Here Comes the Bride,Sci-Fi,3,2011
+2748,It Takes a Man and a Woman,Romance,4,2010
+2749,Exes Baggage,Sci-Fi,10,2010
+2750,My Ex and Whys,Fantasy,3,2004
+2751,In My Life,Comedy,1,2010
+2752,Starting Over Again,Sci-Fi,3,2004
+2753,A Very Special Love,Horror,3,2011
+2754,Starting Over Again,Drama,5,2008
+2755,You Changed My Life,Drama,6,2012
+2756,Can't Help Falling In Love,Thriller,4,2009
+2757,Close to You,Comedy,10,2006
+2758,Three Words to Forever,Drama,10,2005
+2759,Dekada '70,Horror,7,2008
+2760,You're Still The One,Comedy,2,2007
+2761,Sisterakas,Sci-Fi,2,2009
+2762,Kasal Kasali Kasalo,Romance,4,2008
+2763,Close to You,Action,3,2012
+2764,One More Chance,Drama,10,2005
+2765,A Second Chance,Sci-Fi,3,2012
+2766,The Unmarried Wife,Comedy,3,2006
+2767,A Very Special Love,Romance,5,2003
+2768,All About Love,Thriller,6,2009
+2769,The Hows of Us,Romance,10,2010
+2770,The Hows of Us,Drama,3,2005
+2771,The Mistress,Drama,4,2005
+2772,Here Comes the Bride,Action,3,2010
+2773,Miss Granny,Thriller,9,2009
+2774,Crazy Beautiful You,Comedy,4,2008
+2775,Ex with Benefits,Romance,4,2005
+2776,Miss Granny,Comedy,3,2004
+2777,Bride for Rent,Drama,3,2005
+2778,My Amnesia Girl,Comedy,3,2010
+2779,Love You to the Stars and Back,Romance,6,2004
+2780,One More Chance,Horror,7,2009
+2781,Close to You,Sci-Fi,1,2008
+2782,Miss Granny,Horror,9,2010
+2783,The Achy Breaky Hearts,Thriller,4,2003
+2784,Suddenly It's Magic,Action,8,2004
+2785,Barcelona: A Love Untold,Action,7,2010
+2786,A Very Special Love,Fantasy,1,2004
+2787,No Other Woman,Horror,9,2011
+2788,A Very Special Love,Sci-Fi,4,2002
+2789,The Mistress,Horror,3,2007
+2790,Sukob,Thriller,3,2012
+2791,Feng Shui,Horror,3,2002
+2792,Barcelona: A Love Untold,Romance,9,2010
+2793,In My Life,Horror,9,2011
+2794,Till I Met You,Romance,6,2004
+2795,The Unmarried Wife,Drama,7,2007
+2796,Can't Help Falling In Love,Comedy,9,2012
+2797,Tanging Yaman,Sci-Fi,5,2002
+2798,In My Life,Horror,2,2007
+2799,Ang Tanging Ina,Horror,9,2005
+2800,Tanging Yaman,Drama,4,2004
+2801,The Hows of Us,Comedy,8,2006
+2802,Close to You,Thriller,4,2010
+2803,My Big Love,Thriller,7,2009
+2804,Everyday I Love You,Horror,10,2006
+2805,Four Sisters and a Wedding,Comedy,7,2009
+2806,Kung Fu Divas,Horror,2,2007
+2807,The Healing,Horror,7,2008
+2808,Ex with Benefits,Horror,1,2007
+2809,Ang Tanging Ina,Romance,6,2004
+2810,The Hows of Us,Comedy,8,2005
+2811,My Big Love,Action,6,2010
+2812,You're Still The One,Fantasy,10,2002
+2813,The Mistress,Fantasy,6,2007
+2814,Ex with Benefits,Drama,2,2005
+2815,Can't Help Falling In Love,Comedy,10,2006
+2816,One More Chance,Fantasy,10,2005
+2817,Close to You,Fantasy,6,2003
+2818,No Other Woman,Sci-Fi,3,2005
+2819,Three Words to Forever,Horror,1,2007
+2820,Alone/Together,Sci-Fi,3,2005
+2821,A Very Special Love,Thriller,10,2010
+2822,You're Still The One,Thriller,2,2002
+2823,The Healing,Action,8,2009
+2824,Four Sisters and a Wedding,Horror,9,2003
+2825,The Achy Breaky Hearts,Comedy,4,2010
+2826,A Second Chance,Thriller,2,2010
+2827,Crazy Beautiful You,Romance,10,2007
+2828,Alone/Together,Thriller,6,2004
+2829,The Mistress,Drama,2,2010
+2830,A Second Chance,Thriller,5,2003
+2831,The Mistress,Drama,9,2011
+2832,Ang Tanging Ina,Sci-Fi,5,2011
+2833,Tanging Yaman,Sci-Fi,9,2006
+2834,Three Words to Forever,Fantasy,7,2005
+2835,My Big Love,Sci-Fi,10,2003
+2836,Crazy Beautiful You,Action,5,2002
+2837,Feng Shui,Thriller,6,2012
+2838,My Amnesia Girl,Sci-Fi,5,2006
+2839,One More Chance,Romance,8,2008
+2840,You're Still The One,Drama,2,2012
+2841,Everything About Her,Drama,7,2008
+2842,Love You to the Stars and Back,Romance,5,2004
+2843,Feng Shui,Horror,6,2009
+2844,No Other Woman,Fantasy,9,2007
+2845,Everything About Her,Romance,1,2005
+2846,Kung Fu Divas,Drama,10,2004
+2847,Love You to the Stars and Back,Drama,1,2011
+2848,My Amnesia Girl,Thriller,4,2008
+2849,The Healing,Action,4,2007
+2850,Praybeyt Benjamin,Romance,3,2006
+2851,My Big Love,Horror,4,2002
+2852,Sisterakas,Sci-Fi,9,2008
+2853,The Love Affair,Fantasy,1,2005
+2854,You're Still The One,Sci-Fi,10,2010
+2855,Sukob,Action,8,2003
+2856,Close to You,Romance,4,2009
+2857,Here Comes the Bride,Sci-Fi,4,2011
+2858,Barcelona: A Love Untold,Fantasy,3,2002
+2859,Ex with Benefits,Drama,2,2006
+2860,Praybeyt Benjamin,Thriller,5,2008
+2861,She's Dating the Gangster,Comedy,8,2008
+2862,Feng Shui,Horror,1,2009
+2863,The Love Affair,Drama,4,2007
+2864,Miss Granny,Fantasy,6,2009
+2865,Three Words to Forever,Fantasy,5,2003
+2866,Tanging Yaman,Thriller,9,2012
+2867,All About Love,Horror,5,2006
+2868,The Girl in the Orange Dress,Horror,5,2010
+2869,Ang Tanging Ina,Romance,3,2006
+2870,The Healing,Comedy,4,2005
+2871,Three Words to Forever,Comedy,2,2004
+2872,Dekada '70,Horror,6,2010
+2873,The Mistress,Thriller,4,2007
+2874,All About Love,Thriller,5,2007
+2875,My Amnesia Girl,Thriller,10,2007
+2876,In My Life,Fantasy,4,2003
+2877,The Breakup Playlist,Thriller,7,2004
+2878,One More Chance,Romance,9,2009
+2879,The Breakup Playlist,Fantasy,6,2009
+2880,Three Words to Forever,Thriller,3,2003
+2881,Barcelona: A Love Untold,Romance,8,2008
+2882,My Big Love,Romance,8,2006
+2883,Starting Over Again,Comedy,7,2004
+2884,You Changed My Life,Action,7,2007
+2885,Barcelona: A Love Untold,Horror,7,2010
+2886,Till I Met You,Comedy,9,2004
+2887,Close to You,Horror,3,2012
+2888,Bride for Rent,Thriller,2,2011
+2889,Praybeyt Benjamin,Romance,5,2003
+2890,You Changed My Life,Drama,2,2003
+2891,In My Life,Drama,1,2007
+2892,In My Life,Thriller,4,2005
+2893,It Takes a Man and a Woman,Drama,3,2006
+2894,My Amnesia Girl,Drama,8,2003
+2895,The Unmarried Wife,Fantasy,9,2008
+2896,All About Love,Comedy,4,2011
+2897,Four Sisters and a Wedding,Action,9,2005
+2898,Starting Over Again,Horror,10,2007
+2899,Tanging Yaman,Fantasy,6,2008
+2900,A Very Special Love,Action,5,2002
+2901,Barcelona: A Love Untold,Comedy,10,2011
+2902,Can't Help Falling In Love,Action,1,2011
+2903,Crazy Beautiful You,Drama,5,2006
+2904,All About Love,Action,6,2006
+2905,You Changed My Life,Sci-Fi,2,2011
+2906,It Takes a Man and a Woman,Fantasy,10,2009
+2907,The Hows of Us,Horror,2,2011
+2908,You Changed My Life,Fantasy,8,2011
+2909,Starting Over Again,Drama,2,2008
+2910,The Breakup Playlist,Action,8,2005
+2911,Till I Met You,Horror,9,2003
+2912,Everything About Her,Drama,8,2007
+2913,Barcelona: A Love Untold,Action,4,2004
+2914,Can't Help Falling In Love,Drama,3,2002
+2915,Barcelona: A Love Untold,Sci-Fi,2,2012
+2916,One More Chance,Comedy,6,2009
+2917,Alone/Together,Sci-Fi,7,2012
+2918,My Ex and Whys,Comedy,6,2003
+2919,Praybeyt Benjamin,Action,10,2007
+2920,Ex with Benefits,Thriller,9,2003
+2921,Seven Sundays,Horror,3,2008
+2922,Kasal Kasali Kasalo,Sci-Fi,4,2011
+2923,Bride for Rent,Sci-Fi,1,2010
+2924,Barcelona: A Love Untold,Action,7,2008
+2925,My Big Love,Fantasy,2,2011
+2926,It Takes a Man and a Woman,Action,9,2006
+2927,Kimmy Dora,Romance,9,2003
+2928,Everyday I Love You,Romance,5,2003
+2929,Bride for Rent,Action,3,2008
+2930,Three Words to Forever,Thriller,9,2007
+2931,Bride for Rent,Fantasy,3,2008
+2932,Praybeyt Benjamin,Comedy,9,2004
+2933,The Achy Breaky Hearts,Thriller,4,2005
+2934,My Big Love,Drama,5,2010
+2935,My Amnesia Girl,Thriller,4,2007
+2936,Kimmy Dora,Comedy,4,2003
+2937,The Breakup Playlist,Fantasy,8,2006
+2938,One More Chance,Drama,1,2006
+2939,Here Comes the Bride,Action,5,2006
+2940,In My Life,Drama,10,2003
+2941,Praybeyt Benjamin,Comedy,5,2003
+2942,The Breakup Playlist,Comedy,10,2004
+2943,The Hows of Us,Drama,9,2003
+2944,Seven Sundays,Thriller,8,2012
+2945,The Achy Breaky Hearts,Comedy,1,2009
+2946,Three Words to Forever,Horror,2,2010
+2947,Four Sisters and a Wedding,Drama,9,2011
+2948,All About Love,Action,8,2005
+2949,No Other Woman,Romance,2,2002
+2950,Praybeyt Benjamin,Horror,7,2009
+2951,Dekada '70,Action,4,2010
+2952,A Very Special Love,Action,1,2009
+2953,Ex with Benefits,Drama,4,2005
+2954,Four Sisters and a Wedding,Fantasy,7,2011
+2955,A Very Special Love,Drama,8,2008
+2956,Ang Tanging Ina,Romance,5,2011
+2957,The Breakup Playlist,Thriller,9,2010
+2958,The Unmarried Wife,Fantasy,1,2007
+2959,Crazy Beautiful You,Fantasy,4,2008
+2960,Feng Shui,Thriller,7,2002
+2961,Kung Fu Divas,Drama,9,2006
+2962,Feng Shui,Drama,5,2003
+2963,My Amnesia Girl,Sci-Fi,1,2012
+2964,Feng Shui,Romance,10,2006
+2965,Close to You,Thriller,10,2006
+2966,Four Sisters and a Wedding,Fantasy,5,2011
+2967,Till I Met You,Action,3,2002
+2968,The Love Affair,Fantasy,6,2011
+2969,Everyday I Love You,Sci-Fi,9,2011
+2970,Tanging Yaman,Romance,5,2009
+2971,She's the One,Romance,2,2007
+2972,Four Sisters and a Wedding,Sci-Fi,7,2005
+2973,The Girl in the Orange Dress,Thriller,2,2010
+2974,Everything About Her,Action,10,2002
+2975,Can't Help Falling In Love,Fantasy,8,2004
+2976,A Very Special Love,Sci-Fi,1,2009
+2977,My Ex and Whys,Thriller,6,2005
+2978,Can't Help Falling In Love,Thriller,2,2009
+2979,One More Chance,Fantasy,3,2009
+2980,Sisterakas,Fantasy,6,2009
+2981,Starting Over Again,Sci-Fi,2,2005
+2982,Kung Fu Divas,Sci-Fi,6,2012
+2983,The Girl in the Orange Dress,Fantasy,6,2003
+2984,Four Sisters and a Wedding,Comedy,2,2009
+2985,Barcelona: A Love Untold,Drama,8,2003
+2986,A Second Chance,Fantasy,8,2011
+2987,Sisterakas,Thriller,2,2006
+2988,Exes Baggage,Romance,3,2010
+2989,It Takes a Man and a Woman,Thriller,10,2008
+2990,Tanging Yaman,Romance,8,2012
+2991,My Amnesia Girl,Romance,5,2008
+2992,Four Sisters and a Wedding,Drama,4,2010
+2993,The Healing,Romance,4,2012
+2994,The Healing,Romance,7,2007
+2995,Tanging Yaman,Sci-Fi,5,2008
+2996,Three Words to Forever,Thriller,10,2003
+2997,Exes Baggage,Action,10,2008
+2998,Everything About Her,Romance,1,2009
+2999,In My Life,Fantasy,1,2007
+3000,Everything About Her,Sci-Fi,2,2004
+3001,She's Dating the Gangster,Drama,5,2011
+3002,Everyday I Love You,Romance,8,2004
+3003,It Takes a Man and a Woman,Comedy,8,2002
+3004,Everyday I Love You,Horror,3,2008
+3005,Starting Over Again,Sci-Fi,3,2004
+3006,Tanging Yaman,Horror,2,2006
+3007,Three Words to Forever,Romance,3,2010
+3008,Bride for Rent,Thriller,7,2003
+3009,Kung Fu Divas,Action,8,2002
+3010,You're Still The One,Drama,3,2005
+3011,Exes Baggage,Thriller,4,2006
+3012,Sukob,Fantasy,6,2006
+3013,Bride for Rent,Fantasy,7,2006
+3014,Miss Granny,Horror,3,2002
+3015,No Other Woman,Drama,4,2008
+3016,My Big Love,Sci-Fi,9,2011
+3017,Exes Baggage,Horror,3,2005
+3018,Kimmy Dora,Drama,7,2011
+3019,Alone/Together,Action,5,2007
+3020,Kung Fu Divas,Sci-Fi,2,2011
+3021,Tanging Yaman,Sci-Fi,7,2005
+3022,Crazy Beautiful You,Thriller,3,2009
+3023,Everyday I Love You,Horror,2,2008
+3024,Alone/Together,Thriller,1,2009
+3025,Dekada '70,Horror,9,2007
+3026,Kimmy Dora,Drama,1,2008
+3027,My Ex and Whys,Romance,6,2003
+3028,My Ex and Whys,Thriller,7,2006
+3029,You're Still The One,Fantasy,3,2010
+3030,Alone/Together,Fantasy,1,2007
+3031,My Big Love,Thriller,7,2006
+3032,Everyday I Love You,Action,6,2004
+3033,Barcelona: A Love Untold,Drama,9,2007
+3034,No Other Woman,Comedy,7,2007
+3035,The Breakup Playlist,Romance,2,2008
+3036,No Other Woman,Comedy,3,2011
+3037,Close to You,Sci-Fi,10,2005
+3038,Starting Over Again,Romance,5,2006
+3039,Dekada '70,Fantasy,4,2011
+3040,She's the One,Romance,4,2010
+3041,Kasal Kasali Kasalo,Fantasy,6,2005
+3042,My Big Love,Drama,10,2011
+3043,You Changed My Life,Thriller,3,2012
+3044,All About Love,Action,6,2004
+3045,Sisterakas,Romance,3,2011
+3046,A Second Chance,Romance,7,2012
+3047,Three Words to Forever,Action,1,2002
+3048,The Unmarried Wife,Thriller,4,2005
+3049,Sukob,Fantasy,4,2010
+3050,The Hows of Us,Fantasy,5,2007
+3051,The Unmarried Wife,Romance,6,2011
+3052,Kimmy Dora,Fantasy,7,2006
+3053,Alone/Together,Comedy,3,2012
+3054,No Other Woman,Sci-Fi,10,2007
+3055,Ang Tanging Ina,Action,3,2005
+3056,In My Life,Comedy,7,2002
+3057,Everyday I Love You,Thriller,5,2002
+3058,Everything About Her,Sci-Fi,3,2003
+3059,Crazy Beautiful You,Drama,1,2006
+3060,The Healing,Drama,5,2008
+3061,Can't Help Falling In Love,Romance,7,2007
+3062,It Takes a Man and a Woman,Horror,1,2004
+3063,My Amnesia Girl,Horror,1,2011
+3064,She's the One,Action,10,2002
+3065,Love You to the Stars and Back,Horror,10,2006
+3066,Exes Baggage,Comedy,10,2007
+3067,The Unmarried Wife,Comedy,4,2002
+3068,Dekada '70,Action,4,2010
+3069,The Mistress,Horror,6,2010
+3070,Crazy Beautiful You,Sci-Fi,4,2004
+3071,Tanging Yaman,Romance,10,2004
+3072,Ang Tanging Ina,Romance,8,2003
+3073,No Other Woman,Romance,2,2008
+3074,Here Comes the Bride,Romance,6,2009
+3075,Love You to the Stars and Back,Action,8,2011
+3076,Bride for Rent,Sci-Fi,8,2006
+3077,A Very Special Love,Fantasy,4,2002
+3078,Exes Baggage,Romance,4,2003
+3079,Dekada '70,Horror,5,2003
+3080,Close to You,Fantasy,3,2011
+3081,The Healing,Drama,7,2011
+3082,No Other Woman,Action,10,2007
+3083,Kasal Kasali Kasalo,Horror,9,2003
+3084,A Very Special Love,Thriller,4,2012
+3085,Here Comes the Bride,Drama,6,2008
+3086,Praybeyt Benjamin,Thriller,1,2006
+3087,The Mistress,Sci-Fi,9,2007
+3088,Here Comes the Bride,Horror,8,2008
+3089,Miss Granny,Thriller,7,2005
+3090,My Amnesia Girl,Comedy,8,2011
+3091,Ex with Benefits,Fantasy,6,2006
+3092,Suddenly It's Magic,Comedy,7,2005
+3093,Barcelona: A Love Untold,Thriller,1,2012
+3094,The Mistress,Thriller,8,2012
+3095,Till I Met You,Romance,5,2002
+3096,Bride for Rent,Action,3,2010
+3097,Kung Fu Divas,Drama,2,2005
+3098,My Amnesia Girl,Horror,2,2004
+3099,Kimmy Dora,Fantasy,2,2007
+3100,Bride for Rent,Comedy,10,2012
+3101,Crazy Beautiful You,Comedy,8,2009
+3102,Kasal Kasali Kasalo,Thriller,6,2004
+3103,The Achy Breaky Hearts,Action,8,2009
+3104,Praybeyt Benjamin,Romance,10,2009
+3105,All About Love,Sci-Fi,8,2011
+3106,No Other Woman,Horror,7,2006
+3107,Four Sisters and a Wedding,Comedy,7,2009
+3108,The Mistress,Fantasy,4,2002
+3109,Four Sisters and a Wedding,Sci-Fi,2,2003
+3110,Miss Granny,Drama,4,2003
+3111,Three Words to Forever,Drama,6,2007
+3112,Barcelona: A Love Untold,Sci-Fi,9,2011
+3113,Praybeyt Benjamin,Drama,8,2010
+3114,The Achy Breaky Hearts,Drama,5,2002
+3115,Four Sisters and a Wedding,Romance,8,2012
+3116,My Ex and Whys,Thriller,9,2007
+3117,The Achy Breaky Hearts,Drama,7,2004
+3118,Sisterakas,Drama,1,2007
+3119,My Amnesia Girl,Fantasy,3,2004
+3120,All About Love,Drama,6,2002
+3121,Kasal Kasali Kasalo,Fantasy,9,2012
+3122,The Girl in the Orange Dress,Comedy,2,2005
+3123,Everyday I Love You,Horror,10,2008
+3124,Everyday I Love You,Action,5,2002
+3125,She's Dating the Gangster,Thriller,1,2003
+3126,Praybeyt Benjamin,Thriller,4,2009
+3127,The Girl in the Orange Dress,Sci-Fi,9,2007
+3128,No Other Woman,Thriller,9,2009
+3129,The Achy Breaky Hearts,Romance,3,2006
+3130,Three Words to Forever,Romance,6,2009
+3131,My Big Love,Comedy,8,2002
+3132,Four Sisters and a Wedding,Comedy,8,2004
+3133,A Very Special Love,Drama,8,2010
+3134,Kimmy Dora,Sci-Fi,6,2011
+3135,Barcelona: A Love Untold,Action,7,2003
+3136,Kung Fu Divas,Comedy,4,2008
+3137,The Unmarried Wife,Drama,6,2008
+3138,Everything About Her,Sci-Fi,3,2003
+3139,Crazy Beautiful You,Sci-Fi,4,2002
+3140,You're Still The One,Romance,8,2010
+3141,My Ex and Whys,Horror,4,2002
+3142,It Takes a Man and a Woman,Action,4,2011
+3143,Kimmy Dora,Action,4,2002
+3144,Barcelona: A Love Untold,Thriller,4,2011
+3145,The Achy Breaky Hearts,Thriller,9,2005
+3146,Can't Help Falling In Love,Action,2,2008
+3147,Three Words to Forever,Comedy,10,2002
+3148,Kung Fu Divas,Horror,3,2005
+3149,The Girl in the Orange Dress,Thriller,9,2002
+3150,My Big Love,Horror,7,2008
+3151,One More Chance,Thriller,8,2012
+3152,My Ex and Whys,Action,10,2007
+3153,One More Chance,Drama,7,2005
+3154,Exes Baggage,Fantasy,6,2005
+3155,The Mistress,Action,3,2004
+3156,Alone/Together,Comedy,7,2012
+3157,My Ex and Whys,Fantasy,5,2011
+3158,Ang Tanging Ina,Romance,8,2011
+3159,My Ex and Whys,Action,6,2012
+3160,You're Still The One,Action,5,2009
+3161,My Big Love,Romance,2,2006
+3162,No Other Woman,Action,7,2012
+3163,Seven Sundays,Horror,9,2005
+3164,A Very Special Love,Sci-Fi,4,2004
+3165,The Mistress,Sci-Fi,7,2011
+3166,Feng Shui,Comedy,7,2002
+3167,Praybeyt Benjamin,Comedy,10,2009
+3168,Sisterakas,Drama,3,2010
+3169,Feng Shui,Comedy,2,2009
+3170,You're Still The One,Comedy,10,2010
+3171,A Second Chance,Comedy,10,2004
+3172,She's Dating the Gangster,Fantasy,5,2011
+3173,Ang Tanging Ina,Horror,9,2008
+3174,No Other Woman,Romance,6,2007
+3175,The Achy Breaky Hearts,Sci-Fi,3,2012
+3176,Everything About Her,Romance,6,2010
+3177,Three Words to Forever,Comedy,4,2005
+3178,Close to You,Romance,10,2007
+3179,All About Love,Comedy,5,2006
+3180,In My Life,Horror,1,2011
+3181,Crazy Beautiful You,Thriller,1,2002
+3182,You Changed My Life,Fantasy,8,2011
+3183,She's Dating the Gangster,Romance,9,2005
+3184,Starting Over Again,Action,7,2007
+3185,Seven Sundays,Horror,9,2012
+3186,Here Comes the Bride,Drama,10,2010
+3187,Praybeyt Benjamin,Sci-Fi,1,2010
+3188,Everyday I Love You,Horror,7,2010
+3189,The Hows of Us,Horror,6,2012
+3190,The Achy Breaky Hearts,Thriller,8,2009
+3191,It Takes a Man and a Woman,Romance,9,2003
+3192,All About Love,Comedy,2,2005
+3193,One More Chance,Comedy,5,2005
+3194,Miss Granny,Sci-Fi,8,2005
+3195,Ex with Benefits,Fantasy,1,2011
+3196,Sisterakas,Horror,7,2006
+3197,Praybeyt Benjamin,Romance,7,2002
+3198,The Unmarried Wife,Comedy,1,2006
+3199,The Hows of Us,Fantasy,5,2011
+3200,Crazy Beautiful You,Drama,1,2009
+3201,My Ex and Whys,Fantasy,8,2009
+3202,Barcelona: A Love Untold,Horror,3,2012
+3203,The Girl in the Orange Dress,Fantasy,2,2002
+3204,Sukob,Comedy,2,2005
+3205,Crazy Beautiful You,Comedy,4,2004
+3206,Crazy Beautiful You,Comedy,3,2008
+3207,My Amnesia Girl,Comedy,3,2011
+3208,Suddenly It's Magic,Action,7,2012
+3209,Here Comes the Bride,Comedy,6,2005
+3210,She's Dating the Gangster,Thriller,2,2006
+3211,Kasal Kasali Kasalo,Comedy,2,2003
+3212,Suddenly It's Magic,Sci-Fi,10,2007
+3213,Barcelona: A Love Untold,Romance,5,2010
+3214,My Big Love,Fantasy,3,2010
+3215,The Girl in the Orange Dress,Romance,4,2003
+3216,She's the One,Sci-Fi,10,2009
+3217,Ang Tanging Ina,Horror,1,2008
+3218,My Amnesia Girl,Action,5,2008
+3219,Kimmy Dora,Romance,7,2011
+3220,It Takes a Man and a Woman,Sci-Fi,4,2007
+3221,She's Dating the Gangster,Drama,6,2004
+3222,Exes Baggage,Comedy,3,2005
+3223,Suddenly It's Magic,Horror,8,2009
+3224,Seven Sundays,Thriller,6,2012
+3225,Tanging Yaman,Thriller,3,2009
+3226,Kasal Kasali Kasalo,Horror,4,2006
+3227,The Girl in the Orange Dress,Horror,2,2012
+3228,A Very Special Love,Thriller,5,2008
+3229,My Big Love,Horror,7,2005
+3230,Praybeyt Benjamin,Comedy,6,2009
+3231,My Amnesia Girl,Fantasy,6,2012
+3232,Sisterakas,Fantasy,6,2009
+3233,Can't Help Falling In Love,Fantasy,4,2003
+3234,The Mistress,Horror,4,2009
+3235,Ang Tanging Ina,Romance,8,2002
+3236,Four Sisters and a Wedding,Comedy,2,2004
+3237,Ex with Benefits,Horror,6,2009
+3238,She's the One,Thriller,6,2008
+3239,The Breakup Playlist,Comedy,5,2003
+3240,Everything About Her,Horror,10,2008
+3241,You're Still The One,Sci-Fi,5,2003
+3242,Starting Over Again,Fantasy,10,2010
+3243,Suddenly It's Magic,Action,8,2009
+3244,The Hows of Us,Romance,5,2009
+3245,One More Chance,Comedy,9,2002
+3246,Tanging Yaman,Drama,8,2008
+3247,A Second Chance,Romance,3,2005
+3248,She's the One,Sci-Fi,9,2003
+3249,Barcelona: A Love Untold,Sci-Fi,1,2007
+3250,Barcelona: A Love Untold,Fantasy,8,2005
+3251,The Love Affair,Thriller,7,2004
+3252,You're Still The One,Drama,6,2011
+3253,The Achy Breaky Hearts,Sci-Fi,4,2011
+3254,A Very Special Love,Horror,4,2003
+3255,Everyday I Love You,Romance,10,2002
+3256,Suddenly It's Magic,Romance,6,2012
+3257,Ex with Benefits,Action,3,2012
+3258,Here Comes the Bride,Sci-Fi,3,2012
+3259,Close to You,Sci-Fi,1,2009
+3260,One More Chance,Fantasy,6,2002
+3261,Love You to the Stars and Back,Thriller,3,2009
+3262,One More Chance,Romance,8,2010
+3263,Everything About Her,Drama,5,2005
+3264,It Takes a Man and a Woman,Romance,7,2005
+3265,Starting Over Again,Romance,8,2012
+3266,The Healing,Thriller,8,2009
+3267,No Other Woman,Horror,9,2011
+3268,Can't Help Falling In Love,Romance,10,2010
+3269,Miss Granny,Fantasy,3,2004
+3270,Miss Granny,Comedy,6,2011
+3271,Alone/Together,Drama,7,2005
+3272,Kimmy Dora,Romance,9,2012
+3273,A Very Special Love,Comedy,3,2010
+3274,Feng Shui,Drama,6,2002
+3275,She's Dating the Gangster,Action,9,2009
+3276,The Hows of Us,Drama,9,2010
+3277,She's Dating the Gangster,Fantasy,8,2009
+3278,Sukob,Thriller,4,2011
+3279,The Unmarried Wife,Sci-Fi,6,2007
+3280,The Girl in the Orange Dress,Horror,8,2008
+3281,Three Words to Forever,Sci-Fi,6,2003
+3282,My Big Love,Thriller,6,2010
+3283,My Ex and Whys,Romance,3,2007
+3284,You're Still The One,Comedy,10,2009
+3285,The Girl in the Orange Dress,Fantasy,5,2011
+3286,She's the One,Sci-Fi,2,2002
+3287,Exes Baggage,Drama,3,2010
+3288,Barcelona: A Love Untold,Action,8,2007
+3289,Barcelona: A Love Untold,Action,7,2007
+3290,The Unmarried Wife,Sci-Fi,1,2006
+3291,Kasal Kasali Kasalo,Action,6,2006
+3292,My Ex and Whys,Fantasy,1,2009
+3293,The Mistress,Romance,4,2007
+3294,A Second Chance,Horror,1,2011
+3295,She's the One,Romance,10,2003
+3296,Crazy Beautiful You,Thriller,7,2011
+3297,Kasal Kasali Kasalo,Thriller,3,2005
+3298,The Girl in the Orange Dress,Fantasy,7,2012
+3299,Can't Help Falling In Love,Drama,9,2011
+3300,Sukob,Horror,9,2008
+3301,Kung Fu Divas,Drama,9,2004
+3302,You Changed My Life,Sci-Fi,4,2002
+3303,Sisterakas,Comedy,10,2010
+3304,You're Still The One,Horror,9,2008
+3305,Starting Over Again,Thriller,9,2011
+3306,The Achy Breaky Hearts,Action,6,2012
+3307,In My Life,Action,8,2006
+3308,My Ex and Whys,Horror,10,2007
+3309,In My Life,Comedy,7,2002
+3310,No Other Woman,Horror,2,2002
+3311,Three Words to Forever,Comedy,1,2008
+3312,Kasal Kasali Kasalo,Sci-Fi,2,2005
+3313,Dekada '70,Action,3,2009
+3314,Starting Over Again,Romance,4,2002
+3315,The Breakup Playlist,Thriller,3,2002
+3316,A Very Special Love,Romance,1,2012
+3317,Everything About Her,Action,5,2009
+3318,She's Dating the Gangster,Comedy,7,2009
+3319,The Love Affair,Romance,3,2007
+3320,Starting Over Again,Action,6,2003
+3321,Three Words to Forever,Fantasy,2,2010
+3322,No Other Woman,Thriller,10,2003
+3323,Barcelona: A Love Untold,Drama,2,2008
+3324,Till I Met You,Drama,4,2007
+3325,Praybeyt Benjamin,Comedy,2,2009
+3326,The Healing,Action,3,2003
+3327,Can't Help Falling In Love,Comedy,4,2010
+3328,Kasal Kasali Kasalo,Drama,4,2011
+3329,You're Still The One,Comedy,6,2004
+3330,Miss Granny,Drama,7,2004
+3331,Everyday I Love You,Sci-Fi,7,2011
+3332,Starting Over Again,Fantasy,8,2005
+3333,Four Sisters and a Wedding,Fantasy,7,2007
+3334,Feng Shui,Horror,4,2002
+3335,Ang Tanging Ina,Romance,1,2007
+3336,Love You to the Stars and Back,Action,8,2006
+3337,Starting Over Again,Action,8,2002
+3338,She's the One,Drama,4,2005
+3339,My Big Love,Fantasy,7,2004
+3340,Bride for Rent,Sci-Fi,6,2012
+3341,Tanging Yaman,Romance,9,2004
+3342,Ex with Benefits,Thriller,2,2012
+3343,Here Comes the Bride,Sci-Fi,7,2005
+3344,Dekada '70,Romance,1,2010
+3345,Till I Met You,Romance,5,2003
+3346,My Amnesia Girl,Thriller,7,2007
+3347,Crazy Beautiful You,Thriller,1,2002
+3348,Kasal Kasali Kasalo,Thriller,3,2011
+3349,Praybeyt Benjamin,Sci-Fi,3,2008
+3350,Dekada '70,Horror,3,2009
+3351,Kung Fu Divas,Horror,5,2011
+3352,Can't Help Falling In Love,Action,3,2008
+3353,Feng Shui,Romance,7,2002
+3354,She's Dating the Gangster,Sci-Fi,10,2008
+3355,The Hows of Us,Thriller,4,2005
+3356,Dekada '70,Drama,6,2003
+3357,Exes Baggage,Fantasy,3,2008
+3358,Praybeyt Benjamin,Thriller,5,2009
+3359,You're Still The One,Drama,9,2003
+3360,Sisterakas,Comedy,7,2010
+3361,My Amnesia Girl,Drama,4,2004
+3362,Ang Tanging Ina,Romance,8,2007
+3363,The Mistress,Horror,10,2012
+3364,The Mistress,Thriller,1,2003
+3365,Sisterakas,Comedy,2,2005
+3366,Kasal Kasali Kasalo,Drama,2,2009
+3367,Kasal Kasali Kasalo,Thriller,1,2005
+3368,Here Comes the Bride,Thriller,3,2004
+3369,Everything About Her,Fantasy,1,2008
+3370,Barcelona: A Love Untold,Thriller,10,2003
+3371,Dekada '70,Comedy,8,2006
+3372,Four Sisters and a Wedding,Comedy,4,2011
+3373,In My Life,Romance,3,2005
+3374,The Girl in the Orange Dress,Action,9,2003
+3375,The Hows of Us,Romance,2,2010
+3376,Ex with Benefits,Drama,7,2011
+3377,My Big Love,Fantasy,6,2007
+3378,Kasal Kasali Kasalo,Horror,10,2003
+3379,Four Sisters and a Wedding,Fantasy,4,2007
+3380,Here Comes the Bride,Horror,8,2003
+3381,My Ex and Whys,Fantasy,3,2007
+3382,Feng Shui,Fantasy,10,2012
+3383,Miss Granny,Horror,6,2012
+3384,In My Life,Drama,9,2010
+3385,The Healing,Thriller,1,2005
+3386,Bride for Rent,Drama,10,2005
+3387,A Second Chance,Sci-Fi,1,2010
+3388,You Changed My Life,Horror,2,2010
+3389,You're Still The One,Thriller,8,2004
+3390,Everyday I Love You,Action,10,2004
+3391,My Amnesia Girl,Comedy,2,2009
+3392,Kasal Kasali Kasalo,Drama,9,2007
+3393,You're Still The One,Drama,9,2003
+3394,Crazy Beautiful You,Romance,1,2006
+3395,Ex with Benefits,Thriller,6,2012
+3396,Here Comes the Bride,Fantasy,5,2004
+3397,You're Still The One,Horror,6,2007
+3398,Close to You,Romance,7,2007
+3399,You're Still The One,Horror,5,2010
+3400,The Breakup Playlist,Horror,1,2009
+3401,The Breakup Playlist,Drama,4,2006
+3402,Kung Fu Divas,Action,2,2003
+3403,One More Chance,Drama,8,2004
+3404,Feng Shui,Romance,2,2009
+3405,Crazy Beautiful You,Drama,9,2002
+3406,Four Sisters and a Wedding,Horror,3,2003
+3407,Crazy Beautiful You,Thriller,4,2005
+3408,Miss Granny,Thriller,3,2007
+3409,The Healing,Thriller,9,2012
+3410,No Other Woman,Romance,2,2009
+3411,Feng Shui,Fantasy,5,2009
+3412,My Amnesia Girl,Drama,8,2008
+3413,Can't Help Falling In Love,Horror,9,2009
+3414,Everything About Her,Sci-Fi,1,2009
+3415,The Healing,Romance,1,2012
+3416,The Achy Breaky Hearts,Romance,10,2010
+3417,Feng Shui,Action,10,2009
+3418,The Breakup Playlist,Thriller,5,2007
+3419,My Big Love,Thriller,10,2008
+3420,No Other Woman,Romance,10,2002
+3421,Kasal Kasali Kasalo,Action,3,2011
+3422,A Second Chance,Romance,4,2006
+3423,Can't Help Falling In Love,Sci-Fi,9,2006
+3424,Suddenly It's Magic,Drama,1,2002
+3425,A Second Chance,Comedy,4,2003
+3426,The Love Affair,Drama,4,2009
+3427,Starting Over Again,Horror,5,2008
+3428,Barcelona: A Love Untold,Sci-Fi,1,2010
+3429,Miss Granny,Comedy,7,2005
+3430,A Very Special Love,Drama,7,2008
+3431,The Love Affair,Comedy,2,2005
+3432,A Second Chance,Drama,8,2003
+3433,She's the One,Sci-Fi,4,2007
+3434,She's the One,Fantasy,1,2006
+3435,One More Chance,Romance,8,2004
+3436,Everyday I Love You,Romance,5,2012
+3437,No Other Woman,Horror,5,2002
+3438,One More Chance,Drama,4,2003
+3439,Dekada '70,Thriller,9,2011
+3440,The Love Affair,Sci-Fi,6,2006
+3441,Sukob,Romance,7,2006
+3442,Alone/Together,Fantasy,6,2010
+3443,My Ex and Whys,Fantasy,3,2005
+3444,The Breakup Playlist,Thriller,9,2005
+3445,Everything About Her,Comedy,3,2009
+3446,No Other Woman,Action,8,2012
+3447,The Girl in the Orange Dress,Romance,9,2006
+3448,No Other Woman,Romance,2,2006
+3449,The Mistress,Comedy,5,2007
+3450,Ang Tanging Ina,Romance,9,2004
+3451,Miss Granny,Romance,9,2004
+3452,Sukob,Horror,7,2010
+3453,Starting Over Again,Action,5,2009
+3454,She's Dating the Gangster,Drama,8,2012
+3455,You Changed My Life,Action,8,2012
+3456,A Very Special Love,Thriller,1,2010
+3457,The Hows of Us,Action,10,2007
+3458,You're Still The One,Drama,7,2011
+3459,Sisterakas,Drama,8,2005
+3460,My Big Love,Horror,5,2012
+3461,Ex with Benefits,Romance,5,2004
+3462,Seven Sundays,Romance,10,2003
+3463,Alone/Together,Romance,6,2004
+3464,Alone/Together,Romance,4,2009
+3465,Four Sisters and a Wedding,Drama,5,2010
+3466,The Mistress,Thriller,10,2003
+3467,She's the One,Fantasy,2,2008
+3468,Sukob,Horror,8,2005
+3469,Till I Met You,Horror,5,2005
+3470,Ang Tanging Ina,Thriller,1,2003
+3471,Exes Baggage,Horror,7,2007
+3472,In My Life,Fantasy,7,2006
+3473,It Takes a Man and a Woman,Action,9,2002
+3474,Feng Shui,Drama,4,2006
+3475,In My Life,Romance,6,2006
+3476,Exes Baggage,Romance,8,2006
+3477,Here Comes the Bride,Romance,8,2002
+3478,The Mistress,Comedy,4,2011
+3479,Barcelona: A Love Untold,Comedy,7,2005
+3480,One More Chance,Fantasy,3,2007
+3481,Ex with Benefits,Sci-Fi,10,2011
+3482,The Healing,Comedy,8,2003
+3483,Close to You,Sci-Fi,1,2007
+3484,Kasal Kasali Kasalo,Drama,3,2010
+3485,The Achy Breaky Hearts,Drama,2,2003
+3486,Barcelona: A Love Untold,Horror,6,2002
+3487,Seven Sundays,Drama,10,2004
+3488,Bride for Rent,Thriller,1,2006
+3489,Starting Over Again,Drama,10,2010
+3490,Ex with Benefits,Comedy,9,2008
+3491,The Achy Breaky Hearts,Romance,7,2004
+3492,A Very Special Love,Romance,2,2002
+3493,You're Still The One,Fantasy,6,2003
+3494,Kung Fu Divas,Horror,8,2008
+3495,The Girl in the Orange Dress,Thriller,10,2008
+3496,Sisterakas,Fantasy,9,2009
+3497,Kung Fu Divas,Horror,8,2003
+3498,Close to You,Action,8,2011
+3499,Here Comes the Bride,Action,2,2012
+3500,Four Sisters and a Wedding,Fantasy,4,2003
+3501,A Very Special Love,Drama,4,2003
+3502,The Mistress,Comedy,4,2007
+3503,Kasal Kasali Kasalo,Romance,8,2008
+3504,Barcelona: A Love Untold,Romance,1,2009
+3505,The Love Affair,Romance,5,2003
+3506,Can't Help Falling In Love,Sci-Fi,9,2005
+3507,Kasal Kasali Kasalo,Comedy,7,2007
+3508,Seven Sundays,Action,3,2007
+3509,She's the One,Sci-Fi,8,2010
+3510,Barcelona: A Love Untold,Fantasy,1,2002
+3511,No Other Woman,Romance,7,2009
+3512,The Healing,Drama,10,2010
+3513,Starting Over Again,Thriller,10,2008
+3514,Four Sisters and a Wedding,Fantasy,6,2011
+3515,Bride for Rent,Sci-Fi,7,2003
+3516,The Love Affair,Romance,4,2002
+3517,Feng Shui,Comedy,6,2006
+3518,My Ex and Whys,Thriller,5,2002
+3519,She's the One,Sci-Fi,10,2008
+3520,Everyday I Love You,Fantasy,7,2007
+3521,Praybeyt Benjamin,Horror,3,2002
+3522,Crazy Beautiful You,Thriller,3,2002
+3523,Barcelona: A Love Untold,Romance,10,2004
+3524,Kasal Kasali Kasalo,Horror,1,2010
+3525,Sukob,Action,1,2002
+3526,Can't Help Falling In Love,Fantasy,6,2012
+3527,A Very Special Love,Action,1,2008
+3528,You Changed My Life,Fantasy,10,2002
+3529,It Takes a Man and a Woman,Fantasy,3,2006
+3530,Dekada '70,Thriller,9,2009
+3531,The Love Affair,Thriller,9,2004
+3532,Seven Sundays,Comedy,1,2006
+3533,She's the One,Comedy,1,2012
+3534,You're Still The One,Drama,6,2002
+3535,My Ex and Whys,Horror,10,2004
+3536,The Healing,Thriller,8,2012
+3537,Seven Sundays,Fantasy,1,2003
+3538,The Healing,Drama,9,2009
+3539,My Ex and Whys,Romance,1,2012
+3540,Three Words to Forever,Romance,9,2007
+3541,Love You to the Stars and Back,Comedy,3,2006
+3542,Tanging Yaman,Horror,1,2002
+3543,My Amnesia Girl,Thriller,9,2005
+3544,Ex with Benefits,Sci-Fi,8,2007
+3545,She's the One,Drama,7,2007
+3546,Dekada '70,Comedy,10,2005
+3547,Sisterakas,Drama,4,2012
+3548,Starting Over Again,Comedy,5,2011
+3549,The Hows of Us,Action,10,2009
+3550,A Very Special Love,Drama,7,2006
+3551,The Mistress,Drama,2,2008
+3552,A Very Special Love,Fantasy,3,2009
+3553,Praybeyt Benjamin,Thriller,8,2006
+3554,Kimmy Dora,Drama,9,2011
+3555,Till I Met You,Comedy,1,2004
+3556,Close to You,Action,5,2007
+3557,Four Sisters and a Wedding,Thriller,10,2009
+3558,Starting Over Again,Romance,5,2012
+3559,Alone/Together,Action,5,2012
+3560,Till I Met You,Comedy,4,2008
+3561,Everyday I Love You,Sci-Fi,5,2006
+3562,Four Sisters and a Wedding,Horror,8,2006
+3563,The Love Affair,Horror,5,2002
+3564,Dekada '70,Fantasy,7,2003
+3565,One More Chance,Comedy,6,2004
+3566,The Unmarried Wife,Action,9,2010
+3567,The Hows of Us,Fantasy,5,2012
+3568,My Big Love,Thriller,1,2006
+3569,My Amnesia Girl,Drama,1,2011
+3570,Suddenly It's Magic,Action,4,2005
+3571,She's Dating the Gangster,Thriller,5,2010
+3572,Feng Shui,Fantasy,1,2005
+3573,You Changed My Life,Drama,7,2006
+3574,Miss Granny,Comedy,5,2011
+3575,Till I Met You,Fantasy,4,2011
+3576,My Amnesia Girl,Horror,4,2005
+3577,Bride for Rent,Romance,6,2003
+3578,My Amnesia Girl,Comedy,6,2011
+3579,Kasal Kasali Kasalo,Comedy,4,2011
+3580,Exes Baggage,Fantasy,5,2004
+3581,Here Comes the Bride,Action,3,2012
+3582,Miss Granny,Horror,5,2005
+3583,Suddenly It's Magic,Comedy,10,2005
+3584,Everything About Her,Action,2,2003
+3585,Ex with Benefits,Fantasy,6,2007
+3586,Love You to the Stars and Back,Horror,5,2011
+3587,My Ex and Whys,Comedy,3,2009
+3588,In My Life,Comedy,3,2010
+3589,You're Still The One,Horror,5,2012
+3590,The Healing,Sci-Fi,1,2009
+3591,The Achy Breaky Hearts,Sci-Fi,10,2009
+3592,Everything About Her,Action,6,2009
+3593,Kasal Kasali Kasalo,Sci-Fi,4,2004
+3594,Everyday I Love You,Romance,6,2012
+3595,Alone/Together,Fantasy,7,2008
+3596,All About Love,Action,8,2006
+3597,The Unmarried Wife,Comedy,9,2010
+3598,She's the One,Comedy,10,2002
+3599,One More Chance,Comedy,10,2006
+3600,The Breakup Playlist,Romance,8,2004
+3601,You Changed My Life,Sci-Fi,2,2007
+3602,It Takes a Man and a Woman,Comedy,4,2009
+3603,Praybeyt Benjamin,Thriller,7,2008
+3604,The Healing,Fantasy,2,2010
+3605,Love You to the Stars and Back,Romance,7,2003
+3606,Everything About Her,Sci-Fi,8,2006
+3607,Suddenly It's Magic,Horror,4,2003
+3608,Close to You,Romance,2,2002
+3609,Feng Shui,Thriller,4,2012
+3610,Ang Tanging Ina,Romance,2,2008
+3611,Close to You,Action,2,2008
+3612,The Achy Breaky Hearts,Horror,6,2003
+3613,A Second Chance,Fantasy,4,2003
+3614,You Changed My Life,Fantasy,6,2004
+3615,She's Dating the Gangster,Drama,3,2002
+3616,Feng Shui,Drama,4,2005
+3617,Love You to the Stars and Back,Romance,2,2002
+3618,Till I Met You,Drama,8,2005
+3619,You Changed My Life,Sci-Fi,2,2008
+3620,Barcelona: A Love Untold,Fantasy,10,2009
+3621,Till I Met You,Horror,7,2007
+3622,Bride for Rent,Fantasy,8,2003
+3623,My Ex and Whys,Comedy,1,2009
+3624,Alone/Together,Action,7,2007
+3625,Starting Over Again,Fantasy,1,2003
+3626,Dekada '70,Comedy,8,2008
+3627,The Hows of Us,Romance,1,2006
+3628,Seven Sundays,Comedy,4,2005
+3629,Till I Met You,Horror,3,2011
+3630,You're Still The One,Horror,6,2010
+3631,The Girl in the Orange Dress,Horror,6,2011
+3632,Ang Tanging Ina,Sci-Fi,6,2002
+3633,Crazy Beautiful You,Comedy,2,2006
+3634,Kung Fu Divas,Thriller,5,2010
+3635,Suddenly It's Magic,Thriller,3,2004
+3636,Barcelona: A Love Untold,Action,7,2009
+3637,She's Dating the Gangster,Drama,2,2008
+3638,One More Chance,Horror,7,2007
+3639,Sukob,Romance,3,2003
+3640,Tanging Yaman,Romance,9,2006
+3641,Barcelona: A Love Untold,Horror,2,2008
+3642,Dekada '70,Comedy,6,2011
+3643,Everyday I Love You,Romance,10,2003
+3644,Tanging Yaman,Comedy,4,2004
+3645,Can't Help Falling In Love,Comedy,5,2009
+3646,No Other Woman,Horror,3,2011
+3647,Tanging Yaman,Fantasy,2,2002
+3648,My Big Love,Comedy,5,2009
+3649,All About Love,Thriller,2,2009
+3650,She's the One,Romance,7,2008
+3651,Three Words to Forever,Thriller,7,2005
+3652,A Very Special Love,Sci-Fi,5,2005
+3653,Crazy Beautiful You,Comedy,3,2002
+3654,Kasal Kasali Kasalo,Sci-Fi,2,2004
+3655,Miss Granny,Horror,2,2011
+3656,It Takes a Man and a Woman,Sci-Fi,4,2010
+3657,The Breakup Playlist,Horror,4,2008
+3658,It Takes a Man and a Woman,Horror,8,2007
+3659,No Other Woman,Thriller,5,2010
+3660,Starting Over Again,Action,4,2012
+3661,The Hows of Us,Fantasy,3,2002
+3662,Dekada '70,Thriller,1,2002
+3663,The Girl in the Orange Dress,Romance,2,2003
+3664,Bride for Rent,Romance,9,2003
+3665,Three Words to Forever,Comedy,6,2003
+3666,The Mistress,Comedy,10,2004
+3667,Bride for Rent,Horror,5,2012
+3668,My Amnesia Girl,Thriller,3,2004
+3669,The Love Affair,Action,3,2002
+3670,Seven Sundays,Drama,6,2012
+3671,The Achy Breaky Hearts,Action,2,2005
+3672,Four Sisters and a Wedding,Horror,5,2011
+3673,Starting Over Again,Romance,7,2009
+3674,You're Still The One,Thriller,5,2012
+3675,Exes Baggage,Thriller,4,2010
+3676,She's the One,Romance,7,2010
+3677,The Love Affair,Romance,6,2003
+3678,Ex with Benefits,Sci-Fi,5,2003
+3679,Everyday I Love You,Romance,10,2006
+3680,Barcelona: A Love Untold,Drama,1,2012
+3681,Love You to the Stars and Back,Fantasy,7,2003
+3682,Love You to the Stars and Back,Thriller,1,2003
+3683,Crazy Beautiful You,Comedy,8,2012
+3684,Three Words to Forever,Fantasy,6,2009
+3685,Suddenly It's Magic,Sci-Fi,7,2005
+3686,Praybeyt Benjamin,Fantasy,8,2005
+3687,Everything About Her,Fantasy,3,2004
+3688,Starting Over Again,Drama,8,2006
+3689,Sukob,Horror,1,2009
+3690,One More Chance,Fantasy,3,2006
+3691,Starting Over Again,Horror,8,2010
+3692,The Mistress,Comedy,1,2010
+3693,Barcelona: A Love Untold,Fantasy,7,2002
+3694,Everyday I Love You,Fantasy,5,2010
+3695,The Girl in the Orange Dress,Horror,5,2012
+3696,In My Life,Sci-Fi,1,2003
+3697,Four Sisters and a Wedding,Action,3,2004
+3698,Crazy Beautiful You,Thriller,3,2011
+3699,She's Dating the Gangster,Comedy,7,2010
+3700,Barcelona: A Love Untold,Comedy,5,2006
+3701,The Love Affair,Horror,2,2003
+3702,Kung Fu Divas,Sci-Fi,4,2002
+3703,Kung Fu Divas,Comedy,9,2005
+3704,She's Dating the Gangster,Action,4,2009
+3705,In My Life,Drama,1,2009
+3706,Sukob,Comedy,4,2007
+3707,A Very Special Love,Thriller,2,2011
+3708,The Hows of Us,Drama,2,2005
+3709,It Takes a Man and a Woman,Thriller,2,2012
+3710,Tanging Yaman,Comedy,3,2005
+3711,Ex with Benefits,Sci-Fi,10,2007
+3712,You're Still The One,Romance,2,2002
+3713,The Unmarried Wife,Horror,1,2003
+3714,The Mistress,Fantasy,10,2012
+3715,Barcelona: A Love Untold,Horror,4,2005
+3716,Dekada '70,Thriller,4,2006
+3717,Miss Granny,Horror,2,2009
+3718,Everything About Her,Action,9,2005
+3719,The Girl in the Orange Dress,Thriller,3,2011
+3720,A Very Special Love,Romance,9,2004
+3721,The Girl in the Orange Dress,Romance,3,2006
+3722,A Very Special Love,Fantasy,1,2003
+3723,In My Life,Sci-Fi,2,2012
+3724,Sukob,Horror,8,2008
+3725,Seven Sundays,Action,6,2004
+3726,The Unmarried Wife,Drama,3,2008
+3727,Ex with Benefits,Horror,10,2004
+3728,Praybeyt Benjamin,Thriller,10,2004
+3729,My Amnesia Girl,Horror,3,2002
+3730,The Love Affair,Drama,1,2004
+3731,The Love Affair,Thriller,7,2008
+3732,Praybeyt Benjamin,Drama,3,2004
+3733,The Love Affair,Action,5,2007
+3734,One More Chance,Comedy,9,2012
+3735,Starting Over Again,Horror,10,2003
+3736,All About Love,Action,4,2012
+3737,Kasal Kasali Kasalo,Drama,2,2010
+3738,All About Love,Romance,10,2008
+3739,The Breakup Playlist,Comedy,3,2011
+3740,She's Dating the Gangster,Comedy,4,2012
+3741,Three Words to Forever,Drama,5,2009
+3742,Love You to the Stars and Back,Thriller,9,2007
+3743,The Breakup Playlist,Sci-Fi,10,2008
+3744,The Healing,Fantasy,2,2010
+3745,Kimmy Dora,Horror,10,2004
+3746,Suddenly It's Magic,Action,9,2006
+3747,Close to You,Horror,1,2011
+3748,Suddenly It's Magic,Comedy,5,2003
+3749,She's the One,Action,7,2004
+3750,Suddenly It's Magic,Drama,1,2007
+3751,The Breakup Playlist,Fantasy,2,2007
+3752,No Other Woman,Thriller,4,2004
+3753,No Other Woman,Thriller,3,2005
+3754,The Girl in the Orange Dress,Comedy,2,2002
+3755,She's the One,Sci-Fi,10,2003
+3756,Seven Sundays,Action,6,2006
+3757,Kimmy Dora,Fantasy,9,2003
+3758,No Other Woman,Action,5,2006
+3759,You're Still The One,Romance,8,2011
+3760,It Takes a Man and a Woman,Fantasy,4,2006
+3761,Can't Help Falling In Love,Drama,2,2004
+3762,Sukob,Action,10,2011
+3763,Everyday I Love You,Romance,6,2007
+3764,You Changed My Life,Horror,9,2010
+3765,Alone/Together,Sci-Fi,7,2005
+3766,Seven Sundays,Sci-Fi,6,2003
+3767,You're Still The One,Comedy,9,2008
+3768,Four Sisters and a Wedding,Drama,5,2002
+3769,Miss Granny,Thriller,2,2009
+3770,Feng Shui,Action,4,2009
+3771,Till I Met You,Thriller,7,2010
+3772,The Healing,Action,5,2011
+3773,The Breakup Playlist,Action,5,2010
+3774,Alone/Together,Horror,10,2012
+3775,The Healing,Sci-Fi,2,2004
+3776,Ang Tanging Ina,Fantasy,6,2009
+3777,A Very Special Love,Action,4,2009
+3778,Dekada '70,Thriller,1,2012
+3779,Close to You,Romance,9,2005
+3780,My Big Love,Sci-Fi,1,2002
+3781,A Second Chance,Horror,5,2012
+3782,One More Chance,Comedy,10,2006
+3783,Close to You,Horror,5,2002
+3784,Alone/Together,Thriller,5,2009
+3785,She's the One,Sci-Fi,7,2006
+3786,A Second Chance,Drama,6,2012
+3787,A Second Chance,Comedy,7,2012
+3788,The Achy Breaky Hearts,Romance,2,2002
+3789,The Hows of Us,Thriller,4,2012
+3790,The Healing,Thriller,10,2005
+3791,Barcelona: A Love Untold,Comedy,1,2003
+3792,Miss Granny,Comedy,1,2002
+3793,In My Life,Drama,9,2009
+3794,Three Words to Forever,Drama,6,2011
+3795,Sukob,Comedy,7,2012
+3796,Starting Over Again,Thriller,9,2009
+3797,The Breakup Playlist,Horror,9,2009
+3798,Bride for Rent,Comedy,9,2003
+3799,Exes Baggage,Drama,5,2011
+3800,Bride for Rent,Sci-Fi,2,2007
+3801,She's Dating the Gangster,Romance,2,2010
+3802,Everyday I Love You,Thriller,1,2005
+3803,Crazy Beautiful You,Action,7,2011
+3804,Seven Sundays,Action,7,2008
+3805,It Takes a Man and a Woman,Action,2,2011
+3806,She's Dating the Gangster,Drama,3,2012
+3807,The Mistress,Romance,8,2002
+3808,No Other Woman,Thriller,5,2002
+3809,Close to You,Drama,6,2010
+3810,Three Words to Forever,Drama,5,2006
+3811,You Changed My Life,Comedy,4,2007
+3812,You Changed My Life,Action,1,2006
+3813,The Love Affair,Horror,6,2006
+3814,My Big Love,Romance,9,2003
+3815,Kung Fu Divas,Thriller,9,2008
+3816,The Love Affair,Fantasy,8,2007
+3817,Exes Baggage,Comedy,1,2010
+3818,Kimmy Dora,Sci-Fi,4,2012
+3819,Sisterakas,Romance,9,2004
+3820,Ang Tanging Ina,Sci-Fi,8,2012
+3821,Miss Granny,Romance,4,2009
+3822,Kasal Kasali Kasalo,Drama,7,2008
+3823,Ang Tanging Ina,Sci-Fi,8,2012
+3824,The Girl in the Orange Dress,Romance,8,2009
+3825,She's Dating the Gangster,Thriller,2,2009
+3826,The Healing,Horror,4,2003
+3827,Everything About Her,Comedy,4,2009
+3828,Four Sisters and a Wedding,Drama,6,2011
+3829,The Hows of Us,Drama,1,2010
+3830,You're Still The One,Action,5,2003
+3831,My Amnesia Girl,Romance,2,2012
+3832,She's the One,Thriller,2,2009
+3833,All About Love,Thriller,5,2005
+3834,Crazy Beautiful You,Romance,1,2004
+3835,The Mistress,Action,3,2011
+3836,Feng Shui,Thriller,9,2008
+3837,My Amnesia Girl,Drama,3,2010
+3838,You're Still The One,Action,6,2007
+3839,The Love Affair,Action,8,2005
+3840,Here Comes the Bride,Drama,9,2004
+3841,Can't Help Falling In Love,Horror,9,2012
+3842,Can't Help Falling In Love,Fantasy,4,2010
+3843,Close to You,Drama,5,2010
+3844,Exes Baggage,Comedy,8,2008
+3845,My Amnesia Girl,Comedy,9,2011
+3846,Four Sisters and a Wedding,Sci-Fi,10,2012
+3847,The Achy Breaky Hearts,Fantasy,1,2009
+3848,Kung Fu Divas,Drama,5,2002
+3849,Dekada '70,Sci-Fi,4,2003
+3850,Four Sisters and a Wedding,Horror,7,2005
+3851,Sisterakas,Romance,10,2011
+3852,No Other Woman,Thriller,4,2002
+3853,A Second Chance,Thriller,4,2011
+3854,Four Sisters and a Wedding,Action,1,2006
+3855,My Big Love,Fantasy,1,2005
+3856,Kasal Kasali Kasalo,Thriller,9,2004
+3857,Three Words to Forever,Action,7,2003
+3858,Three Words to Forever,Thriller,9,2003
+3859,Can't Help Falling In Love,Romance,6,2003
+3860,You Changed My Life,Romance,9,2005
+3861,Suddenly It's Magic,Romance,8,2006
+3862,Here Comes the Bride,Horror,7,2004
+3863,In My Life,Drama,3,2009
+3864,Crazy Beautiful You,Horror,3,2005
+3865,Here Comes the Bride,Comedy,7,2008
+3866,Bride for Rent,Comedy,8,2002
+3867,The Breakup Playlist,Horror,5,2005
+3868,Feng Shui,Sci-Fi,7,2007
+3869,In My Life,Sci-Fi,6,2004
+3870,You're Still The One,Fantasy,10,2004
+3871,Ex with Benefits,Drama,3,2005
+3872,Kimmy Dora,Fantasy,5,2002
+3873,A Second Chance,Horror,3,2002
+3874,Close to You,Romance,4,2011
+3875,Everyday I Love You,Horror,10,2005
+3876,My Ex and Whys,Action,2,2008
+3877,She's Dating the Gangster,Fantasy,4,2007
+3878,No Other Woman,Horror,10,2005
+3879,Sukob,Comedy,1,2003
+3880,My Big Love,Comedy,8,2006
+3881,In My Life,Fantasy,6,2011
+3882,Sukob,Thriller,3,2010
+3883,The Achy Breaky Hearts,Sci-Fi,9,2010
+3884,The Mistress,Thriller,3,2004
+3885,No Other Woman,Comedy,7,2006
+3886,The Mistress,Action,7,2006
+3887,Praybeyt Benjamin,Comedy,6,2006
+3888,Feng Shui,Thriller,2,2004
+3889,The Breakup Playlist,Sci-Fi,9,2003
+3890,The Unmarried Wife,Romance,7,2010
+3891,Dekada '70,Thriller,7,2005
+3892,Starting Over Again,Drama,7,2007
+3893,Ang Tanging Ina,Fantasy,4,2007
+3894,In My Life,Sci-Fi,2,2006
+3895,Kung Fu Divas,Drama,2,2002
+3896,The Love Affair,Fantasy,9,2010
+3897,Tanging Yaman,Horror,1,2005
+3898,Ex with Benefits,Action,4,2007
+3899,Miss Granny,Action,9,2012
+3900,One More Chance,Horror,2,2012
+3901,You're Still The One,Action,9,2005
+3902,Tanging Yaman,Comedy,3,2007
+3903,Alone/Together,Romance,6,2004
+3904,The Girl in the Orange Dress,Fantasy,10,2008
+3905,Seven Sundays,Sci-Fi,6,2002
+3906,Kung Fu Divas,Fantasy,9,2012
+3907,Here Comes the Bride,Thriller,1,2008
+3908,Bride for Rent,Comedy,2,2008
+3909,A Second Chance,Sci-Fi,2,2005
+3910,The Achy Breaky Hearts,Romance,7,2007
+3911,Starting Over Again,Romance,8,2005
+3912,In My Life,Fantasy,7,2010
+3913,The Mistress,Sci-Fi,1,2005
+3914,All About Love,Action,10,2006
+3915,It Takes a Man and a Woman,Fantasy,1,2010
+3916,Feng Shui,Action,8,2002
+3917,Everyday I Love You,Drama,3,2002
+3918,Ang Tanging Ina,Romance,9,2011
+3919,My Big Love,Romance,2,2004
+3920,Love You to the Stars and Back,Drama,1,2003
+3921,The Healing,Action,6,2003
+3922,Kung Fu Divas,Fantasy,8,2004
+3923,Everything About Her,Horror,3,2005
+3924,The Girl in the Orange Dress,Sci-Fi,1,2004
+3925,She's Dating the Gangster,Thriller,1,2010
+3926,Sukob,Horror,9,2003
+3927,Feng Shui,Comedy,2,2007
+3928,Exes Baggage,Thriller,4,2009
+3929,A Very Special Love,Drama,4,2005
+3930,A Very Special Love,Drama,9,2009
+3931,The Love Affair,Horror,3,2003
+3932,Seven Sundays,Sci-Fi,3,2008
+3933,Starting Over Again,Fantasy,9,2007
+3934,Miss Granny,Romance,5,2005
+3935,Bride for Rent,Drama,10,2012
+3936,Miss Granny,Comedy,4,2011
+3937,Ang Tanging Ina,Action,5,2005
+3938,Seven Sundays,Sci-Fi,5,2010
+3939,The Achy Breaky Hearts,Romance,8,2005
+3940,Ex with Benefits,Horror,10,2006
+3941,Four Sisters and a Wedding,Comedy,9,2004
+3942,The Love Affair,Thriller,5,2002
+3943,The Unmarried Wife,Thriller,8,2006
+3944,Close to You,Action,5,2010
+3945,The Hows of Us,Romance,1,2012
+3946,You're Still The One,Sci-Fi,2,2009
+3947,Ang Tanging Ina,Drama,6,2009
+3948,Everyday I Love You,Drama,9,2008
+3949,Bride for Rent,Sci-Fi,6,2005
+3950,Dekada '70,Comedy,7,2007
+3951,She's Dating the Gangster,Comedy,8,2006
+3952,Dekada '70,Fantasy,3,2003
+3953,Bride for Rent,Romance,2,2010
+3954,It Takes a Man and a Woman,Romance,2,2012
+3955,Love You to the Stars and Back,Action,5,2010
+3956,The Love Affair,Romance,3,2010
+3957,All About Love,Comedy,4,2005
+3958,Kimmy Dora,Romance,10,2005
+3959,Tanging Yaman,Sci-Fi,1,2011
+3960,The Hows of Us,Comedy,8,2003
+3961,The Hows of Us,Thriller,5,2007
+3962,Praybeyt Benjamin,Drama,3,2010
+3963,My Amnesia Girl,Sci-Fi,8,2011
+3964,Suddenly It's Magic,Comedy,9,2012
+3965,The Girl in the Orange Dress,Action,5,2004
+3966,Seven Sundays,Horror,2,2006
+3967,Four Sisters and a Wedding,Romance,6,2005
+3968,My Big Love,Thriller,1,2009
+3969,Dekada '70,Drama,10,2003
+3970,Kung Fu Divas,Drama,6,2002
+3971,The Girl in the Orange Dress,Fantasy,10,2004
+3972,My Amnesia Girl,Comedy,3,2012
+3973,The Unmarried Wife,Sci-Fi,8,2004
+3974,My Amnesia Girl,Romance,5,2006
+3975,The Girl in the Orange Dress,Action,5,2011
+3976,Feng Shui,Sci-Fi,2,2006
+3977,Four Sisters and a Wedding,Romance,8,2005
+3978,The Achy Breaky Hearts,Comedy,8,2009
+3979,The Breakup Playlist,Horror,10,2004
+3980,The Unmarried Wife,Comedy,8,2007
+3981,Alone/Together,Drama,9,2003
+3982,One More Chance,Thriller,3,2009
+3983,Miss Granny,Romance,3,2012
+3984,A Second Chance,Horror,10,2008
+3985,You Changed My Life,Sci-Fi,4,2003
+3986,My Amnesia Girl,Sci-Fi,5,2004
+3987,You're Still The One,Fantasy,9,2006
+3988,Sukob,Horror,6,2012
+3989,Tanging Yaman,Fantasy,9,2011
+3990,Feng Shui,Fantasy,3,2002
+3991,Tanging Yaman,Comedy,7,2012
+3992,Kimmy Dora,Thriller,6,2006
+3993,You're Still The One,Action,9,2010
+3994,Till I Met You,Romance,1,2010
+3995,Dekada '70,Action,6,2010
+3996,Three Words to Forever,Comedy,1,2006
+3997,Till I Met You,Comedy,4,2010
+3998,Bride for Rent,Romance,5,2008
+3999,Dekada '70,Fantasy,1,2007
+4000,Dekada '70,Fantasy,4,2005
+4001,It Takes a Man and a Woman,Drama,6,2006
+4002,Till I Met You,Action,10,2006
+4003,You Changed My Life,Horror,9,2010
+4004,The Mistress,Sci-Fi,7,2002
+4005,The Achy Breaky Hearts,Comedy,4,2003
+4006,Feng Shui,Action,9,2007
+4007,Bride for Rent,Thriller,8,2006
+4008,Love You to the Stars and Back,Thriller,4,2011
+4009,The Mistress,Romance,10,2006
+4010,Praybeyt Benjamin,Thriller,8,2007
+4011,Here Comes the Bride,Action,5,2003
+4012,The Love Affair,Action,8,2010
+4013,You're Still The One,Comedy,3,2008
+4014,The Hows of Us,Romance,7,2008
+4015,The Hows of Us,Romance,2,2012
+4016,Kimmy Dora,Thriller,2,2009
+4017,The Girl in the Orange Dress,Sci-Fi,7,2003
+4018,Bride for Rent,Drama,7,2010
+4019,Kimmy Dora,Comedy,10,2002
+4020,One More Chance,Horror,9,2008
+4021,My Big Love,Drama,2,2003
+4022,Sukob,Sci-Fi,2,2002
+4023,She's the One,Action,10,2008
+4024,You Changed My Life,Sci-Fi,2,2010
+4025,Here Comes the Bride,Drama,5,2004
+4026,Three Words to Forever,Drama,4,2006
+4027,Ex with Benefits,Comedy,4,2010
+4028,The Girl in the Orange Dress,Sci-Fi,2,2004
+4029,Ang Tanging Ina,Action,4,2003
+4030,Can't Help Falling In Love,Horror,4,2003
+4031,Four Sisters and a Wedding,Thriller,5,2002
+4032,The Love Affair,Action,1,2004
+4033,She's Dating the Gangster,Romance,6,2006
+4034,Feng Shui,Action,8,2012
+4035,Ang Tanging Ina,Romance,4,2004
+4036,All About Love,Drama,8,2007
+4037,Kimmy Dora,Fantasy,10,2008
+4038,My Amnesia Girl,Horror,8,2006
+4039,Starting Over Again,Fantasy,3,2008
+4040,The Love Affair,Horror,5,2006
+4041,Tanging Yaman,Thriller,2,2010
+4042,Ang Tanging Ina,Thriller,9,2004
+4043,Starting Over Again,Drama,8,2006
+4044,My Big Love,Sci-Fi,3,2012
+4045,Praybeyt Benjamin,Romance,7,2008
+4046,Sisterakas,Fantasy,7,2007
+4047,In My Life,Action,2,2011
+4048,Barcelona: A Love Untold,Sci-Fi,2,2012
+4049,Tanging Yaman,Comedy,5,2005
+4050,No Other Woman,Fantasy,2,2002
+4051,It Takes a Man and a Woman,Romance,4,2006
+4052,Seven Sundays,Romance,10,2012
+4053,The Mistress,Thriller,9,2004
+4054,Bride for Rent,Thriller,7,2012
+4055,Three Words to Forever,Thriller,4,2004
+4056,Feng Shui,Comedy,3,2011
+4057,A Second Chance,Romance,1,2012
+4058,Barcelona: A Love Untold,Sci-Fi,3,2010
+4059,Can't Help Falling In Love,Action,7,2008
+4060,Love You to the Stars and Back,Action,4,2002
+4061,It Takes a Man and a Woman,Drama,2,2011
+4062,A Second Chance,Thriller,5,2010
+4063,Bride for Rent,Thriller,9,2008
+4064,A Second Chance,Sci-Fi,6,2003
+4065,The Girl in the Orange Dress,Romance,6,2006
+4066,Ex with Benefits,Thriller,9,2012
+4067,Everything About Her,Action,3,2007
+4068,Kimmy Dora,Action,1,2012
+4069,You're Still The One,Fantasy,1,2003
+4070,My Amnesia Girl,Romance,10,2005
+4071,Four Sisters and a Wedding,Romance,6,2004
+4072,The Achy Breaky Hearts,Sci-Fi,6,2002
+4073,Barcelona: A Love Untold,Horror,5,2011
+4074,She's Dating the Gangster,Romance,7,2011
+4075,Close to You,Drama,3,2011
+4076,Kimmy Dora,Fantasy,6,2011
+4077,Here Comes the Bride,Drama,8,2002
+4078,Kung Fu Divas,Sci-Fi,8,2003
+4079,Sisterakas,Romance,3,2011
+4080,You're Still The One,Fantasy,1,2009
+4081,The Hows of Us,Drama,3,2011
+4082,A Very Special Love,Romance,6,2011
+4083,Here Comes the Bride,Action,7,2006
+4084,Three Words to Forever,Romance,2,2008
+4085,In My Life,Sci-Fi,6,2002
+4086,All About Love,Fantasy,6,2009
+4087,Tanging Yaman,Comedy,8,2008
+4088,My Big Love,Horror,5,2008
+4089,The Unmarried Wife,Horror,3,2003
+4090,Ang Tanging Ina,Action,2,2008
+4091,A Very Special Love,Fantasy,3,2005
+4092,She's Dating the Gangster,Thriller,2,2007
+4093,Kung Fu Divas,Thriller,5,2008
+4094,Ang Tanging Ina,Romance,8,2007
+4095,Close to You,Comedy,6,2002
+4096,Exes Baggage,Sci-Fi,2,2003
+4097,A Very Special Love,Horror,8,2005
+4098,Ex with Benefits,Horror,9,2005
+4099,Everything About Her,Thriller,4,2008
+4100,Exes Baggage,Thriller,10,2010
+4101,She's the One,Horror,10,2005
+4102,The Unmarried Wife,Fantasy,1,2003
+4103,My Big Love,Fantasy,5,2009
+4104,Feng Shui,Drama,1,2011
+4105,Love You to the Stars and Back,Fantasy,5,2012
+4106,In My Life,Romance,4,2005
+4107,She's the One,Comedy,5,2012
+4108,She's Dating the Gangster,Action,10,2002
+4109,Barcelona: A Love Untold,Action,5,2009
+4110,Bride for Rent,Horror,4,2005
+4111,The Breakup Playlist,Romance,3,2006
+4112,The Love Affair,Sci-Fi,8,2004
+4113,Feng Shui,Romance,4,2004
+4114,Sukob,Romance,7,2008
+4115,Exes Baggage,Fantasy,6,2002
+4116,It Takes a Man and a Woman,Fantasy,4,2006
+4117,You Changed My Life,Horror,8,2004
+4118,The Achy Breaky Hearts,Fantasy,10,2010
+4119,She's Dating the Gangster,Sci-Fi,9,2004
+4120,The Unmarried Wife,Romance,6,2004
+4121,She's the One,Fantasy,10,2010
+4122,Everything About Her,Sci-Fi,9,2008
+4123,Everything About Her,Action,10,2006
+4124,Kasal Kasali Kasalo,Fantasy,4,2005
+4125,The Girl in the Orange Dress,Romance,7,2009
+4126,In My Life,Sci-Fi,10,2002
+4127,My Amnesia Girl,Sci-Fi,5,2003
+4128,The Love Affair,Fantasy,8,2004
+4129,Everyday I Love You,Sci-Fi,3,2006
+4130,Ex with Benefits,Romance,9,2007
+4131,Four Sisters and a Wedding,Fantasy,4,2012
+4132,All About Love,Action,1,2004
+4133,Praybeyt Benjamin,Horror,5,2004
+4134,Four Sisters and a Wedding,Fantasy,10,2012
+4135,All About Love,Horror,5,2009
+4136,A Second Chance,Horror,3,2006
+4137,The Hows of Us,Thriller,4,2010
+4138,Everyday I Love You,Romance,3,2007
+4139,You Changed My Life,Sci-Fi,10,2008
+4140,My Amnesia Girl,Comedy,1,2010
+4141,Alone/Together,Fantasy,6,2002
+4142,Everything About Her,Fantasy,10,2006
+4143,A Second Chance,Romance,1,2004
+4144,My Big Love,Romance,5,2006
+4145,Ang Tanging Ina,Horror,6,2011
+4146,Miss Granny,Fantasy,5,2002
+4147,Ex with Benefits,Thriller,10,2008
+4148,Miss Granny,Fantasy,8,2003
+4149,The Love Affair,Romance,7,2004
+4150,Everything About Her,Fantasy,8,2008
+4151,The Unmarried Wife,Sci-Fi,2,2011
+4152,Close to You,Romance,2,2003
+4153,All About Love,Horror,9,2009
+4154,Crazy Beautiful You,Fantasy,7,2012
+4155,Dekada '70,Romance,1,2004
+4156,It Takes a Man and a Woman,Comedy,2,2012
+4157,The Healing,Fantasy,10,2011
+4158,The Mistress,Comedy,5,2006
+4159,Till I Met You,Sci-Fi,1,2003
+4160,All About Love,Romance,4,2004
+4161,She's Dating the Gangster,Thriller,10,2010
+4162,The Hows of Us,Horror,8,2008
+4163,My Big Love,Drama,6,2007
+4164,My Big Love,Romance,1,2006
+4165,My Amnesia Girl,Comedy,8,2007
+4166,The Girl in the Orange Dress,Drama,2,2011
+4167,A Second Chance,Action,7,2012
+4168,Exes Baggage,Thriller,4,2007
+4169,Dekada '70,Drama,7,2004
+4170,A Very Special Love,Sci-Fi,6,2005
+4171,A Very Special Love,Drama,8,2003
+4172,Sukob,Sci-Fi,6,2009
+4173,Tanging Yaman,Horror,8,2005
+4174,Exes Baggage,Action,3,2012
+4175,Here Comes the Bride,Fantasy,2,2004
+4176,Exes Baggage,Comedy,5,2011
+4177,You Changed My Life,Romance,9,2008
+4178,Seven Sundays,Fantasy,9,2008
+4179,Crazy Beautiful You,Drama,2,2008
+4180,Till I Met You,Sci-Fi,7,2004
+4181,Kimmy Dora,Romance,1,2007
+4182,Alone/Together,Fantasy,3,2003
+4183,Suddenly It's Magic,Romance,4,2007
+4184,You're Still The One,Thriller,6,2012
+4185,Tanging Yaman,Horror,1,2003
+4186,Sukob,Sci-Fi,6,2009
+4187,Tanging Yaman,Fantasy,5,2004
+4188,Till I Met You,Horror,2,2006
+4189,All About Love,Comedy,2,2002
+4190,Praybeyt Benjamin,Romance,3,2010
+4191,My Amnesia Girl,Horror,1,2002
+4192,Kimmy Dora,Comedy,6,2009
+4193,Kimmy Dora,Sci-Fi,8,2012
+4194,Ex with Benefits,Thriller,5,2007
+4195,Starting Over Again,Romance,3,2004
+4196,Kimmy Dora,Drama,5,2006
+4197,Bride for Rent,Action,2,2005
+4198,Crazy Beautiful You,Action,5,2006
+4199,Starting Over Again,Horror,2,2004
+4200,Kasal Kasali Kasalo,Fantasy,10,2004
+4201,The Girl in the Orange Dress,Drama,9,2004
+4202,Kung Fu Divas,Romance,9,2005
+4203,Starting Over Again,Sci-Fi,9,2002
+4204,Sisterakas,Action,9,2010
+4205,Miss Granny,Drama,7,2008
+4206,Praybeyt Benjamin,Comedy,2,2012
+4207,Kimmy Dora,Horror,8,2003
+4208,Suddenly It's Magic,Thriller,9,2005
+4209,Starting Over Again,Thriller,9,2003
+4210,Ex with Benefits,Thriller,6,2008
+4211,Crazy Beautiful You,Comedy,4,2002
+4212,Crazy Beautiful You,Drama,10,2010
+4213,A Very Special Love,Drama,6,2002
+4214,Love You to the Stars and Back,Sci-Fi,4,2002
+4215,Ex with Benefits,Action,3,2005
+4216,Kung Fu Divas,Comedy,5,2005
+4217,My Amnesia Girl,Drama,10,2007
+4218,Alone/Together,Comedy,2,2008
+4219,In My Life,Comedy,7,2002
+4220,All About Love,Thriller,6,2009
+4221,The Girl in the Orange Dress,Fantasy,1,2008
+4222,The Healing,Drama,3,2007
+4223,Everything About Her,Thriller,2,2012
+4224,Ex with Benefits,Drama,2,2002
+4225,Can't Help Falling In Love,Romance,8,2006
+4226,Alone/Together,Horror,10,2004
+4227,Alone/Together,Comedy,2,2010
+4228,Kimmy Dora,Drama,3,2007
+4229,Ex with Benefits,Comedy,7,2004
+4230,Barcelona: A Love Untold,Romance,7,2006
+4231,You're Still The One,Sci-Fi,7,2010
+4232,Sukob,Drama,10,2007
+4233,The Love Affair,Fantasy,9,2012
+4234,Miss Granny,Fantasy,2,2005
+4235,Ang Tanging Ina,Horror,7,2003
+4236,All About Love,Fantasy,5,2006
+4237,The Mistress,Thriller,10,2010
+4238,Can't Help Falling In Love,Fantasy,5,2005
+4239,Exes Baggage,Comedy,6,2007
+4240,Till I Met You,Comedy,3,2004
+4241,My Amnesia Girl,Thriller,10,2002
+4242,Can't Help Falling In Love,Sci-Fi,8,2007
+4243,Starting Over Again,Drama,7,2002
+4244,The Healing,Sci-Fi,5,2002
+4245,The Hows of Us,Horror,10,2006
+4246,No Other Woman,Comedy,3,2002
+4247,Sisterakas,Fantasy,4,2009
+4248,My Amnesia Girl,Comedy,9,2002
+4249,Seven Sundays,Horror,6,2003
+4250,Can't Help Falling In Love,Drama,10,2008
+4251,Bride for Rent,Action,9,2007
+4252,The Girl in the Orange Dress,Sci-Fi,1,2004
+4253,Crazy Beautiful You,Fantasy,2,2002
+4254,Dekada '70,Fantasy,6,2009
+4255,Kasal Kasali Kasalo,Horror,9,2005
+4256,The Unmarried Wife,Drama,7,2003
+4257,Feng Shui,Sci-Fi,8,2007
+4258,Feng Shui,Fantasy,6,2007
+4259,Crazy Beautiful You,Drama,5,2008
+4260,Feng Shui,Sci-Fi,1,2006
+4261,Suddenly It's Magic,Romance,4,2003
+4262,Four Sisters and a Wedding,Action,8,2003
+4263,Bride for Rent,Romance,3,2008
+4264,The Unmarried Wife,Comedy,3,2008
+4265,A Very Special Love,Fantasy,8,2003
+4266,She's Dating the Gangster,Comedy,8,2004
+4267,Suddenly It's Magic,Comedy,7,2006
+4268,Praybeyt Benjamin,Comedy,9,2010
+4269,The Love Affair,Romance,9,2006
+4270,Bride for Rent,Drama,1,2010
+4271,You Changed My Life,Thriller,4,2012
+4272,Miss Granny,Fantasy,3,2008
+4273,Exes Baggage,Thriller,2,2011
+4274,Ex with Benefits,Fantasy,3,2006
+4275,Miss Granny,Romance,5,2007
+4276,You're Still The One,Action,1,2010
+4277,Kimmy Dora,Sci-Fi,9,2008
+4278,The Girl in the Orange Dress,Drama,8,2012
+4279,The Girl in the Orange Dress,Comedy,3,2012
+4280,Starting Over Again,Drama,4,2010
+4281,My Big Love,Horror,8,2002
+4282,Suddenly It's Magic,Sci-Fi,9,2009
+4283,Love You to the Stars and Back,Comedy,6,2005
+4284,She's the One,Sci-Fi,7,2009
+4285,Barcelona: A Love Untold,Romance,1,2009
+4286,Sisterakas,Drama,5,2012
+4287,My Big Love,Drama,4,2012
+4288,Ex with Benefits,Romance,2,2009
+4289,Miss Granny,Action,3,2011
+4290,Everything About Her,Comedy,5,2003
+4291,The Breakup Playlist,Comedy,5,2011
+4292,Seven Sundays,Sci-Fi,9,2006
+4293,Starting Over Again,Action,9,2012
+4294,My Big Love,Horror,2,2002
+4295,The Healing,Action,6,2002
+4296,My Big Love,Horror,4,2007
+4297,One More Chance,Fantasy,6,2006
+4298,Love You to the Stars and Back,Horror,4,2009
+4299,The Breakup Playlist,Fantasy,6,2009
+4300,Sukob,Romance,3,2006
+4301,My Ex and Whys,Thriller,9,2004
+4302,Exes Baggage,Sci-Fi,5,2003
+4303,The Hows of Us,Drama,3,2002
+4304,Ang Tanging Ina,Thriller,8,2007
+4305,Exes Baggage,Sci-Fi,6,2010
+4306,One More Chance,Drama,7,2009
+4307,Alone/Together,Action,1,2011
+4308,The Love Affair,Thriller,6,2004
+4309,One More Chance,Sci-Fi,2,2002
+4310,Exes Baggage,Horror,2,2012
+4311,Alone/Together,Action,4,2003
+4312,My Ex and Whys,Horror,5,2008
+4313,Sukob,Horror,5,2006
+4314,Kung Fu Divas,Comedy,7,2011
+4315,The Love Affair,Romance,5,2002
+4316,Ex with Benefits,Comedy,8,2011
+4317,My Big Love,Romance,6,2002
+4318,One More Chance,Drama,1,2009
+4319,Seven Sundays,Comedy,3,2006
+4320,Sisterakas,Action,10,2003
+4321,Sisterakas,Thriller,3,2002
+4322,Sisterakas,Fantasy,7,2003
+4323,No Other Woman,Fantasy,4,2003
+4324,Seven Sundays,Sci-Fi,7,2006
+4325,Bride for Rent,Thriller,6,2009
+4326,A Second Chance,Horror,10,2003
+4327,Feng Shui,Drama,6,2005
+4328,She's the One,Romance,8,2010
+4329,One More Chance,Action,10,2010
+4330,The Achy Breaky Hearts,Action,5,2007
+4331,You Changed My Life,Thriller,8,2010
+4332,My Amnesia Girl,Fantasy,5,2012
+4333,Dekada '70,Drama,6,2002
+4334,My Big Love,Horror,1,2011
+4335,Here Comes the Bride,Drama,5,2009
+4336,My Amnesia Girl,Drama,3,2009
+4337,The Girl in the Orange Dress,Drama,3,2007
+4338,Four Sisters and a Wedding,Action,4,2005
+4339,The Mistress,Romance,10,2005
+4340,Kasal Kasali Kasalo,Action,7,2010
+4341,Feng Shui,Romance,7,2012
+4342,No Other Woman,Sci-Fi,3,2002
+4343,All About Love,Sci-Fi,10,2010
+4344,My Amnesia Girl,Action,4,2006
+4345,Seven Sundays,Comedy,3,2012
+4346,Suddenly It's Magic,Horror,7,2012
+4347,Dekada '70,Drama,10,2007
+4348,My Ex and Whys,Sci-Fi,8,2011
+4349,Alone/Together,Drama,1,2003
+4350,Ang Tanging Ina,Drama,4,2004
+4351,Kimmy Dora,Fantasy,3,2003
+4352,It Takes a Man and a Woman,Sci-Fi,5,2011
+4353,It Takes a Man and a Woman,Comedy,2,2006
+4354,Sisterakas,Drama,2,2010
+4355,Crazy Beautiful You,Romance,7,2002
+4356,My Ex and Whys,Thriller,6,2005
+4357,Kung Fu Divas,Romance,5,2008
+4358,Till I Met You,Comedy,8,2011
+4359,Here Comes the Bride,Sci-Fi,7,2004
+4360,Ang Tanging Ina,Romance,9,2004
+4361,She's Dating the Gangster,Thriller,10,2003
+4362,Dekada '70,Action,9,2002
+4363,Everything About Her,Fantasy,3,2012
+4364,One More Chance,Fantasy,2,2010
+4365,The Achy Breaky Hearts,Drama,8,2007
+4366,Till I Met You,Sci-Fi,8,2003
+4367,It Takes a Man and a Woman,Thriller,2,2005
+4368,Ang Tanging Ina,Romance,10,2008
+4369,It Takes a Man and a Woman,Horror,8,2003
+4370,Starting Over Again,Romance,2,2011
+4371,Alone/Together,Thriller,3,2003
+4372,The Healing,Horror,1,2007
+4373,Sisterakas,Comedy,1,2008
+4374,Praybeyt Benjamin,Comedy,10,2012
+4375,The Hows of Us,Sci-Fi,8,2008
+4376,My Amnesia Girl,Sci-Fi,1,2005
+4377,She's the One,Comedy,7,2005
+4378,A Second Chance,Romance,10,2006
+4379,She's Dating the Gangster,Drama,6,2006
+4380,My Big Love,Horror,1,2009
+4381,Starting Over Again,Comedy,1,2012
+4382,Kung Fu Divas,Horror,9,2011
+4383,One More Chance,Comedy,3,2008
+4384,No Other Woman,Thriller,3,2002
+4385,All About Love,Sci-Fi,5,2003
+4386,Love You to the Stars and Back,Drama,3,2007
+4387,My Big Love,Horror,8,2009
+4388,Can't Help Falling In Love,Horror,5,2002
+4389,Crazy Beautiful You,Drama,9,2008
+4390,Alone/Together,Horror,9,2002
+4391,Three Words to Forever,Drama,7,2005
+4392,Ex with Benefits,Action,3,2005
+4393,Kimmy Dora,Thriller,5,2002
+4394,Praybeyt Benjamin,Horror,4,2008
+4395,Praybeyt Benjamin,Action,2,2004
+4396,The Achy Breaky Hearts,Sci-Fi,1,2002
+4397,Miss Granny,Horror,6,2002
+4398,Kung Fu Divas,Drama,4,2009
+4399,Starting Over Again,Sci-Fi,4,2011
+4400,The Healing,Sci-Fi,10,2005
+4401,Kimmy Dora,Thriller,1,2010
+4402,You're Still The One,Romance,7,2006
+4403,Everything About Her,Drama,8,2010
+4404,Close to You,Thriller,6,2004
+4405,Bride for Rent,Thriller,9,2008
+4406,Love You to the Stars and Back,Comedy,2,2008
+4407,Feng Shui,Drama,2,2003
+4408,The Hows of Us,Sci-Fi,2,2008
+4409,She's Dating the Gangster,Thriller,6,2004
+4410,Till I Met You,Drama,5,2008
+4411,One More Chance,Thriller,9,2011
+4412,The Healing,Romance,6,2002
+4413,The Love Affair,Romance,4,2011
+4414,Till I Met You,Action,8,2004
+4415,Exes Baggage,Drama,7,2006
+4416,The Love Affair,Comedy,2,2005
+4417,Tanging Yaman,Sci-Fi,6,2002
+4418,Miss Granny,Drama,3,2004
+4419,In My Life,Comedy,9,2012
+4420,Feng Shui,Horror,5,2009
+4421,No Other Woman,Romance,4,2012
+4422,Everyday I Love You,Romance,2,2007
+4423,No Other Woman,Drama,3,2005
+4424,Close to You,Drama,2,2002
+4425,My Ex and Whys,Comedy,3,2007
+4426,It Takes a Man and a Woman,Drama,9,2005
+4427,Barcelona: A Love Untold,Fantasy,3,2006
+4428,Can't Help Falling In Love,Thriller,4,2009
+4429,The Achy Breaky Hearts,Fantasy,9,2010
+4430,The Mistress,Thriller,4,2010
+4431,The Breakup Playlist,Thriller,4,2002
+4432,Here Comes the Bride,Horror,10,2003
+4433,My Amnesia Girl,Romance,9,2009
+4434,A Very Special Love,Thriller,1,2012
+4435,Ang Tanging Ina,Thriller,7,2009
+4436,Kimmy Dora,Sci-Fi,10,2012
+4437,You're Still The One,Romance,5,2005
+4438,Sukob,Romance,5,2010
+4439,She's Dating the Gangster,Fantasy,3,2003
+4440,One More Chance,Action,4,2009
+4441,The Healing,Horror,10,2008
+4442,It Takes a Man and a Woman,Fantasy,8,2006
+4443,Praybeyt Benjamin,Thriller,1,2010
+4444,The Unmarried Wife,Sci-Fi,2,2011
+4445,My Amnesia Girl,Thriller,3,2008
+4446,Everyday I Love You,Comedy,4,2011
+4447,Till I Met You,Thriller,10,2009
+4448,Alone/Together,Action,4,2003
+4449,Ex with Benefits,Comedy,2,2003
+4450,Ang Tanging Ina,Sci-Fi,6,2012
+4451,The Unmarried Wife,Horror,2,2005
+4452,Feng Shui,Romance,5,2008
+4453,She's Dating the Gangster,Romance,10,2005
+4454,The Unmarried Wife,Comedy,7,2009
+4455,No Other Woman,Thriller,10,2009
+4456,Ex with Benefits,Action,5,2009
+4457,She's the One,Drama,1,2007
+4458,Miss Granny,Romance,9,2011
+4459,Love You to the Stars and Back,Action,8,2006
+4460,Suddenly It's Magic,Fantasy,10,2008
+4461,Love You to the Stars and Back,Comedy,4,2012
+4462,Kasal Kasali Kasalo,Horror,7,2003
+4463,No Other Woman,Action,7,2004
+4464,Till I Met You,Thriller,7,2008
+4465,Can't Help Falling In Love,Sci-Fi,1,2008
+4466,She's the One,Comedy,6,2012
+4467,Exes Baggage,Horror,7,2010
+4468,Close to You,Comedy,8,2002
+4469,Close to You,Romance,10,2008
+4470,Dekada '70,Sci-Fi,10,2010
+4471,Here Comes the Bride,Sci-Fi,1,2002
+4472,Till I Met You,Romance,1,2003
+4473,Four Sisters and a Wedding,Romance,1,2003
+4474,My Ex and Whys,Action,5,2008
+4475,Can't Help Falling In Love,Sci-Fi,6,2002
+4476,In My Life,Drama,4,2007
+4477,You're Still The One,Action,9,2002
+4478,Praybeyt Benjamin,Horror,9,2002
+4479,Praybeyt Benjamin,Sci-Fi,1,2011
+4480,Sukob,Horror,7,2010
+4481,The Hows of Us,Drama,1,2009
+4482,Bride for Rent,Romance,3,2008
+4483,Ex with Benefits,Sci-Fi,2,2006
+4484,Ang Tanging Ina,Action,5,2004
+4485,Three Words to Forever,Drama,6,2004
+4486,Seven Sundays,Thriller,6,2011
+4487,The Breakup Playlist,Drama,8,2012
+4488,My Ex and Whys,Romance,9,2004
+4489,Close to You,Drama,2,2002
+4490,Dekada '70,Fantasy,9,2009
+4491,The Breakup Playlist,Action,3,2012
+4492,Dekada '70,Comedy,3,2002
+4493,Here Comes the Bride,Fantasy,8,2006
+4494,Dekada '70,Fantasy,8,2002
+4495,It Takes a Man and a Woman,Romance,9,2002
+4496,Sisterakas,Action,6,2011
+4497,Ex with Benefits,Drama,9,2008
+4498,Praybeyt Benjamin,Romance,8,2004
+4499,Ang Tanging Ina,Horror,5,2006
+4500,Barcelona: A Love Untold,Romance,8,2010
+4501,Exes Baggage,Comedy,3,2004
+4502,Ang Tanging Ina,Sci-Fi,5,2002
+4503,Here Comes the Bride,Horror,10,2003
+4504,Starting Over Again,Sci-Fi,9,2009
+4505,A Second Chance,Horror,3,2004
+4506,No Other Woman,Thriller,2,2011
+4507,Seven Sundays,Sci-Fi,7,2007
+4508,Kasal Kasali Kasalo,Romance,9,2009
+4509,All About Love,Comedy,1,2010
+4510,Till I Met You,Comedy,5,2008
+4511,Crazy Beautiful You,Sci-Fi,2,2004
+4512,Sukob,Drama,1,2008
+4513,The Achy Breaky Hearts,Thriller,10,2003
+4514,Everyday I Love You,Horror,5,2009
+4515,Kasal Kasali Kasalo,Sci-Fi,8,2008
+4516,Sukob,Fantasy,7,2008
+4517,Kasal Kasali Kasalo,Sci-Fi,2,2003
+4518,Kimmy Dora,Drama,9,2002
+4519,You Changed My Life,Romance,9,2006
+4520,Seven Sundays,Romance,3,2011
+4521,Kasal Kasali Kasalo,Thriller,9,2004
+4522,Tanging Yaman,Romance,6,2002
+4523,Close to You,Sci-Fi,5,2009
+4524,Praybeyt Benjamin,Action,4,2009
+4525,A Very Special Love,Sci-Fi,6,2005
+4526,Tanging Yaman,Fantasy,5,2010
+4527,In My Life,Fantasy,8,2010
+4528,Kasal Kasali Kasalo,Sci-Fi,10,2002
+4529,A Very Special Love,Horror,5,2007
+4530,Suddenly It's Magic,Comedy,9,2008
+4531,Crazy Beautiful You,Thriller,7,2012
+4532,Here Comes the Bride,Horror,8,2007
+4533,Sisterakas,Comedy,5,2002
+4534,A Second Chance,Drama,9,2004
+4535,In My Life,Romance,5,2006
+4536,The Healing,Drama,10,2008
+4537,The Healing,Comedy,5,2009
+4538,The Girl in the Orange Dress,Drama,9,2008
+4539,Kimmy Dora,Thriller,2,2005
+4540,Sisterakas,Sci-Fi,9,2002
+4541,In My Life,Drama,3,2003
+4542,The Hows of Us,Sci-Fi,3,2003
+4543,The Love Affair,Horror,3,2003
+4544,Praybeyt Benjamin,Fantasy,3,2002
+4545,Love You to the Stars and Back,Thriller,7,2003
+4546,The Love Affair,Thriller,8,2007
+4547,Seven Sundays,Action,1,2011
+4548,My Big Love,Comedy,2,2003
+4549,Close to You,Horror,6,2006
+4550,My Amnesia Girl,Fantasy,3,2005
+4551,Exes Baggage,Romance,10,2008
+4552,It Takes a Man and a Woman,Fantasy,7,2012
+4553,Kasal Kasali Kasalo,Horror,1,2004
+4554,You Changed My Life,Sci-Fi,10,2011
+4555,The Breakup Playlist,Sci-Fi,9,2003
+4556,Ang Tanging Ina,Drama,2,2009
+4557,Tanging Yaman,Thriller,3,2004
+4558,My Amnesia Girl,Comedy,9,2007
+4559,A Second Chance,Drama,5,2011
+4560,The Love Affair,Sci-Fi,5,2009
+4561,Close to You,Drama,7,2010
+4562,Bride for Rent,Sci-Fi,9,2007
+4563,My Amnesia Girl,Drama,9,2011
+4564,Four Sisters and a Wedding,Sci-Fi,9,2002
+4565,No Other Woman,Comedy,10,2012
+4566,You're Still The One,Fantasy,7,2002
+4567,Dekada '70,Comedy,3,2002
+4568,One More Chance,Action,4,2004
+4569,Kung Fu Divas,Fantasy,8,2008
+4570,The Breakup Playlist,Horror,4,2003
+4571,Sukob,Drama,4,2007
+4572,The Hows of Us,Drama,8,2009
+4573,Till I Met You,Fantasy,8,2004
+4574,In My Life,Romance,6,2004
+4575,Sisterakas,Drama,9,2009
+4576,Kasal Kasali Kasalo,Action,6,2010
+4577,My Big Love,Thriller,3,2007
+4578,Bride for Rent,Sci-Fi,2,2012
+4579,A Second Chance,Sci-Fi,5,2007
+4580,Can't Help Falling In Love,Horror,8,2010
+4581,Three Words to Forever,Romance,3,2009
+4582,Barcelona: A Love Untold,Sci-Fi,1,2003
+4583,Crazy Beautiful You,Romance,3,2008
+4584,Exes Baggage,Horror,3,2008
+4585,The Mistress,Thriller,5,2006
+4586,No Other Woman,Horror,2,2004
+4587,My Big Love,Thriller,7,2005
+4588,Till I Met You,Comedy,9,2011
+4589,Exes Baggage,Thriller,6,2004
+4590,Kasal Kasali Kasalo,Fantasy,6,2009
+4591,The Healing,Sci-Fi,3,2004
+4592,Ang Tanging Ina,Romance,8,2007
+4593,The Mistress,Fantasy,7,2005
+4594,My Ex and Whys,Sci-Fi,10,2009
+4595,A Second Chance,Horror,9,2002
+4596,Sisterakas,Thriller,9,2006
+4597,Kasal Kasali Kasalo,Action,3,2012
+4598,The Achy Breaky Hearts,Romance,6,2006
+4599,Sukob,Thriller,9,2008
+4600,She's the One,Comedy,5,2004
+4601,A Very Special Love,Action,9,2007
+4602,Ex with Benefits,Comedy,10,2005
+4603,The Hows of Us,Drama,5,2008
+4604,Can't Help Falling In Love,Fantasy,6,2002
+4605,A Second Chance,Romance,8,2003
+4606,Close to You,Action,3,2002
+4607,Feng Shui,Romance,1,2012
+4608,Crazy Beautiful You,Fantasy,9,2010
+4609,The Breakup Playlist,Horror,7,2008
+4610,Seven Sundays,Thriller,3,2007
+4611,Tanging Yaman,Comedy,8,2004
+4612,Here Comes the Bride,Romance,10,2004
+4613,You're Still The One,Fantasy,10,2010
+4614,The Hows of Us,Drama,6,2012
+4615,Sisterakas,Sci-Fi,7,2005
+4616,The Healing,Sci-Fi,1,2011
+4617,Miss Granny,Horror,1,2004
+4618,Sukob,Thriller,3,2005
+4619,The Girl in the Orange Dress,Horror,10,2002
+4620,The Love Affair,Comedy,3,2004
+4621,Seven Sundays,Drama,6,2007
+4622,Tanging Yaman,Fantasy,8,2006
+4623,Sukob,Fantasy,9,2011
+4624,Love You to the Stars and Back,Sci-Fi,7,2009
+4625,Everything About Her,Comedy,2,2012
+4626,No Other Woman,Horror,10,2009
+4627,Everyday I Love You,Comedy,3,2011
+4628,The Healing,Fantasy,8,2009
+4629,The Healing,Sci-Fi,9,2011
+4630,No Other Woman,Fantasy,2,2003
+4631,She's the One,Sci-Fi,7,2012
+4632,My Amnesia Girl,Comedy,2,2003
+4633,You're Still The One,Horror,10,2004
+4634,Ex with Benefits,Action,2,2008
+4635,In My Life,Thriller,8,2005
+4636,The Mistress,Comedy,1,2007
+4637,My Big Love,Comedy,2,2002
+4638,Tanging Yaman,Comedy,6,2008
+4639,Seven Sundays,Action,6,2012
+4640,Ang Tanging Ina,Romance,10,2011
+4641,Barcelona: A Love Untold,Comedy,1,2004
+4642,It Takes a Man and a Woman,Action,7,2006
+4643,Suddenly It's Magic,Fantasy,7,2009
+4644,Three Words to Forever,Drama,1,2008
+4645,The Hows of Us,Fantasy,5,2009
+4646,The Unmarried Wife,Action,7,2011
+4647,Till I Met You,Comedy,6,2012
+4648,Everything About Her,Comedy,1,2012
+4649,Here Comes the Bride,Comedy,2,2009
+4650,The Achy Breaky Hearts,Action,9,2011
+4651,Three Words to Forever,Thriller,1,2010
+4652,Suddenly It's Magic,Fantasy,10,2010
+4653,Here Comes the Bride,Action,4,2007
+4654,Kung Fu Divas,Thriller,5,2003
+4655,Three Words to Forever,Horror,9,2012
+4656,You Changed My Life,Drama,8,2009
+4657,The Hows of Us,Horror,10,2007
+4658,All About Love,Fantasy,8,2011
+4659,Everyday I Love You,Horror,8,2011
+4660,Love You to the Stars and Back,Action,8,2005
+4661,Praybeyt Benjamin,Action,10,2012
+4662,Barcelona: A Love Untold,Horror,4,2007
+4663,The Healing,Comedy,9,2008
+4664,Kasal Kasali Kasalo,Romance,1,2006
+4665,Starting Over Again,Thriller,2,2012
+4666,The Mistress,Romance,1,2012
+4667,One More Chance,Fantasy,1,2008
+4668,Feng Shui,Drama,1,2004
+4669,Feng Shui,Comedy,9,2012
+4670,The Breakup Playlist,Horror,6,2007
+4671,It Takes a Man and a Woman,Fantasy,10,2002
+4672,Seven Sundays,Comedy,10,2004
+4673,Kimmy Dora,Action,6,2002
+4674,Sisterakas,Fantasy,5,2009
+4675,The Unmarried Wife,Thriller,2,2005
+4676,Starting Over Again,Sci-Fi,8,2008
+4677,My Big Love,Thriller,1,2010
+4678,Kasal Kasali Kasalo,Sci-Fi,10,2006
+4679,Alone/Together,Thriller,7,2009
+4680,Here Comes the Bride,Comedy,10,2009
+4681,Starting Over Again,Horror,5,2008
+4682,No Other Woman,Fantasy,7,2004
+4683,It Takes a Man and a Woman,Sci-Fi,8,2003
+4684,Dekada '70,Drama,7,2005
+4685,It Takes a Man and a Woman,Action,2,2010
+4686,Exes Baggage,Action,5,2004
+4687,Sisterakas,Comedy,10,2005
+4688,Feng Shui,Fantasy,6,2011
+4689,Close to You,Comedy,3,2006
+4690,She's Dating the Gangster,Comedy,1,2004
+4691,The Girl in the Orange Dress,Drama,10,2010
+4692,Suddenly It's Magic,Sci-Fi,1,2003
+4693,The Unmarried Wife,Fantasy,7,2008
+4694,A Second Chance,Thriller,2,2007
+4695,The Mistress,Action,6,2011
+4696,Suddenly It's Magic,Action,6,2003
+4697,Ang Tanging Ina,Thriller,1,2012
+4698,She's the One,Sci-Fi,10,2006
+4699,Seven Sundays,Fantasy,2,2003
+4700,Suddenly It's Magic,Action,6,2009
+4701,She's Dating the Gangster,Horror,3,2007
+4702,Sisterakas,Horror,7,2005
+4703,Miss Granny,Thriller,7,2003
+4704,Kasal Kasali Kasalo,Thriller,5,2012
+4705,Bride for Rent,Sci-Fi,1,2008
+4706,Ex with Benefits,Drama,3,2006
+4707,Dekada '70,Fantasy,6,2008
+4708,The Unmarried Wife,Horror,5,2005
+4709,Kung Fu Divas,Drama,6,2012
+4710,Barcelona: A Love Untold,Romance,7,2007
+4711,Tanging Yaman,Fantasy,7,2003
+4712,Kasal Kasali Kasalo,Drama,5,2011
+4713,No Other Woman,Romance,5,2007
+4714,My Amnesia Girl,Drama,10,2009
+4715,Can't Help Falling In Love,Comedy,2,2009
+4716,Love You to the Stars and Back,Sci-Fi,2,2008
+4717,Ang Tanging Ina,Drama,8,2010
+4718,Sisterakas,Drama,10,2006
+4719,Suddenly It's Magic,Comedy,7,2003
+4720,In My Life,Horror,9,2004
+4721,Alone/Together,Horror,8,2005
+4722,Kung Fu Divas,Romance,7,2008
+4723,Here Comes the Bride,Action,9,2009
+4724,Miss Granny,Romance,2,2002
+4725,Sisterakas,Fantasy,8,2005
+4726,Crazy Beautiful You,Drama,7,2004
+4727,In My Life,Thriller,7,2003
+4728,Ang Tanging Ina,Horror,6,2003
+4729,A Very Special Love,Romance,3,2011
+4730,Sukob,Action,10,2011
+4731,Barcelona: A Love Untold,Romance,10,2008
+4732,The Healing,Comedy,7,2006
+4733,Ang Tanging Ina,Comedy,2,2006
+4734,She's the One,Comedy,6,2006
+4735,Four Sisters and a Wedding,Sci-Fi,3,2002
+4736,Suddenly It's Magic,Action,2,2008
+4737,The Achy Breaky Hearts,Fantasy,6,2002
+4738,The Girl in the Orange Dress,Drama,5,2003
+4739,She's Dating the Gangster,Action,1,2004
+4740,You Changed My Life,Thriller,5,2006
+4741,A Second Chance,Comedy,4,2005
+4742,All About Love,Horror,8,2009
+4743,Starting Over Again,Horror,9,2009
+4744,Ex with Benefits,Fantasy,5,2006
+4745,The Breakup Playlist,Sci-Fi,3,2005
+4746,All About Love,Fantasy,5,2003
+4747,My Ex and Whys,Sci-Fi,2,2007
+4748,Sukob,Horror,7,2012
+4749,Love You to the Stars and Back,Thriller,2,2009
+4750,Till I Met You,Sci-Fi,4,2005
+4751,The Mistress,Comedy,4,2005
+4752,The Healing,Romance,6,2004
+4753,You're Still The One,Drama,6,2002
+4754,You're Still The One,Comedy,10,2004
+4755,My Amnesia Girl,Comedy,9,2011
+4756,The Unmarried Wife,Thriller,4,2003
+4757,My Ex and Whys,Sci-Fi,1,2011
+4758,Kasal Kasali Kasalo,Action,1,2004
+4759,The Mistress,Fantasy,8,2010
+4760,Feng Shui,Comedy,10,2006
+4761,She's Dating the Gangster,Comedy,5,2010
+4762,The Healing,Thriller,6,2006
+4763,Sisterakas,Action,8,2011
+4764,You Changed My Life,Drama,7,2009
+4765,The Girl in the Orange Dress,Horror,9,2009
+4766,A Second Chance,Horror,10,2006
+4767,A Very Special Love,Fantasy,2,2006
+4768,Kung Fu Divas,Thriller,4,2009
+4769,Ex with Benefits,Thriller,4,2002
+4770,She's the One,Comedy,7,2003
+4771,Seven Sundays,Action,8,2009
+4772,The Mistress,Sci-Fi,5,2012
+4773,In My Life,Horror,3,2010
+4774,Bride for Rent,Action,10,2002
+4775,It Takes a Man and a Woman,Comedy,7,2007
+4776,Can't Help Falling In Love,Comedy,6,2010
+4777,All About Love,Action,10,2003
+4778,The Mistress,Horror,7,2010
+4779,It Takes a Man and a Woman,Sci-Fi,10,2007
+4780,She's Dating the Gangster,Romance,2,2007
+4781,The Achy Breaky Hearts,Action,6,2003
+4782,The Healing,Fantasy,8,2006
+4783,Crazy Beautiful You,Action,10,2006
+4784,She's Dating the Gangster,Thriller,10,2002
+4785,Sukob,Sci-Fi,5,2011
+4786,In My Life,Thriller,9,2005
+4787,You're Still The One,Action,8,2005
+4788,Ang Tanging Ina,Drama,2,2008
+4789,Miss Granny,Thriller,9,2010
+4790,Till I Met You,Drama,5,2011
+4791,Crazy Beautiful You,Sci-Fi,3,2007
+4792,The Unmarried Wife,Action,4,2005
+4793,Alone/Together,Fantasy,4,2004
+4794,Alone/Together,Fantasy,10,2003
+4795,The Mistress,Drama,6,2006
+4796,In My Life,Sci-Fi,6,2006
+4797,You Changed My Life,Sci-Fi,4,2010
+4798,Sisterakas,Comedy,3,2002
+4799,Starting Over Again,Fantasy,7,2002
+4800,The Mistress,Romance,2,2008
+4801,You Changed My Life,Action,1,2010
+4802,The Unmarried Wife,Action,9,2012
+4803,Crazy Beautiful You,Thriller,6,2005
+4804,Exes Baggage,Horror,9,2005
+4805,Four Sisters and a Wedding,Action,1,2004
+4806,The Unmarried Wife,Horror,10,2008
+4807,Praybeyt Benjamin,Horror,10,2004
+4808,Sisterakas,Romance,8,2007
+4809,The Healing,Romance,1,2006
+4810,Everyday I Love You,Drama,6,2010
+4811,My Big Love,Romance,3,2004
+4812,Three Words to Forever,Horror,1,2005
+4813,You Changed My Life,Drama,10,2011
+4814,She's Dating the Gangster,Comedy,2,2002
+4815,Sisterakas,Drama,4,2007
+4816,Alone/Together,Thriller,9,2008
+4817,Everything About Her,Comedy,1,2009
+4818,Sisterakas,Comedy,8,2006
+4819,The Unmarried Wife,Horror,3,2008
+4820,The Healing,Comedy,7,2009
+4821,Exes Baggage,Drama,10,2002
+4822,Here Comes the Bride,Comedy,10,2009
+4823,She's Dating the Gangster,Drama,4,2004
+4824,My Amnesia Girl,Sci-Fi,2,2011
+4825,All About Love,Sci-Fi,1,2002
+4826,Seven Sundays,Fantasy,5,2008
+4827,Alone/Together,Action,6,2003
+4828,Exes Baggage,Comedy,5,2006
+4829,A Second Chance,Drama,3,2010
+4830,In My Life,Comedy,7,2009
+4831,In My Life,Thriller,7,2005
+4832,No Other Woman,Action,1,2012
+4833,Everyday I Love You,Drama,8,2012
+4834,No Other Woman,Thriller,8,2011
+4835,You Changed My Life,Thriller,1,2008
+4836,Sukob,Fantasy,6,2006
+4837,Starting Over Again,Comedy,7,2004
+4838,Barcelona: A Love Untold,Comedy,10,2010
+4839,Everything About Her,Thriller,9,2011
+4840,She's Dating the Gangster,Horror,10,2007
+4841,She's the One,Comedy,3,2009
+4842,Feng Shui,Horror,1,2011
+4843,Kung Fu Divas,Horror,10,2006
+4844,Sisterakas,Horror,7,2006
+4845,A Second Chance,Action,9,2004
+4846,A Very Special Love,Romance,5,2005
+4847,Ang Tanging Ina,Sci-Fi,4,2012
+4848,Tanging Yaman,Horror,5,2012
+4849,The Achy Breaky Hearts,Fantasy,10,2002
+4850,You're Still The One,Drama,3,2009
+4851,Barcelona: A Love Untold,Fantasy,8,2007
+4852,Love You to the Stars and Back,Comedy,8,2003
+4853,Everyday I Love You,Horror,9,2006
+4854,Dekada '70,Sci-Fi,10,2006
+4855,Feng Shui,Comedy,8,2003
+4856,My Amnesia Girl,Romance,8,2003
+4857,No Other Woman,Thriller,5,2006
+4858,The Love Affair,Thriller,2,2004
+4859,Bride for Rent,Horror,3,2012
+4860,Kung Fu Divas,Comedy,1,2007
+4861,Kung Fu Divas,Drama,10,2006
+4862,Three Words to Forever,Horror,3,2012
+4863,In My Life,Fantasy,7,2012
+4864,Feng Shui,Drama,10,2007
+4865,You're Still The One,Fantasy,3,2006
+4866,A Very Special Love,Action,1,2010
+4867,My Big Love,Comedy,9,2006
+4868,Suddenly It's Magic,Action,7,2008
+4869,The Unmarried Wife,Fantasy,7,2002
+4870,Sisterakas,Comedy,6,2006
+4871,All About Love,Romance,10,2008
+4872,No Other Woman,Sci-Fi,3,2007
+4873,Miss Granny,Horror,3,2004
+4874,The Hows of Us,Drama,10,2011
+4875,She's Dating the Gangster,Comedy,6,2005
+4876,Barcelona: A Love Untold,Drama,9,2004
+4877,You're Still The One,Thriller,6,2010
+4878,The Mistress,Romance,3,2007
+4879,Ang Tanging Ina,Drama,6,2004
+4880,Bride for Rent,Thriller,10,2012
+4881,Sukob,Action,4,2004
+4882,Starting Over Again,Sci-Fi,5,2006
+4883,No Other Woman,Drama,5,2003
+4884,The Unmarried Wife,Drama,6,2012
+4885,The Girl in the Orange Dress,Thriller,6,2012
+4886,Kung Fu Divas,Sci-Fi,2,2010
+4887,In My Life,Drama,2,2008
+4888,Tanging Yaman,Fantasy,6,2012
+4889,The Breakup Playlist,Action,3,2009
+4890,Barcelona: A Love Untold,Sci-Fi,8,2004
+4891,Love You to the Stars and Back,Comedy,2,2009
+4892,You're Still The One,Fantasy,4,2010
+4893,Four Sisters and a Wedding,Comedy,9,2005
+4894,She's Dating the Gangster,Action,9,2005
+4895,Dekada '70,Fantasy,6,2002
+4896,Crazy Beautiful You,Comedy,9,2010
+4897,One More Chance,Horror,10,2011
+4898,All About Love,Sci-Fi,3,2007
+4899,Seven Sundays,Sci-Fi,2,2012
+4900,The Girl in the Orange Dress,Comedy,2,2006
+4901,Four Sisters and a Wedding,Drama,4,2006
+4902,Here Comes the Bride,Fantasy,8,2006
+4903,Seven Sundays,Comedy,3,2003
+4904,You Changed My Life,Fantasy,1,2006
+4905,Sisterakas,Action,1,2005
+4906,Everything About Her,Comedy,2,2012
+4907,The Hows of Us,Thriller,3,2008
+4908,Tanging Yaman,Romance,3,2007
+4909,Here Comes the Bride,Romance,6,2011
+4910,The Unmarried Wife,Action,1,2003
+4911,Exes Baggage,Horror,3,2002
+4912,Starting Over Again,Drama,9,2007
+4913,Three Words to Forever,Drama,8,2005
+4914,No Other Woman,Drama,10,2012
+4915,In My Life,Drama,10,2008
+4916,The Breakup Playlist,Thriller,7,2003
+4917,Feng Shui,Thriller,8,2012
+4918,My Amnesia Girl,Drama,10,2008
+4919,Can't Help Falling In Love,Horror,10,2010
+4920,Kimmy Dora,Fantasy,1,2006
+4921,No Other Woman,Horror,9,2007
+4922,Seven Sundays,Horror,8,2009
+4923,You Changed My Life,Fantasy,8,2005
+4924,Bride for Rent,Sci-Fi,5,2010
+4925,Ex with Benefits,Thriller,2,2002
+4926,Sisterakas,Romance,4,2010
+4927,Three Words to Forever,Drama,5,2007
+4928,The Breakup Playlist,Comedy,2,2003
+4929,All About Love,Horror,1,2003
+4930,Till I Met You,Sci-Fi,5,2005
+4931,In My Life,Sci-Fi,3,2003
+4932,Sukob,Sci-Fi,6,2007
+4933,Seven Sundays,Comedy,6,2012
+4934,In My Life,Comedy,5,2011
+4935,Ang Tanging Ina,Fantasy,6,2006
+4936,All About Love,Comedy,6,2010
+4937,Everyday I Love You,Fantasy,5,2006
+4938,Exes Baggage,Comedy,5,2006
+4939,Miss Granny,Comedy,1,2002
+4940,The Hows of Us,Romance,8,2004
+4941,Praybeyt Benjamin,Thriller,7,2008
+4942,In My Life,Action,9,2006
+4943,A Second Chance,Action,10,2002
+4944,All About Love,Drama,4,2010
+4945,Alone/Together,Thriller,4,2002
+4946,Can't Help Falling In Love,Romance,2,2009
+4947,Here Comes the Bride,Drama,3,2006
+4948,Tanging Yaman,Romance,8,2005
+4949,Tanging Yaman,Thriller,4,2007
+4950,Here Comes the Bride,Drama,3,2012
+4951,My Ex and Whys,Thriller,2,2003
+4952,My Big Love,Thriller,3,2005
+4953,Dekada '70,Drama,5,2010
+4954,Alone/Together,Comedy,8,2005
+4955,The Girl in the Orange Dress,Drama,8,2006
+4956,Dekada '70,Fantasy,8,2006
+4957,The Unmarried Wife,Horror,7,2002
+4958,The Achy Breaky Hearts,Sci-Fi,5,2010
+4959,My Big Love,Horror,6,2008
+4960,All About Love,Drama,10,2003
+4961,In My Life,Fantasy,8,2011
+4962,One More Chance,Thriller,2,2009
+4963,The Healing,Drama,7,2002
+4964,The Girl in the Orange Dress,Fantasy,1,2008
+4965,Barcelona: A Love Untold,Romance,9,2004
+4966,Can't Help Falling In Love,Horror,5,2011
+4967,It Takes a Man and a Woman,Fantasy,6,2008
+4968,My Amnesia Girl,Sci-Fi,1,2012
+4969,She's the One,Action,2,2012
+4970,Three Words to Forever,Comedy,2,2005
+4971,Kung Fu Divas,Fantasy,8,2005
+4972,Exes Baggage,Drama,3,2012
+4973,Suddenly It's Magic,Romance,2,2006
+4974,Starting Over Again,Romance,10,2009
+4975,The Hows of Us,Fantasy,3,2008
+4976,She's the One,Action,6,2007
+4977,Can't Help Falling In Love,Thriller,5,2009
+4978,Ang Tanging Ina,Horror,2,2005
+4979,A Very Special Love,Sci-Fi,8,2010
+4980,Ex with Benefits,Thriller,3,2006
+4981,Tanging Yaman,Horror,7,2002
+4982,Exes Baggage,Drama,8,2007
+4983,Everything About Her,Drama,2,2006
+4984,Starting Over Again,Romance,2,2003
+4985,Kimmy Dora,Drama,5,2012
+4986,My Amnesia Girl,Sci-Fi,6,2010
+4987,Kung Fu Divas,Horror,7,2007
+4988,Exes Baggage,Drama,2,2009
+4989,Everyday I Love You,Drama,2,2010
+4990,Four Sisters and a Wedding,Fantasy,7,2005
+4991,Suddenly It's Magic,Drama,5,2012
+4992,A Second Chance,Fantasy,10,2005
+4993,Kimmy Dora,Romance,6,2004
+4994,Three Words to Forever,Fantasy,8,2012
+4995,My Ex and Whys,Romance,5,2008
+4996,Exes Baggage,Drama,3,2011
+4997,Sukob,Thriller,4,2005
+4998,Alone/Together,Sci-Fi,1,2006
+4999,Bride for Rent,Comedy,4,2012
+5000,The Unmarried Wife,Action,5,2010
